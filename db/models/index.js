@@ -3,6 +3,7 @@ const Song = require('./Song');
 const Week = require('./Week');
 const Country = require('./Country');
 const Rank = require('./Rank');
+const Stream = require('./Stream');
 
 Song.belongsTo(Artist);
 Artist.hasMany(Song);
@@ -29,4 +30,5 @@ module.exports = {
   Week,
   Artist,
   Rank,
+  Stream,
 };

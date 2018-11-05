@@ -1,6 +1,6 @@
 const cheerio = require('cheerio');
 const fetch = require('node-fetch');
-const { Song, Week, Artist, Country, Rank } = require('./db/models');
+const { Song, Week, Artist, Country, Rank, Stream } = require('./db/models');
 
 const fetchHTML = async address => {
   try {
@@ -44,14 +44,23 @@ const createSong = async (week, country, element, $) => {
         .find('.chart-table-streams')
         .text()
     );
-    await Rank.findOrCreate({
+    await Stream.findOrCreate({
       where: {
         rank,
         songId: song[0].id,
         weekId: week[0].id,
+        countryId: country[0].id,
         streams,
       },
     });
+    // await Rank.findOrCreate({
+    //   where: {
+    //     rank,
+    //     songId: song[0].id,
+    //     weekId: week[0].id,
+    //     streams,
+    //   },
+    // });
   } catch (error) {
     console.log(error);
   }
@@ -94,14 +103,15 @@ const delay = func => (time, ...args) =>
 
 const delayedRequest = delay(async (weeks, idx, countryData, week, $) => {
   try {
-    // console.log(week.length);
     const weekData = await Week.findOrCreate({
       where: {
         week: weeks[idx],
       },
     });
     const htmlWeek = await fetchHTML(
-      `https://spotifycharts.com/regional/global/weekly/${week}`
+      `https://spotifycharts.com/regional/${
+        countryData[0].dataValues.country
+      }/weekly/${week}`
     );
     $ = cheerio.load(htmlWeek);
     const tr = $('tbody').find('tr');
@@ -120,19 +130,23 @@ const retriveData = async () => {
     );
     let $ = cheerio.load(html);
     const weeks = getWeeks($);
-    const countries = getCountries($);
-    const countryData = await Country.findOrCreate({
-      where: {
-        country: countries[0],
-      },
+    const countriesSet = new Set(getCountries($));
+    const countries = [];
+    countriesSet.forEach(country => {
+      countries.push(country);
     });
-    // delaying the request by 2 seconds
-    for (let i = 0; i < weeks.length; i++) {
-      await delayedRequest(200, weeks, i, countryData, weeks[i], $);
+    console.log(countries[0]);
+    for (let i = 0; i < countries.length; i++) {
+      const countryData = await Country.findOrCreate({
+        where: {
+          country: countries[i],
+        },
+      });
+      // delaying the request by 2 seconds
+      for (let i = 0; i < weeks.length; i++) {
+        await delayedRequest(200, weeks, i, countryData, weeks[i], $);
+      }
     }
-    // weeks.forEach(async (week, idx) => {
-    //   await delayedRequest(200, weeks, idx, countryData, week, $);
-    // });
   } catch (error) {
     console.log(error);
   }
@@ -190,6 +204,7 @@ const song = async () => {
 };
 
 // test();
-// retriveData();
 // rank();
-song();
+// song();
+
+retriveData();
