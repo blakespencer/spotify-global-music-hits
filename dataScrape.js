@@ -203,8 +203,36 @@ const song = async () => {
   }
 };
 
+const joinTable = async () => {
+  try {
+    const array = await Stream.findAll();
+    const formattedData = array.map(ele => {
+      return { songId: ele.songId, countryId: ele.countryId };
+    });
+    const repeat = [];
+    const memo = {};
+    array.forEach(async ele => {
+      if (!memo[ele.songId]) {
+        memo[ele.songId] = ele.songId;
+        const array = await Stream.findAll({
+          where: {
+            songId: ele.songId,
+          },
+        });
+      }
+    });
+    // const ranks = [];
+    // array[0].dataValues.weeks.forEach(elem => {
+    //   ranks.push(elem.dataValues.rank);
+    // });
+    console.log(array.length);
+  } catch (error) {
+    console.log(error);
+  }
+};
+
 // test();
 // rank();
 // song();
-
-retriveData();
+joinTable();
+// retriveData();
