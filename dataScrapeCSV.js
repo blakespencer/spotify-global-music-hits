@@ -43,7 +43,7 @@ const createSong = (week, country, element, $) => {
       .find('.chart-table-streams')
       .text()
   );
-  return [artist, song, rank, streams, country, week];
+  writer.write([artist, song, rank, streams, country, week]);
 };
 
 // need find week first and then associate it to each song with rank
@@ -87,7 +87,9 @@ const delayedRequest = delay(async (idx, country, week, $) => {
       `https://spotifycharts.com/regional/${country}/weekly/${week}`
     );
     $ = cheerio.load(htmlWeek);
-    const tr = $('tbody').find('tr');
+    const tr = $('tbody')
+      .find('tr')
+      .slice(0, 10);
     tr.each(async (index, element) => {
       if (index < 10) {
         createSong(week, country, element, $);

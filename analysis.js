@@ -13,7 +13,7 @@ const fs = require('fs');
 //   console.log(response[0].artist);
 // });
 
-const stream = fs.createReadStream('test.csv');
+const stream = fs.createReadStream('spotify_data.csv');
 
 // const analyseData = data => {
 //   const uniqueSongsSet = new Set();
