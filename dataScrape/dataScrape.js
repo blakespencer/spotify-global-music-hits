@@ -1,6 +1,6 @@
 const cheerio = require('cheerio');
 const fetch = require('node-fetch');
-const { Song, Week, Artist, Country, Rank, Stream } = require('./db/models');
+const { Song, Week, Artist, Country, Rank, Stream } = require('../db/models');
 
 const fetchHTML = async address => {
   try {

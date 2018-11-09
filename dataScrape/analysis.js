@@ -13,35 +13,27 @@ const fs = require('fs');
 //   console.log(response[0].artist);
 // });
 
-const stream = fs.createReadStream('spotify_data.csv');
-
-// const analyseData = data => {
-//   const uniqueSongsSet = new Set();
-//   data.forEach(row => uniqueSongsSet.add(row[6]));
-//   const uniqueSongs = [];
-//   uniqueSongsSet.forEach(country => {
-//     uniqueSongs.push(country);
-//   });
-//   console.log(uniqueSongs.length);
-// };
+const stream = fs.createReadStream('spotify_data_top_200.csv');
 
 const header = [
-  'artist',
-  'song',
-  'rank',
-  'streams',
-  'country',
-  'week',
-  'songArtist',
+  { 0: 'artist' },
+  { 1: 'song' },
+  { 2: 'rank' },
+  { 3: 'streams' },
+  { 4: 'country' },
+  { 5: 'week' },
+  { 6: 'songArtist' },
 ];
 
 const d3analyse = data => {
   const countryNested = d3
+    // creates a nest with keys initially empty
     .nest()
-    // creates a key for countries, values will be the data with the same key
+    // creates a key for countries, values will be the data with the same key. The Key takes in a callback function
     .key(d => {
       return d[4];
     })
+    // This applys the nest operator to a specific array
     .entries(data);
 
   const countryCount = countryNested.length;
@@ -50,7 +42,7 @@ const d3analyse = data => {
     .key(d => {
       return d[6];
     })
-    // leaves is the array and then formatting to what you want it to look like
+    // leaves is the array and then formatting to what you want it to look like. The data is transformed for each set created by the keys
     .rollup(leaves => {
       return leaves.length / countryCount;
     })
@@ -78,13 +70,15 @@ const d3analyse = data => {
           return moreLeaves.length - overallAverage;
         })
         .entries(leaves);
-
+      // For each song we are looking at for each country it is in and finding the
       return {
         overallAvg: overallAverage,
         nested: leavesNested,
       };
     })
     .entries(data);
+
+  console.log('loook here', nestedDataV2[0]);
   const countriesFormat = {};
 
   // array of countries
