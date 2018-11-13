@@ -56,7 +56,7 @@ const countryCode = {
   ro: 'Romania',
   se: 'Sweden',
   sg: 'Singapore',
-  sl: 'Slovakia',
+  sk: 'Slovakia',
   sv: 'El Salvador',
   th: 'Thailand',
   tr: 'Turkey',

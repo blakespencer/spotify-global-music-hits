@@ -13,10 +13,9 @@
     <script type="text/javascript">
       //Create scale functions
       const display = dataset => {
-        console.log(d3.max(dataset, d => d.value.weekDiff));
         const w = 1200;
-        const h = 800;
-        const padding = 20;
+        const h = 600;
+        const padding = 90;
         // Normalise Data
         const xScale = d3
           .scaleBand()
@@ -32,19 +31,19 @@
         // - QUESTION: why do I have to create a reverse yScale for the y - axis?
         const yAxisScale = d3
           .scaleLinear()
-          .domain([d3.max(dataset, d => d.value.weekDiff), 0])
+          .domain([d3.max(dataset, d => d.value.weekDiff) + 10, 0])
           .range([padding, h - padding]);
 
         // Define Axis
         var xAxis = d3
           .axisBottom()
           .scale(xScale)
-          .ticks(5);
-
-        var yAxis = d3
-          .axisLeft()
-          .scale(yAxisScale)
-          .ticks(5);
+          .tickFormat((d, i) => {
+            console.log(dataset[d].value.country);
+            return countryCode[dataset[d].value.country];
+          });
+        // Here i use a new scale that is reversed
+        var yAxis = d3.axisLeft().scale(yAxisScale);
 
         const key = d => d.key;
 
@@ -69,7 +68,13 @@
           .append('g')
           .attr('class', 'x axis')
           .attr('transform', `translate(0, ${h - padding})`)
-          .call(xAxis);
+          .call(xAxis)
+          .selectAll('text')
+          .attr('y', 0)
+          .attr('x', 9)
+          .attr('dy', '.35em')
+          .attr('transform', 'rotate(90)')
+          .style('text-anchor', 'start');
 
         //Create Y axis
         svg
@@ -79,6 +84,10 @@
           .call(yAxis);
 
         d3.select('#load').text('Loaded');
+
+        d3.select('button').on('click', () => {
+          d3.selectAll();
+        });
       };
 
       display(countriesUniqueSong);
