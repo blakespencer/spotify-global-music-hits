@@ -9,189 +9,42 @@
   <body>
     <div id="load">Loading</div>
     <button>Remove All Bars</button>
+    <script src="./data.js"></script>
     <script type="text/javascript">
-      const countryCode = {
-        global: 'Global',
-        us: 'United States',
-        gb: 'Great Britain',
-        ad: 'Andorra',
-        ar: 'Argentina',
-        at: 'Austria',
-        au: 'Australia',
-        be: 'Belgium',
-        bg: 'Bulgaria',
-        bo: 'Bolivia',
-        br: 'Brazil',
-        ca: 'Canada',
-        ch: 'Switzerland',
-        cl: 'Chile',
-        co: 'Columbia',
-        cr: 'Costa Rica',
-        cy: 'Cyprus',
-        cz: 'Czech Republic',
-        de: 'Germany',
-        dk: 'Denmark',
-        do: 'Dominican Republic',
-        ec: 'Equador',
-        ee: 'Estonia',
-        es: 'Spain',
-        fi: 'Finland',
-        fr: 'France',
-        gr: 'Greece',
-        gt: 'Guatemala',
-        hk: 'Hong Kong',
-        hn: 'Honduras',
-        hu: 'Hungary',
-        id: 'Indonesia',
-        ie: 'Ireland',
-        il: 'Isreal',
-        is: 'Iceland',
-        it: 'Italy',
-        jp: 'Japan',
-        lt: 'Lithuania',
-        lu: 'Luxembourg',
-        lv: 'Latvia',
-        mc: 'Monaco',
-        mt: 'Malta',
-        mx: 'Mexico',
-        my: 'Malaysia',
-        ni: 'Nicoragua',
-        nl: 'Netherlands',
-        no: 'Norway',
-        nz: 'New Zealand',
-        pa: 'Panama',
-        pe: 'Peru',
-        ph: 'Philippines',
-        pl: 'Poland',
-        pt: 'Portugal',
-        py: 'Paraguay',
-        ro: 'Romania',
-        se: 'Sweden',
-        sg: 'Singapore',
-        sl: 'Slovakia',
-        sv: 'El Salvador',
-        th: 'Thailand',
-        tr: 'Turkey',
-        tw: 'Taiwan',
-        uy: 'Uraguay',
-        vn: 'Viet Nam',
-        za: 'South Africa',
-      };
-
-      //Width and height
-      const d3analyse = data => {
-        const countryNested = d3
-          // creates a nest with keys initially empty
-          .nest()
-          // creates a key for countries, values will be the data with the same key. The Key takes in a callback function
-          .key((d, i) => {
-            return d.country;
-          })
-          // This applys the nest operator to a specific array
-          .entries(data);
-
-        const countryCount = countryNested.length;
-
-        const nestedDataV2 = d3
-          .nest()
-          // this will create all the unique songs (default will return all the rows associated to it)
-          .key(d => {
-            return d.songArtist;
-          })
-          // leaves is the array and then formatting to what you want it to look like
-          .rollup(leaves => {
-            // defining one of the keys and values
-            const overallAverage = leaves.length / countryCount;
-            // nesting further
-            const leavesNested = d3
-              .nest()
-              // this will create all the unique countries data entry is LEAVES!!!!
-              .key(d => {
-                return d.country;
-              })
-              // formatting the values as how many countries - the average
-              .rollup(moreLeaves => {
-                return moreLeaves.length - overallAverage;
-              })
-              .entries(leaves);
-            // For each song we are looking at for each country it is in and finding the
-            return {
-              overallAvg: overallAverage,
-              nested: leavesNested,
-            };
-          })
-          .entries(data);
-
-        const countriesFormat = {};
-        const output = [];
-
-        // array of countries
-        countryNested.forEach(country => {
-          const countryName = country.key,
-            maxWeeks = {
-              songKey: 'placeholder',
-              weekDiff: -1000,
-            };
-          nestedDataV2.forEach(song => {
-            // look at its values, find the country value, if the value is greater than the weeks
-
-            const nestedSong = song.value.nested.filter(songdata => {
-              return songdata.key === countryName;
-            });
-            if (nestedSong[0]) {
-              var nestedSongData = nestedSong[0];
-              if (maxWeeks.weekDiff < nestedSongData.value) {
-                maxWeeks.songKey = song.key;
-                maxWeeks.weekDiff = nestedSongData.value;
-              }
-            }
-            countriesFormat[countryName] = maxWeeks;
-          });
-        });
-        Object.keys(countriesFormat).forEach(key => {
-          output.push({
-            country: key,
-            song: countriesFormat[key].songKey,
-            weekDiff: countriesFormat[key].weekDiff,
-          });
-        });
-        return output;
-      };
-
-      const data = [];
-
-      //Load in data
-      dataset = [];
-      d3.csv('../dataScrape/spotify_data_top_200.csv', function(d, i) {
-        d.songArtist = d.song + d.artist;
-        dataset.push(d);
-      }).then(() => {
-        const data = d3analyse(dataset);
-        console.log(data);
-        display(data);
-      });
-
-      //Print data to console as table, for verification
-      // console.table(dataset, ['date', 'average']);
-
       //Create scale functions
-      const display = data => {
+      const display = dataset => {
+        console.log(d3.max(dataset, d => d.value.weekDiff));
         const w = 1200;
-        const h = 600;
-        const padding = 10;
-
-        dataset = data.sort((a, b) => a.weekDiff - b.weekDiff);
-
+        const h = 800;
+        const padding = 20;
+        // Normalise Data
         const xScale = d3
           .scaleBand()
           .domain(d3.range(dataset.length))
-          .rangeRound([0, w])
+          .rangeRound([padding, w])
           .paddingInner(0.05);
 
         const yScale = d3
           .scaleLinear()
-          .domain([0, d3.max(dataset, d => d.weekDiff)])
-          .range([0, h]);
+          .domain([0, d3.max(dataset, d => d.value.weekDiff)])
+          .range([padding, h - padding]);
+
+        // - QUESTION: why do I have to create a reverse yScale for the y - axis?
+        const yAxisScale = d3
+          .scaleLinear()
+          .domain([d3.max(dataset, d => d.value.weekDiff), 0])
+          .range([padding, h - padding]);
+
+        // Define Axis
+        var xAxis = d3
+          .axisBottom()
+          .scale(xScale)
+          .ticks(5);
+
+        var yAxis = d3
+          .axisLeft()
+          .scale(yAxisScale)
+          .ticks(5);
 
         const key = d => d.key;
 
@@ -201,32 +54,34 @@
           .attr('width', w)
           .attr('height', h);
 
-        // svg
-        //   .selectAll('text')
-        //   .data(data)
-        //   .enter()
-        //   .append('text')
-        //   .text(
-        //     d =>
-        //       `Country ${d.country} had unique ${d.song} with average Diff ${
-        //         d.weekDiff
-        //       }`
-        //   )
-        //   .attr('y', (d, i) => i * 20);
-
         svg
           .selectAll('rect')
-          .data(dataset)
+          .data(dataset, key)
           .enter()
           .append('rect')
           .attr('x', (d, i) => xScale(i))
-          .attr('y', d => h - yScale(d.weekDiff))
+          .attr('y', d => h - yScale(d.value.weekDiff) - padding)
           .attr('width', d => xScale.bandwidth())
-          .attr('height', d => yScale(d.weekDiff))
-          .attr('fill', d => `rgb(0, 0, ${d.weekDiff * 2})`);
+          .attr('height', d => yScale(d.value.weekDiff))
+          .attr('fill', d => `rgb(0, 0, ${d.value.weekDiff * 2})`);
+
+        svg
+          .append('g')
+          .attr('class', 'x axis')
+          .attr('transform', `translate(0, ${h - padding})`)
+          .call(xAxis);
+
+        //Create Y axis
+        svg
+          .append('g')
+          .attr('class', 'y axis')
+          .attr('transform', `translate(${padding},0)`)
+          .call(yAxis);
 
         d3.select('#load').text('Loaded');
       };
+
+      display(countriesUniqueSong);
     </script>
   </body>
 </html>
