@@ -77,8 +77,6 @@ const d3analyse = data => {
       };
     })
     .entries(data);
-
-  console.log('loook here', nestedDataV2[0]);
   const countriesFormat = {};
 
   // array of countries
@@ -90,12 +88,15 @@ const d3analyse = data => {
         song: '',
         artist: '',
       };
-    nestedDataV2.forEach(song => {
+    nestedDataV2.forEach((song, i) => {
       // look at its values, find the country value, if the value is greater than the weeks
-
+      if (i === 0) {
+        console.log(song);
+      }
       const nestedSong = song.value.nested.filter(songdata => {
         return songdata.key === countryName;
       });
+
       if (nestedSong[0]) {
         var nestedSongData = nestedSong[0];
         if (maxWeeks.weekDiff < nestedSongData.value) {

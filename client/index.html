@@ -36,7 +36,7 @@
         // - QUESTION: why do I have to create a reverse yScale for the y - axis?
         const yAxisScale = d3
           .scaleLinear()
-          .domain([d3.max(dataset, d => d.value.weekDiff) + 10, 0])
+          .domain([d3.max(dataset, d => d.value.weekDiff), 0])
           .range([0, h - padding]);
 
         // Define Axis
@@ -102,8 +102,8 @@
         svg
           .append('text')
           .attr('transform', 'rotate(-90)')
-          .attr('y', padding / 2)
-          .attr('x', 0 - h / 2)
+          .attr('y', padding / 3)
+          .attr('x', -(h - padding) / 2)
           .attr('dy', '1em')
           .style('text-anchor', 'middle')
           .text('Week Difference');
@@ -122,7 +122,7 @@
             .selectAll('rect')
             .data(newData)
             .exit()
-            .transition('colour')
+            .transition('shrink')
             .delay((d, i) => i * 50)
             .duration(500)
             .attr('height', 0) // make height 0
@@ -133,5 +133,6 @@
 
       display(countriesUniqueSong);
     </script>
+    <script src="./d3Analysis.js"></script>
   </body>
 </html>
