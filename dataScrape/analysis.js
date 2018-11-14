@@ -87,6 +87,8 @@ const d3analyse = data => {
       maxWeeks = {
         songKey: 'placeholder',
         weekDiff: -1000,
+        song: '',
+        artist: '',
       };
     nestedDataV2.forEach(song => {
       // look at its values, find the country value, if the value is greater than the weeks

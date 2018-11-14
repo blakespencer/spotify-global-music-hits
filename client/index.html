@@ -8,7 +8,7 @@
   </head>
   <body>
     <div id="load">Loading</div>
-    <button>Remove All Bars</button>
+    <button id="remove">Remove All Bars</button>
     <script src="./data.js"></script>
     <script type="text/javascript">
       //Create scale functions
@@ -16,6 +16,11 @@
         const w = 1200;
         const h = 600;
         const padding = 90;
+
+        const colourScale = d3
+          .scaleSqrt()
+          .domain([0, d3.max(dataset, d => d.value.weekDiff)])
+          .range([0, 255]);
         // Normalise Data
         const xScale = d3
           .scaleBand()
@@ -26,20 +31,19 @@
         const yScale = d3
           .scaleLinear()
           .domain([0, d3.max(dataset, d => d.value.weekDiff)])
-          .range([padding, h - padding]);
+          .range([0, h - padding]);
 
         // - QUESTION: why do I have to create a reverse yScale for the y - axis?
         const yAxisScale = d3
           .scaleLinear()
           .domain([d3.max(dataset, d => d.value.weekDiff) + 10, 0])
-          .range([padding, h - padding]);
+          .range([0, h - padding]);
 
         // Define Axis
         var xAxis = d3
           .axisBottom()
           .scale(xScale)
           .tickFormat((d, i) => {
-            console.log(dataset[d].value.country);
             return countryCode[dataset[d].value.country];
           });
         // Here i use a new scale that is reversed
@@ -62,8 +66,18 @@
           .attr('y', d => h - yScale(d.value.weekDiff) - padding)
           .attr('width', d => xScale.bandwidth())
           .attr('height', d => yScale(d.value.weekDiff))
-          .attr('fill', d => `rgb(0, 0, ${d.value.weekDiff * 2})`);
-
+          .attr('fill', d => `rgb(0, 0, ${colourScale(d.value.weekDiff)})`)
+          .attr('fill', d => `rgb(0, 0, ${colourScale(d.value.weekDiff)})`)
+          .on('mouseover', function() {
+            d3.select(this).attr('fill', 'orange');
+          })
+          .on('mouseout', function(d) {
+            d3.select(this)
+              .transition()
+              .duration(250)
+              .attr('fill', `rgb(0, 0, 255)`);
+          });
+        // Creating Axis
         svg
           .append('g')
           .attr('class', 'x axis')
@@ -76,7 +90,6 @@
           .attr('transform', 'rotate(90)')
           .style('text-anchor', 'start');
 
-        //Create Y axis
         svg
           .append('g')
           .attr('class', 'y axis')
@@ -85,8 +98,36 @@
 
         d3.select('#load').text('Loaded');
 
-        d3.select('button').on('click', () => {
-          d3.selectAll();
+        // Axis names!
+        svg
+          .append('text')
+          .attr('transform', 'rotate(-90)')
+          .attr('y', padding / 2)
+          .attr('x', 0 - h / 2)
+          .attr('dy', '1em')
+          .style('text-anchor', 'middle')
+          .text('Week Difference');
+
+        svg
+          .append('text')
+          .attr('y', h - padding / 8)
+          .attr('x', w / 2)
+          .style('text-anchor', 'middle')
+          .text('Countries');
+
+        // Transition to remove all bars
+        d3.select('#remove').on('click', function() {
+          const newData = [];
+          svg
+            .selectAll('rect')
+            .data(newData)
+            .exit()
+            .transition('colour')
+            .delay((d, i) => i * 50)
+            .duration(500)
+            .attr('height', 0) // make height 0
+            .attr('y', h - padding) // move it down to the x-axis
+            .remove();
         });
       };
 
