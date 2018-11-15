@@ -16,6 +16,8 @@ const globalFilter = dataset => {
 };
 
 const d3analyse2 = data => {
+  const globalSongsObject = globalFilter(data);
+
   const countryCountData = d3
     .nest()
     // Grouping by country
@@ -65,10 +67,14 @@ const d3analyse2 = data => {
   const output = [];
   countryNested.forEach(el => {
     const country = el.key;
-    const songsUnsorted = [];
+    const songsUnsortedUnFiltered = [];
     el.value.forEach(song => {
-      songsUnsorted.push(song.value);
+      songsUnsortedUnFiltered.push(song.value);
     });
+
+    const songsUnsorted = songsUnsortedUnFiltered.filter(
+      el => globalSongsObject[el.songArtist]
+    );
     const songs = songsUnsorted
       .sort((a, b) => b.weekDiff - a.weekDiff)
       .slice(0, 10);

@@ -129,16 +129,16 @@
             .attr('height', 0) // make height 0
             .attr('y', h - padding) // move it down to the x-axis
             .remove();
+          svg
+            .selectAll('.ticks')
+            .data(newData)
+            .exit()
+            .remove();
         });
-        svg
-          .selectAll('.ticks')
-          .data(newData)
-          .exit()
-          .remove();
       };
 
       display(countriesUniqueSong);
     </script>
-    <!-- <script src="./d3Analysis.js"></script> -->
+    <script src="./d3Analysis.js"></script>
   </body>
 </html>
