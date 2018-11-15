@@ -16,56 +16,66 @@ const globalFilter = dataset => {
 };
 
 const d3analyse2 = data => {
-  const countryNested = d3
-    // creates a nest with keys initially empty
+  const countryCountData = d3
     .nest()
-    // creates a key for countries, values will be the data with the same key. The Key takes in a callback function
+    // Grouping by country
     .key((d, i) => {
       return d.country;
     })
-    // This applys the nest operator to a specific array
     .entries(data);
-  const countryCount = countryNested.length;
+  // Number of countries
+  const countryCount = countryCountData.length;
 
-  const countryNestedStreams = d3
+  const songNestedArray = d3
+    .nest()
+    // Grouping by country and then return the global average in the top 200
+    .key(d => d.songArtist)
+    .rollup(leaves => leaves.length / countryCount)
+    .entries(data);
+
+  // For every song we now have the global average weeks in the top 200
+  songsNestedObject = {};
+
+  songNestedArray.forEach(song => {
+    songsNestedObject[song.key] = song.value;
+  });
+
+  const countryNested = d3
     .nest()
     .key(d => d.country)
     .rollup(leaves => {
-      leaves.forEach(leaf => {
-        leaf.songArtist = leaf.song + leaf.artist;
-      });
-
-      const array = d3
+      return d3
         .nest()
         .key(d => d.songArtist)
-        .rollup(leaves => {
-          const totalStreams = d3.sum(leaves, d => +d.streams);
-          const { artist, country, song } = leaves[0];
-
-          const weekDiff = d3
-            .nest()
-            .key(d => d.songArtist)
-            .rollup(leaves => {
-              const overallAverage = leaves.length / countryCount;
-
-              const leavesNested = d3
-                .nest()
-                .key(d => d.country)
-                .rollup(leaves => leaves.length - overallAverage)
-                .entries(leaves);
-            })
-            .entries(data);
-
-          console.log(weekDiff[0]);
-
-          return { artist, country, song, totalStreams };
+        .rollup(moreLeaves => {
+          const chartWeeks = moreLeaves.length;
+          const globalAverage = songsNestedObject[moreLeaves[0].songArtist];
+          const { artist, song, songArtist } = moreLeaves[0];
+          return {
+            artist,
+            song,
+            songArtist,
+            weekDiff: chartWeeks - globalAverage,
+          };
         })
         .entries(leaves);
-      return array;
     })
     .entries(data);
 
-  console.log(countryNestedStreams);
+  const output = [];
+  countryNested.forEach(el => {
+    const country = el.key;
+    const songsUnsorted = [];
+    el.value.forEach(song => {
+      songsUnsorted.push(song.value);
+    });
+    const songs = songsUnsorted
+      .sort((a, b) => b.weekDiff - a.weekDiff)
+      .slice(0, 10);
+    output.push({ country, songs });
+  });
+
+  console.log(output);
 };
 
 const d3analyse = data => {
