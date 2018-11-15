@@ -4203,6 +4203,4 @@ const countriesSongsOrdered200 = [
       },
     ],
   },
-];
-
-console.log(JSON.stringify(countriesSongsOrdered200));
+].sort((a, b) => a.songs[0].weekDiff - b.songs[0].weekDiff);

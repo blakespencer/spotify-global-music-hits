@@ -10,16 +10,17 @@
     <div id="load">Loading</div>
     <button id="remove">Remove All Bars</button>
     <script src="./data.js"></script>
+    <script src="countriesSongsOrdered200.js"></script>
     <script type="text/javascript">
       //Create scale functions
       const display = dataset => {
         const w = 1200;
         const h = 600;
         const padding = 90;
-
+        console.log(d3.max(dataset, d => d.songs[0].weekDiff));
         const colourScale = d3
           .scaleSqrt()
-          .domain([0, d3.max(dataset, d => d.value.weekDiff)])
+          .domain([0, d3.max(dataset, d => d.songs[0].weekDiff)])
           .range([0, 255]);
         // Normalise Data
         const xScale = d3
@@ -30,20 +31,20 @@
 
         const yScale = d3
           .scaleLinear()
-          .domain([d3.max(dataset, d => d.value.weekDiff), 0])
+          .domain([d3.max(dataset, d => d.songs[0].weekDiff), 0])
           .range([0, h - padding]);
 
         // Define Axis
         var xAxis = d3
           .axisBottom()
           .scale(xScale)
-          .tickFormat((d, i) => {
-            return countryCode[dataset[d].value.country];
+          .tickFormat(i => {
+            return countryCode[dataset[i].country];
           });
         // Here i use a new scale that is reversed
         var yAxis = d3.axisLeft().scale(yScale);
 
-        const key = d => d.key;
+        const key = d => d.country;
 
         svg = d3
           .select('body')
@@ -57,11 +58,11 @@
           .enter()
           .append('rect')
           .attr('x', (d, i) => xScale(i))
-          .attr('y', d => yScale(d.value.weekDiff))
+          .attr('y', d => yScale(d.songs[0].weekDiff))
           .attr('width', d => xScale.bandwidth())
-          .attr('height', d => h - yScale(d.value.weekDiff) - padding)
-          .attr('fill', d => `rgb(0, 0, ${colourScale(d.value.weekDiff)})`)
-          .attr('fill', d => `rgb(0, 0, ${colourScale(d.value.weekDiff)})`)
+          .attr('height', d => h - yScale(d.songs[0].weekDiff) - padding)
+          .attr('fill', d => `rgb(0, 0, ${colourScale(d.songs[0].weekDiff)})`)
+          .attr('fill', d => `rgb(0, 0, ${colourScale(d.songs[0].weekDiff)})`)
           .on('mouseover', function() {
             d3.select(this).attr('fill', 'orange');
           })
@@ -105,8 +106,8 @@
 
         svg
           .append('text')
-          .attr('y', h - padding / 8)
-          .attr('x', w / 2)
+          .attr('y', h - padding / 15 + 5)
+          .attr('x', (w + padding) / 2)
           .style('text-anchor', 'middle')
           .text('Countries');
 
@@ -129,9 +130,11 @@
             .exit()
             .remove();
         });
+
+        // const stack = d3.stack(dataset[0].)
       };
 
-      display(countriesUniqueSong);
+      display(countriesSongsOrdered200);
     </script>
     <!-- <script src="./d3Analysis.js"></script> -->
     <!-- <script src="countriesSongsOrdered200.js"></script> -->
