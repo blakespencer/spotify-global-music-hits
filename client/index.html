@@ -30,12 +30,6 @@
 
         const yScale = d3
           .scaleLinear()
-          .domain([0, d3.max(dataset, d => d.value.weekDiff)])
-          .range([0, h - padding]);
-
-        // - QUESTION: why do I have to create a reverse yScale for the y - axis?
-        const yAxisScale = d3
-          .scaleLinear()
           .domain([d3.max(dataset, d => d.value.weekDiff), 0])
           .range([0, h - padding]);
 
@@ -47,7 +41,7 @@
             return countryCode[dataset[d].value.country];
           });
         // Here i use a new scale that is reversed
-        var yAxis = d3.axisLeft().scale(yAxisScale);
+        var yAxis = d3.axisLeft().scale(yScale);
 
         const key = d => d.key;
 
@@ -63,9 +57,9 @@
           .enter()
           .append('rect')
           .attr('x', (d, i) => xScale(i))
-          .attr('y', d => h - yScale(d.value.weekDiff) - padding)
+          .attr('y', d => yScale(d.value.weekDiff))
           .attr('width', d => xScale.bandwidth())
-          .attr('height', d => yScale(d.value.weekDiff))
+          .attr('height', d => h - yScale(d.value.weekDiff) - padding)
           .attr('fill', d => `rgb(0, 0, ${colourScale(d.value.weekDiff)})`)
           .attr('fill', d => `rgb(0, 0, ${colourScale(d.value.weekDiff)})`)
           .on('mouseover', function() {
@@ -139,6 +133,7 @@
 
       display(countriesUniqueSong);
     </script>
-    <script src="./d3Analysis.js"></script>
+    <!-- <script src="./d3Analysis.js"></script> -->
+    <!-- <script src="countriesSongsOrdered200.js"></script> -->
   </body>
 </html>

@@ -1,4 +1,4 @@
-// can include total streams of the song for that country, can compare to global (% of streams from that country to global)
+// This is Filtered with songs that have been in the global 200
 const countriesSongsOrdered200 = [
   {
     country: 'global',
@@ -4204,3 +4204,5 @@ const countriesSongsOrdered200 = [
     ],
   },
 ];
+
+console.log(JSON.stringify(countriesSongsOrdered200));

@@ -1,0 +1,4162 @@
+[
+  {
+    "country": "global",
+    "songs": [
+      {
+        "artist": "Travis Scott",
+        "song": "goosebumps",
+        "songArtist": "goosebumpsTravis Scott",
+        "weekDiff": 66.125
+      },
+      {
+        "artist": "Khalid",
+        "song": "Location",
+        "songArtist": "LocationKhalid",
+        "weekDiff": 48.46875
+      },
+      {
+        "artist": "Childish Gambino",
+        "song": "Redbone",
+        "songArtist": "RedboneChildish Gambino",
+        "weekDiff": 44.15625
+      },
+      {
+        "artist": "Post Malone",
+        "song": "White Iverson",
+        "songArtist": "White IversonPost Malone",
+        "weekDiff": 41.71875
+      },
+      {
+        "artist": "Post Malone",
+        "song": "Congratulations",
+        "songArtist": "CongratulationsPost Malone",
+        "weekDiff": 39.8125
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "Happier",
+        "songArtist": "HappierEd Sheeran",
+        "weekDiff": 39.375
+      },
+      {
+        "artist": "Kendrick Lamar",
+        "song": "LOVE. FEAT. ZACARI.",
+        "songArtist": "LOVE. FEAT. ZACARI.Kendrick Lamar",
+        "weekDiff": 38.640625
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "Thinking Out Loud",
+        "songArtist": "Thinking Out LoudEd Sheeran",
+        "weekDiff": 38.46875
+      },
+      {
+        "artist": "XXXTENTACION",
+        "song": "Fuck Love (feat. Trippie Redd)",
+        "songArtist": "Fuck Love (feat. Trippie Redd)XXXTENTACION",
+        "weekDiff": 37.78125
+      },
+      {
+        "artist": "Drake",
+        "song": "One Dance",
+        "songArtist": "One DanceDrake",
+        "weekDiff": 37.734375
+      }
+    ]
+  },
+  {
+    "country": "us",
+    "songs": [
+      {
+        "artist": "J. Cole",
+        "song": "No Role Modelz",
+        "songArtist": "No Role ModelzJ. Cole",
+        "weekDiff": 70.5625
+      },
+      {
+        "artist": "Travis Scott",
+        "song": "goosebumps",
+        "songArtist": "goosebumpsTravis Scott",
+        "weekDiff": 69.125
+      },
+      {
+        "artist": "Sam Hunt",
+        "song": "Body Like A Back Road",
+        "songArtist": "Body Like A Back RoadSam Hunt",
+        "weekDiff": 65.578125
+      },
+      {
+        "artist": "Khalid",
+        "song": "Location",
+        "songArtist": "LocationKhalid",
+        "weekDiff": 65.46875
+      },
+      {
+        "artist": "Post Malone",
+        "song": "White Iverson",
+        "songArtist": "White IversonPost Malone",
+        "weekDiff": 62.71875
+      },
+      {
+        "artist": "Kendrick Lamar",
+        "song": "LOVE. FEAT. ZACARI.",
+        "songArtist": "LOVE. FEAT. ZACARI.Kendrick Lamar",
+        "weekDiff": 61.640625
+      },
+      {
+        "artist": "A Boogie Wit da Hoodie",
+        "song": "Drowning (feat. Kodak Black)",
+        "songArtist": "Drowning (feat. Kodak Black)A Boogie Wit da Hoodie",
+        "weekDiff": 60.078125
+      },
+      {
+        "artist": "Post Malone",
+        "song": "Go Flex",
+        "songArtist": "Go FlexPost Malone",
+        "weekDiff": 59.59375
+      },
+      {
+        "artist": "Migos",
+        "song": "Slippery (feat. Gucci Mane)",
+        "songArtist": "Slippery (feat. Gucci Mane)Migos",
+        "weekDiff": 56.875
+      },
+      {
+        "artist": "Childish Gambino",
+        "song": "Redbone",
+        "songArtist": "RedboneChildish Gambino",
+        "weekDiff": 56.15625
+      }
+    ]
+  },
+  {
+    "country": "gb",
+    "songs": [
+      {
+        "artist": "The Killers",
+        "song": "Mr. Brightside",
+        "songArtist": "Mr. BrightsideThe Killers",
+        "weekDiff": 84.578125
+      },
+      {
+        "artist": "Oasis",
+        "song": "Wonderwall - Remastered",
+        "songArtist": "Wonderwall - RemasteredOasis",
+        "weekDiff": 71.125
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "Castle on the Hill",
+        "songArtist": "Castle on the HillEd Sheeran",
+        "weekDiff": 57.890625
+      },
+      {
+        "artist": "Little Mix",
+        "song": "Shout Out to My Ex",
+        "songArtist": "Shout Out to My ExLittle Mix",
+        "weekDiff": 51.859375
+      },
+      {
+        "artist": "Sigala",
+        "song": "Came Here for Love",
+        "songArtist": "Came Here for LoveSigala",
+        "weekDiff": 50.96875
+      },
+      {
+        "artist": "Stormzy",
+        "song": "Big For Your Boots",
+        "songArtist": "Big For Your BootsStormzy",
+        "weekDiff": 50.59375
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "Supermarket Flowers",
+        "songArtist": "Supermarket FlowersEd Sheeran",
+        "weekDiff": 49.328125
+      },
+      {
+        "artist": "Earth, Wind & Fire",
+        "song": "September",
+        "songArtist": "SeptemberEarth, Wind & Fire",
+        "weekDiff": 47.75
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "Happier",
+        "songArtist": "HappierEd Sheeran",
+        "weekDiff": 47.375
+      },
+      {
+        "artist": "Childish Gambino",
+        "song": "Redbone",
+        "songArtist": "RedboneChildish Gambino",
+        "weekDiff": 47.15625
+      }
+    ]
+  },
+  {
+    "country": "ad",
+    "songs": [
+      {
+        "artist": "DJ Khaled",
+        "song": "I'm the One",
+        "songArtist": "I'm the OneDJ Khaled",
+        "weekDiff": 0.09375
+      },
+      {
+        "artist": "Shakira",
+        "song": "Me Enamoré",
+        "songArtist": "Me EnamoréShakira",
+        "weekDiff": -2.09375
+      },
+      {
+        "artist": "Enrique Iglesias",
+        "song": "SUBEME LA RADIO",
+        "songArtist": "SUBEME LA RADIOEnrique Iglesias",
+        "weekDiff": -4.125
+      },
+      {
+        "artist": "Pitbull",
+        "song": "Hey Ma (with Pitbull & J Balvin feat. Camila Cabello) - Spanish Version",
+        "songArtist": "Hey Ma (with Pitbull & J Balvin feat. Camila Cabello) - Spanish VersionPitbull",
+        "weekDiff": -5.09375
+      },
+      {
+        "artist": "Wisin",
+        "song": "Escápate Conmigo",
+        "songArtist": "Escápate ConmigoWisin",
+        "weekDiff": -8.640625
+      },
+      {
+        "artist": "Cali Y El Dandee",
+        "song": "Lumbra",
+        "songArtist": "LumbraCali Y El Dandee",
+        "weekDiff": -8.78125
+      },
+      {
+        "artist": "Katy Perry",
+        "song": "Chained To The Rhythm",
+        "songArtist": "Chained To The RhythmKaty Perry",
+        "weekDiff": -11.28125
+      },
+      {
+        "artist": "CNCO",
+        "song": "Reggaetón Lento (Bailemos)",
+        "songArtist": "Reggaetón Lento (Bailemos)CNCO",
+        "weekDiff": -11.296875
+      },
+      {
+        "artist": "Nicky Jam",
+        "song": "El Amante",
+        "songArtist": "El AmanteNicky Jam",
+        "weekDiff": -12.71875
+      },
+      {
+        "artist": "CNCO",
+        "song": "Hey DJ",
+        "songArtist": "Hey DJCNCO",
+        "weekDiff": -13.328125
+      }
+    ]
+  },
+  {
+    "country": "ar",
+    "songs": [
+      {
+        "artist": "Coldplay",
+        "song": "The Scientist",
+        "songArtist": "The ScientistColdplay",
+        "weekDiff": 64.109375
+      },
+      {
+        "artist": "Zion & Lennox",
+        "song": "Otra Vez (feat. J Balvin)",
+        "songArtist": "Otra Vez (feat. J Balvin)Zion & Lennox",
+        "weekDiff": 60.875
+      },
+      {
+        "artist": "Sebastian Yatra",
+        "song": "Traicionera",
+        "songArtist": "TraicioneraSebastian Yatra",
+        "weekDiff": 57.90625
+      },
+      {
+        "artist": "Piso 21",
+        "song": "Me Llamas (feat. Maluma) - Remix",
+        "songArtist": "Me Llamas (feat. Maluma) - RemixPiso 21",
+        "weekDiff": 53.09375
+      },
+      {
+        "artist": "Danny Ocean",
+        "song": "Me Rehúso",
+        "songArtist": "Me RehúsoDanny Ocean",
+        "weekDiff": 51.46875
+      },
+      {
+        "artist": "Manuel Turizo",
+        "song": "Una Lady Como Tú",
+        "songArtist": "Una Lady Como TúManuel Turizo",
+        "weekDiff": 51.25
+      },
+      {
+        "artist": "CNCO",
+        "song": "Reggaetón Lento (Bailemos)",
+        "songArtist": "Reggaetón Lento (Bailemos)CNCO",
+        "weekDiff": 49.703125
+      },
+      {
+        "artist": "Daddy Yankee",
+        "song": "La Rompe Corazones",
+        "songArtist": "La Rompe CorazonesDaddy Yankee",
+        "weekDiff": 48.59375
+      },
+      {
+        "artist": "Maluma",
+        "song": "Felices los 4",
+        "songArtist": "Felices los 4Maluma",
+        "weekDiff": 48.109375
+      },
+      {
+        "artist": "Carlos Vives",
+        "song": "Robarte un Beso",
+        "songArtist": "Robarte un BesoCarlos Vives",
+        "weekDiff": 46.796875
+      }
+    ]
+  },
+  {
+    "country": "at",
+    "songs": [
+      {
+        "artist": "Bausa",
+        "song": "Was Du Liebe nennst",
+        "songArtist": "Was Du Liebe nennstBausa",
+        "weekDiff": 53.390625
+      },
+      {
+        "artist": "Journey",
+        "song": "Don't Stop Believin'",
+        "songArtist": "Don't Stop Believin'Journey",
+        "weekDiff": 52.90625
+      },
+      {
+        "artist": "Eminem",
+        "song": "'Till I Collapse",
+        "songArtist": "'Till I CollapseEminem",
+        "weekDiff": 52.734375
+      },
+      {
+        "artist": "187 Strassenbande",
+        "song": "Millionär",
+        "songArtist": "Millionär187 Strassenbande",
+        "weekDiff": 52.59375
+      },
+      {
+        "artist": "AJR",
+        "song": "Weak",
+        "songArtist": "WeakAJR",
+        "weekDiff": 43.078125
+      },
+      {
+        "artist": "Martin Jensen",
+        "song": "Solo Dance",
+        "songArtist": "Solo DanceMartin Jensen",
+        "weekDiff": 40.140625
+      },
+      {
+        "artist": "Oasis",
+        "song": "Wonderwall - Remastered",
+        "songArtist": "Wonderwall - RemasteredOasis",
+        "weekDiff": 40.125
+      },
+      {
+        "artist": "Robin Schulz",
+        "song": "OK",
+        "songArtist": "OKRobin Schulz",
+        "weekDiff": 36.375
+      },
+      {
+        "artist": "Felix Jaehn",
+        "song": "Hot2Touch",
+        "songArtist": "Hot2TouchFelix Jaehn",
+        "weekDiff": 34.078125
+      },
+      {
+        "artist": "ItaloBrothers",
+        "song": "Summer Air",
+        "songArtist": "Summer AirItaloBrothers",
+        "weekDiff": 33.140625
+      }
+    ]
+  },
+  {
+    "country": "au",
+    "songs": [
+      {
+        "artist": "The Killers",
+        "song": "Mr. Brightside",
+        "songArtist": "Mr. BrightsideThe Killers",
+        "weekDiff": 84.578125
+      },
+      {
+        "artist": "Flume",
+        "song": "Never Be Like You",
+        "songArtist": "Never Be Like YouFlume",
+        "weekDiff": 74.703125
+      },
+      {
+        "artist": "Childish Gambino",
+        "song": "Redbone",
+        "songArtist": "RedboneChildish Gambino",
+        "weekDiff": 66.15625
+      },
+      {
+        "artist": "Macklemore & Ryan Lewis",
+        "song": "Can't Hold Us - feat. Ray Dalton",
+        "songArtist": "Can't Hold Us - feat. Ray DaltonMacklemore & Ryan Lewis",
+        "weekDiff": 65.359375
+      },
+      {
+        "artist": "Sam Hunt",
+        "song": "Body Like A Back Road",
+        "songArtist": "Body Like A Back RoadSam Hunt",
+        "weekDiff": 60.578125
+      },
+      {
+        "artist": "Oasis",
+        "song": "Wonderwall - Remastered",
+        "songArtist": "Wonderwall - RemasteredOasis",
+        "weekDiff": 59.125
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "Castle on the Hill",
+        "songArtist": "Castle on the HillEd Sheeran",
+        "weekDiff": 57.890625
+      },
+      {
+        "artist": "Passenger",
+        "song": "Let Her Go",
+        "songArtist": "Let Her GoPassenger",
+        "weekDiff": 57.296875
+      },
+      {
+        "artist": "Khalid",
+        "song": "Location",
+        "songArtist": "LocationKhalid",
+        "weekDiff": 56.46875
+      },
+      {
+        "artist": "Travis Scott",
+        "song": "goosebumps",
+        "songArtist": "goosebumpsTravis Scott",
+        "weekDiff": 53.125
+      }
+    ]
+  },
+  {
+    "country": "be",
+    "songs": [
+      {
+        "artist": "Oasis",
+        "song": "Wonderwall - Remastered",
+        "songArtist": "Wonderwall - RemasteredOasis",
+        "weekDiff": 51.125
+      },
+      {
+        "artist": "Macklemore & Ryan Lewis",
+        "song": "Can't Hold Us - feat. Ray Dalton",
+        "songArtist": "Can't Hold Us - feat. Ray DaltonMacklemore & Ryan Lewis",
+        "weekDiff": 49.359375
+      },
+      {
+        "artist": "Boef",
+        "song": "Habiba",
+        "songArtist": "HabibaBoef",
+        "weekDiff": 48.4375
+      },
+      {
+        "artist": "Lord Huron",
+        "song": "The Night We Met",
+        "songArtist": "The Night We MetLord Huron",
+        "weekDiff": 47.796875
+      },
+      {
+        "artist": "John Legend",
+        "song": "All of Me",
+        "songArtist": "All of MeJohn Legend",
+        "weekDiff": 44.890625
+      },
+      {
+        "artist": "Beyoncé",
+        "song": "Halo",
+        "songArtist": "HaloBeyoncé",
+        "weekDiff": 43.59375
+      },
+      {
+        "artist": "Toto",
+        "song": "Africa",
+        "songArtist": "AfricaToto",
+        "weekDiff": 41.828125
+      },
+      {
+        "artist": "AJR",
+        "song": "Weak",
+        "songArtist": "WeakAJR",
+        "weekDiff": 41.078125
+      },
+      {
+        "artist": "Jax Jones",
+        "song": "You Don't Know Me - Radio Edit",
+        "songArtist": "You Don't Know Me - Radio EditJax Jones",
+        "weekDiff": 40.265625
+      },
+      {
+        "artist": "Martin Jensen",
+        "song": "Solo Dance",
+        "songArtist": "Solo DanceMartin Jensen",
+        "weekDiff": 37.140625
+      }
+    ]
+  },
+  {
+    "country": "bg",
+    "songs": [
+      {
+        "artist": "Eminem",
+        "song": "'Till I Collapse",
+        "songArtist": "'Till I CollapseEminem",
+        "weekDiff": 72.734375
+      },
+      {
+        "artist": "Travis Scott",
+        "song": "goosebumps",
+        "songArtist": "goosebumpsTravis Scott",
+        "weekDiff": 68.125
+      },
+      {
+        "artist": "Migos",
+        "song": "Slippery (feat. Gucci Mane)",
+        "songArtist": "Slippery (feat. Gucci Mane)Migos",
+        "weekDiff": 56.875
+      },
+      {
+        "artist": "Future",
+        "song": "Mask Off",
+        "songArtist": "Mask OffFuture",
+        "weekDiff": 54.328125
+      },
+      {
+        "artist": "Linkin Park",
+        "song": "In The End",
+        "songArtist": "In The EndLinkin Park",
+        "weekDiff": 53.234375
+      },
+      {
+        "artist": "Travis Scott",
+        "song": "BUTTERFLY EFFECT",
+        "songArtist": "BUTTERFLY EFFECTTravis Scott",
+        "weekDiff": 52.671875
+      },
+      {
+        "artist": "The Weeknd",
+        "song": "Starboy",
+        "songArtist": "StarboyThe Weeknd",
+        "weekDiff": 50.8125
+      },
+      {
+        "artist": "Kendrick Lamar",
+        "song": "DNA.",
+        "songArtist": "DNA.Kendrick Lamar",
+        "weekDiff": 50.40625
+      },
+      {
+        "artist": "A$AP Ferg",
+        "song": "Plain Jane",
+        "songArtist": "Plain JaneA$AP Ferg",
+        "weekDiff": 50.265625
+      },
+      {
+        "artist": "Desiigner",
+        "song": "Panda",
+        "songArtist": "PandaDesiigner",
+        "weekDiff": 47.890625
+      }
+    ]
+  },
+  {
+    "country": "bo",
+    "songs": [
+      {
+        "artist": "Piso 21",
+        "song": "Me Llamas (feat. Maluma) - Remix",
+        "songArtist": "Me Llamas (feat. Maluma) - RemixPiso 21",
+        "weekDiff": 71.09375
+      },
+      {
+        "artist": "Sebastian Yatra",
+        "song": "Traicionera",
+        "songArtist": "TraicioneraSebastian Yatra",
+        "weekDiff": 70.90625
+      },
+      {
+        "artist": "Anuel Aa",
+        "song": "Sola (Remix) [feat. Daddy Yankee, Wisin, Farruko, Zion & Lennox]",
+        "songArtist": "Sola (Remix) [feat. Daddy Yankee, Wisin, Farruko, Zion & Lennox]Anuel Aa",
+        "weekDiff": 68.109375
+      },
+      {
+        "artist": "Zion & Lennox",
+        "song": "Otra Vez (feat. J Balvin)",
+        "songArtist": "Otra Vez (feat. J Balvin)Zion & Lennox",
+        "weekDiff": 66.875
+      },
+      {
+        "artist": "CNCO",
+        "song": "Reggaetón Lento (Bailemos)",
+        "songArtist": "Reggaetón Lento (Bailemos)CNCO",
+        "weekDiff": 65.703125
+      },
+      {
+        "artist": "Coldplay",
+        "song": "The Scientist",
+        "songArtist": "The ScientistColdplay",
+        "weekDiff": 64.109375
+      },
+      {
+        "artist": "Piso 21",
+        "song": "Besándote",
+        "songArtist": "BesándotePiso 21",
+        "weekDiff": 60.5625
+      },
+      {
+        "artist": "Maluma",
+        "song": "Borro Cassette",
+        "songArtist": "Borro CassetteMaluma",
+        "weekDiff": 59.6875
+      },
+      {
+        "artist": "CNCO",
+        "song": "Hey DJ",
+        "songArtist": "Hey DJCNCO",
+        "weekDiff": 59.671875
+      },
+      {
+        "artist": "IAmChino",
+        "song": "Ay Mi Dios (feat. Pitbull, Yandel & Chacal)",
+        "songArtist": "Ay Mi Dios (feat. Pitbull, Yandel & Chacal)IAmChino",
+        "weekDiff": 59.625
+      }
+    ]
+  },
+  {
+    "country": "br",
+    "songs": [
+      {
+        "artist": "Alok",
+        "song": "Hear Me Now",
+        "songArtist": "Hear Me NowAlok",
+        "weekDiff": 71.34375
+      },
+      {
+        "artist": "MC's Jhowzinho & Kadinho",
+        "song": "Agora Vai Sentar",
+        "songArtist": "Agora Vai SentarMC's Jhowzinho & Kadinho",
+        "weekDiff": 56.125
+      },
+      {
+        "artist": "MC Kevinho",
+        "song": "Olha a Explosão",
+        "songArtist": "Olha a ExplosãoMC Kevinho",
+        "weekDiff": 51.140625
+      },
+      {
+        "artist": "Anitta",
+        "song": "Vai malandra (feat. Tropkillaz & DJ Yuri Martins)",
+        "songArtist": "Vai malandra (feat. Tropkillaz & DJ Yuri Martins)Anitta",
+        "weekDiff": 40.828125
+      },
+      {
+        "artist": "Major Lazer",
+        "song": "Sua Cara (feat. Anitta & Pabllo Vittar)",
+        "songArtist": "Sua Cara (feat. Anitta & Pabllo Vittar)Major Lazer",
+        "weekDiff": 38.25
+      },
+      {
+        "artist": "Anitta",
+        "song": "Paradinha",
+        "songArtist": "ParadinhaAnitta",
+        "weekDiff": 37.734375
+      },
+      {
+        "artist": "Anitta",
+        "song": "Indecente",
+        "songArtist": "IndecenteAnitta",
+        "weekDiff": 30.734375
+      },
+      {
+        "artist": "MC Fioti",
+        "song": "Bum Bum Tam Tam",
+        "songArtist": "Bum Bum Tam TamMC Fioti",
+        "weekDiff": 30.578125
+      },
+      {
+        "artist": "Shawn Mendes",
+        "song": "Mercy",
+        "songArtist": "MercyShawn Mendes",
+        "weekDiff": 29.46875
+      },
+      {
+        "artist": "MC G15",
+        "song": "Deu Onda",
+        "songArtist": "Deu OndaMC G15",
+        "weekDiff": 28.8125
+      }
+    ]
+  },
+  {
+    "country": "ca",
+    "songs": [
+      {
+        "artist": "Sam Hunt",
+        "song": "Body Like A Back Road",
+        "songArtist": "Body Like A Back RoadSam Hunt",
+        "weekDiff": 74.578125
+      },
+      {
+        "artist": "Travis Scott",
+        "song": "goosebumps",
+        "songArtist": "goosebumpsTravis Scott",
+        "weekDiff": 70.125
+      },
+      {
+        "artist": "Khalid",
+        "song": "Location",
+        "songArtist": "LocationKhalid",
+        "weekDiff": 60.46875
+      },
+      {
+        "artist": "Post Malone",
+        "song": "White Iverson",
+        "songArtist": "White IversonPost Malone",
+        "weekDiff": 56.71875
+      },
+      {
+        "artist": "Childish Gambino",
+        "song": "Redbone",
+        "songArtist": "RedboneChildish Gambino",
+        "weekDiff": 56.15625
+      },
+      {
+        "artist": "Migos",
+        "song": "Slippery (feat. Gucci Mane)",
+        "songArtist": "Slippery (feat. Gucci Mane)Migos",
+        "weekDiff": 52.875
+      },
+      {
+        "artist": "Travis Scott",
+        "song": "BUTTERFLY EFFECT",
+        "songArtist": "BUTTERFLY EFFECTTravis Scott",
+        "weekDiff": 52.671875
+      },
+      {
+        "artist": "J. Cole",
+        "song": "No Role Modelz",
+        "songArtist": "No Role ModelzJ. Cole",
+        "weekDiff": 52.5625
+      },
+      {
+        "artist": "A Boogie Wit da Hoodie",
+        "song": "Drowning (feat. Kodak Black)",
+        "songArtist": "Drowning (feat. Kodak Black)A Boogie Wit da Hoodie",
+        "weekDiff": 51.078125
+      },
+      {
+        "artist": "Eminem",
+        "song": "'Till I Collapse",
+        "songArtist": "'Till I CollapseEminem",
+        "weekDiff": 50.734375
+      }
+    ]
+  },
+  {
+    "country": "ch",
+    "songs": [
+      {
+        "artist": "Bausa",
+        "song": "Was Du Liebe nennst",
+        "songArtist": "Was Du Liebe nennstBausa",
+        "weekDiff": 49.390625
+      },
+      {
+        "artist": "Eminem",
+        "song": "'Till I Collapse",
+        "songArtist": "'Till I CollapseEminem",
+        "weekDiff": 42.734375
+      },
+      {
+        "artist": "Robin Schulz",
+        "song": "OK",
+        "songArtist": "OKRobin Schulz",
+        "weekDiff": 42.375
+      },
+      {
+        "artist": "Imagine Dragons",
+        "song": "Whatever It Takes",
+        "songArtist": "Whatever It TakesImagine Dragons",
+        "weekDiff": 40.609375
+      },
+      {
+        "artist": "Travis Scott",
+        "song": "BUTTERFLY EFFECT",
+        "songArtist": "BUTTERFLY EFFECTTravis Scott",
+        "weekDiff": 36.671875
+      },
+      {
+        "artist": "Martin Jensen",
+        "song": "Solo Dance",
+        "songArtist": "Solo DanceMartin Jensen",
+        "weekDiff": 36.140625
+      },
+      {
+        "artist": "ItaloBrothers",
+        "song": "Summer Air",
+        "songArtist": "Summer AirItaloBrothers",
+        "weekDiff": 35.140625
+      },
+      {
+        "artist": "Felix Jaehn",
+        "song": "Hot2Touch",
+        "songArtist": "Hot2TouchFelix Jaehn",
+        "weekDiff": 35.078125
+      },
+      {
+        "artist": "Tom Walker",
+        "song": "Leave a Light On",
+        "songArtist": "Leave a Light OnTom Walker",
+        "weekDiff": 34.796875
+      },
+      {
+        "artist": "Eminem",
+        "song": "Lose Yourself - From \"8 Mile\" Soundtrack",
+        "songArtist": "Lose Yourself - From \"8 Mile\" SoundtrackEminem",
+        "weekDiff": 34.609375
+      }
+    ]
+  },
+  {
+    "country": "cl",
+    "songs": [
+      {
+        "artist": "Anuel Aa",
+        "song": "Sola (Remix) [feat. Daddy Yankee, Wisin, Farruko, Zion & Lennox]",
+        "songArtist": "Sola (Remix) [feat. Daddy Yankee, Wisin, Farruko, Zion & Lennox]Anuel Aa",
+        "weekDiff": 69.109375
+      },
+      {
+        "artist": "Zion & Lennox",
+        "song": "Otra Vez (feat. J Balvin)",
+        "songArtist": "Otra Vez (feat. J Balvin)Zion & Lennox",
+        "weekDiff": 66.875
+      },
+      {
+        "artist": "Don Omar",
+        "song": "Te Quiero Pa´Mi",
+        "songArtist": "Te Quiero Pa´MiDon Omar",
+        "weekDiff": 58.5
+      },
+      {
+        "artist": "CNCO",
+        "song": "Reggaetón Lento (Bailemos)",
+        "songArtist": "Reggaetón Lento (Bailemos)CNCO",
+        "weekDiff": 55.703125
+      },
+      {
+        "artist": "Chris Jeday",
+        "song": "Ahora Dice",
+        "songArtist": "Ahora DiceChris Jeday",
+        "weekDiff": 54.765625
+      },
+      {
+        "artist": "Piso 21",
+        "song": "Me Llamas (feat. Maluma) - Remix",
+        "songArtist": "Me Llamas (feat. Maluma) - RemixPiso 21",
+        "weekDiff": 54.09375
+      },
+      {
+        "artist": "Sebastian Yatra",
+        "song": "Traicionera",
+        "songArtist": "TraicioneraSebastian Yatra",
+        "weekDiff": 52.90625
+      },
+      {
+        "artist": "Wisin",
+        "song": "Vacaciones",
+        "songArtist": "VacacionesWisin",
+        "weekDiff": 52.90625
+      },
+      {
+        "artist": "Chino & Nacho",
+        "song": "Andas En Mi Cabeza",
+        "songArtist": "Andas En Mi CabezaChino & Nacho",
+        "weekDiff": 52.140625
+      },
+      {
+        "artist": "Danny Ocean",
+        "song": "Me Rehúso",
+        "songArtist": "Me RehúsoDanny Ocean",
+        "weekDiff": 51.46875
+      }
+    ]
+  },
+  {
+    "country": "co",
+    "songs": [
+      {
+        "artist": "Don Omar",
+        "song": "Te Quiero Pa´Mi",
+        "songArtist": "Te Quiero Pa´MiDon Omar",
+        "weekDiff": 75.5
+      },
+      {
+        "artist": "Carlos Vives",
+        "song": "La Bicicleta",
+        "songArtist": "La BicicletaCarlos Vives",
+        "weekDiff": 74.921875
+      },
+      {
+        "artist": "Anuel Aa",
+        "song": "Sola (Remix) [feat. Daddy Yankee, Wisin, Farruko, Zion & Lennox]",
+        "songArtist": "Sola (Remix) [feat. Daddy Yankee, Wisin, Farruko, Zion & Lennox]Anuel Aa",
+        "weekDiff": 69.109375
+      },
+      {
+        "artist": "Sebastian Yatra",
+        "song": "Traicionera",
+        "songArtist": "TraicioneraSebastian Yatra",
+        "weekDiff": 66.90625
+      },
+      {
+        "artist": "Zion & Lennox",
+        "song": "Otra Vez (feat. J Balvin)",
+        "songArtist": "Otra Vez (feat. J Balvin)Zion & Lennox",
+        "weekDiff": 66.875
+      },
+      {
+        "artist": "Manuel Turizo",
+        "song": "Una Lady Como Tú",
+        "songArtist": "Una Lady Como TúManuel Turizo",
+        "weekDiff": 65.25
+      },
+      {
+        "artist": "Chino & Nacho",
+        "song": "Andas En Mi Cabeza",
+        "songArtist": "Andas En Mi CabezaChino & Nacho",
+        "weekDiff": 64.140625
+      },
+      {
+        "artist": "J Balvin",
+        "song": "Sigo Extrañándote",
+        "songArtist": "Sigo ExtrañándoteJ Balvin",
+        "weekDiff": 62.78125
+      },
+      {
+        "artist": "Queen",
+        "song": "Bohemian Rhapsody - Remastered 2011",
+        "songArtist": "Bohemian Rhapsody - Remastered 2011Queen",
+        "weekDiff": 62.4375
+      },
+      {
+        "artist": "Nicky Jam",
+        "song": "Si Tú La Ves",
+        "songArtist": "Si Tú La VesNicky Jam",
+        "weekDiff": 62.03125
+      }
+    ]
+  },
+  {
+    "country": "cr",
+    "songs": [
+      {
+        "artist": "Queen",
+        "song": "Bohemian Rhapsody - Remastered 2011",
+        "songArtist": "Bohemian Rhapsody - Remastered 2011Queen",
+        "weekDiff": 76.4375
+      },
+      {
+        "artist": "Passenger",
+        "song": "Let Her Go",
+        "songArtist": "Let Her GoPassenger",
+        "weekDiff": 74.296875
+      },
+      {
+        "artist": "John Legend",
+        "song": "All of Me",
+        "songArtist": "All of MeJohn Legend",
+        "weekDiff": 71.890625
+      },
+      {
+        "artist": "Ozuna",
+        "song": "Dile Que Tu Me Quieres",
+        "songArtist": "Dile Que Tu Me QuieresOzuna",
+        "weekDiff": 69.609375
+      },
+      {
+        "artist": "Zion & Lennox",
+        "song": "Otra Vez (feat. J Balvin)",
+        "songArtist": "Otra Vez (feat. J Balvin)Zion & Lennox",
+        "weekDiff": 66.875
+      },
+      {
+        "artist": "Sean Paul",
+        "song": "No Lie",
+        "songArtist": "No LieSean Paul",
+        "weekDiff": 66.609375
+      },
+      {
+        "artist": "Anuel Aa",
+        "song": "Sola (Remix) [feat. Daddy Yankee, Wisin, Farruko, Zion & Lennox]",
+        "songArtist": "Sola (Remix) [feat. Daddy Yankee, Wisin, Farruko, Zion & Lennox]Anuel Aa",
+        "weekDiff": 65.109375
+      },
+      {
+        "artist": "Coldplay",
+        "song": "The Scientist",
+        "songArtist": "The ScientistColdplay",
+        "weekDiff": 64.109375
+      },
+      {
+        "artist": "CNCO",
+        "song": "Reggaetón Lento (Bailemos)",
+        "songArtist": "Reggaetón Lento (Bailemos)CNCO",
+        "weekDiff": 63.703125
+      },
+      {
+        "artist": "Sam Smith",
+        "song": "Stay With Me",
+        "songArtist": "Stay With MeSam Smith",
+        "weekDiff": 61.96875
+      }
+    ]
+  },
+  {
+    "country": "cy",
+    "songs": [
+      {
+        "artist": "Cardi B",
+        "song": "Bodak Yellow",
+        "songArtist": "Bodak YellowCardi B",
+        "weekDiff": 42.640625
+      },
+      {
+        "artist": "Travis Scott",
+        "song": "goosebumps",
+        "songArtist": "goosebumpsTravis Scott",
+        "weekDiff": 38.125
+      },
+      {
+        "artist": "Eminem",
+        "song": "'Till I Collapse",
+        "songArtist": "'Till I CollapseEminem",
+        "weekDiff": 35.734375
+      },
+      {
+        "artist": "Ramz",
+        "song": "Barking",
+        "songArtist": "BarkingRamz",
+        "weekDiff": 35.5625
+      },
+      {
+        "artist": "Kendrick Lamar",
+        "song": "HUMBLE.",
+        "songArtist": "HUMBLE.Kendrick Lamar",
+        "weekDiff": 32.03125
+      },
+      {
+        "artist": "Eminem",
+        "song": "Lose Yourself - From \"8 Mile\" Soundtrack",
+        "songArtist": "Lose Yourself - From \"8 Mile\" SoundtrackEminem",
+        "weekDiff": 30.609375
+      },
+      {
+        "artist": "Eleni Foureira",
+        "song": "Fuego",
+        "songArtist": "FuegoEleni Foureira",
+        "weekDiff": 30.109375
+      },
+      {
+        "artist": "French Montana",
+        "song": "Unforgettable",
+        "songArtist": "UnforgettableFrench Montana",
+        "weekDiff": 29.234375
+      },
+      {
+        "artist": "Axwell /\\ Ingrosso",
+        "song": "More Than You Know",
+        "songArtist": "More Than You KnowAxwell /\\ Ingrosso",
+        "weekDiff": 27.46875
+      },
+      {
+        "artist": "Lil Uzi Vert",
+        "song": "XO TOUR Llif3",
+        "songArtist": "XO TOUR Llif3Lil Uzi Vert",
+        "weekDiff": 27.328125
+      }
+    ]
+  },
+  {
+    "country": "cz",
+    "songs": [
+      {
+        "artist": "Rag'n'Bone Man",
+        "song": "Human",
+        "songArtist": "HumanRag'n'Bone Man",
+        "weekDiff": 73.53125
+      },
+      {
+        "artist": "Linkin Park",
+        "song": "In The End",
+        "songArtist": "In The EndLinkin Park",
+        "weekDiff": 73.234375
+      },
+      {
+        "artist": "Eminem",
+        "song": "'Till I Collapse",
+        "songArtist": "'Till I CollapseEminem",
+        "weekDiff": 70.734375
+      },
+      {
+        "artist": "Macklemore & Ryan Lewis",
+        "song": "Can't Hold Us - feat. Ray Dalton",
+        "songArtist": "Can't Hold Us - feat. Ray DaltonMacklemore & Ryan Lewis",
+        "weekDiff": 64.359375
+      },
+      {
+        "artist": "Linkin Park",
+        "song": "Numb",
+        "songArtist": "NumbLinkin Park",
+        "weekDiff": 63.6875
+      },
+      {
+        "artist": "Oasis",
+        "song": "Wonderwall - Remastered",
+        "songArtist": "Wonderwall - RemasteredOasis",
+        "weekDiff": 63.125
+      },
+      {
+        "artist": "Imagine Dragons",
+        "song": "Whatever It Takes",
+        "songArtist": "Whatever It TakesImagine Dragons",
+        "weekDiff": 51.609375
+      },
+      {
+        "artist": "Twenty One Pilots",
+        "song": "Stressed Out",
+        "songArtist": "Stressed OutTwenty One Pilots",
+        "weekDiff": 48.625
+      },
+      {
+        "artist": "Ofenbach",
+        "song": "Be Mine",
+        "songArtist": "Be MineOfenbach",
+        "weekDiff": 48.390625
+      },
+      {
+        "artist": "Robin Schulz",
+        "song": "OK",
+        "songArtist": "OKRobin Schulz",
+        "weekDiff": 47.375
+      }
+    ]
+  },
+  {
+    "country": "de",
+    "songs": [
+      {
+        "artist": "187 Strassenbande",
+        "song": "Millionär",
+        "songArtist": "Millionär187 Strassenbande",
+        "weekDiff": 59.59375
+      },
+      {
+        "artist": "Bausa",
+        "song": "Was Du Liebe nennst",
+        "songArtist": "Was Du Liebe nennstBausa",
+        "weekDiff": 53.390625
+      },
+      {
+        "artist": "Linkin Park",
+        "song": "In The End",
+        "songArtist": "In The EndLinkin Park",
+        "weekDiff": 44.234375
+      },
+      {
+        "artist": "Felix Jaehn",
+        "song": "Hot2Touch",
+        "songArtist": "Hot2TouchFelix Jaehn",
+        "weekDiff": 34.078125
+      },
+      {
+        "artist": "Eminem",
+        "song": "'Till I Collapse",
+        "songArtist": "'Till I CollapseEminem",
+        "weekDiff": 32.734375
+      },
+      {
+        "artist": "Ramz",
+        "song": "Barking",
+        "songArtist": "BarkingRamz",
+        "weekDiff": 32.5625
+      },
+      {
+        "artist": "Burak Yeter",
+        "song": "Tuesday",
+        "songArtist": "TuesdayBurak Yeter",
+        "weekDiff": 32.21875
+      },
+      {
+        "artist": "Martin Jensen",
+        "song": "Solo Dance",
+        "songArtist": "Solo DanceMartin Jensen",
+        "weekDiff": 32.140625
+      },
+      {
+        "artist": "Oasis",
+        "song": "Wonderwall - Remastered",
+        "songArtist": "Wonderwall - RemasteredOasis",
+        "weekDiff": 30.125
+      },
+      {
+        "artist": "Capital Bra",
+        "song": "5 Songs in einer Nacht",
+        "songArtist": "5 Songs in einer NachtCapital Bra",
+        "weekDiff": 28.6875
+      }
+    ]
+  },
+  {
+    "country": "dk",
+    "songs": [
+      {
+        "artist": "Calum Scott",
+        "song": "Dancing On My Own",
+        "songArtist": "Dancing On My OwnCalum Scott",
+        "weekDiff": 54.296875
+      },
+      {
+        "artist": "James Bay",
+        "song": "Let It Go",
+        "songArtist": "Let It GoJames Bay",
+        "weekDiff": 52.515625
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "I See Fire - From \"The Hobbit - The Desolation Of Smaug\"",
+        "songArtist": "I See Fire - From \"The Hobbit - The Desolation Of Smaug\"Ed Sheeran",
+        "weekDiff": 52.203125
+      },
+      {
+        "artist": "ItaloBrothers",
+        "song": "Summer Air",
+        "songArtist": "Summer AirItaloBrothers",
+        "weekDiff": 51.140625
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "Happier",
+        "songArtist": "HappierEd Sheeran",
+        "weekDiff": 50.375
+      },
+      {
+        "artist": "Passenger",
+        "song": "Let Her Go",
+        "songArtist": "Let Her GoPassenger",
+        "weekDiff": 49.296875
+      },
+      {
+        "artist": "Martin Jensen",
+        "song": "Solo Dance",
+        "songArtist": "Solo DanceMartin Jensen",
+        "weekDiff": 47.140625
+      },
+      {
+        "artist": "Travis Scott",
+        "song": "goosebumps",
+        "songArtist": "goosebumpsTravis Scott",
+        "weekDiff": 42.125
+      },
+      {
+        "artist": "Astrid S",
+        "song": "Think Before I Talk",
+        "songArtist": "Think Before I TalkAstrid S",
+        "weekDiff": 40.25
+      },
+      {
+        "artist": "Lukas Graham",
+        "song": "7 Years",
+        "songArtist": "7 YearsLukas Graham",
+        "weekDiff": 40.140625
+      }
+    ]
+  },
+  {
+    "country": "do",
+    "songs": [
+      {
+        "artist": "Ozuna",
+        "song": "Dile Que Tu Me Quieres",
+        "songArtist": "Dile Que Tu Me QuieresOzuna",
+        "weekDiff": 76.609375
+      },
+      {
+        "artist": "Anuel Aa",
+        "song": "Sola (Remix) [feat. Daddy Yankee, Wisin, Farruko, Zion & Lennox]",
+        "songArtist": "Sola (Remix) [feat. Daddy Yankee, Wisin, Farruko, Zion & Lennox]Anuel Aa",
+        "weekDiff": 69.109375
+      },
+      {
+        "artist": "Zion & Lennox",
+        "song": "Otra Vez (feat. J Balvin)",
+        "songArtist": "Otra Vez (feat. J Balvin)Zion & Lennox",
+        "weekDiff": 66.875
+      },
+      {
+        "artist": "Chris Jeday",
+        "song": "Ahora Dice",
+        "songArtist": "Ahora DiceChris Jeday",
+        "weekDiff": 59.765625
+      },
+      {
+        "artist": "Romeo Santos",
+        "song": "Imitadora",
+        "songArtist": "ImitadoraRomeo Santos",
+        "weekDiff": 57.046875
+      },
+      {
+        "artist": "Ozuna",
+        "song": "Bebe (feat. Anuel AA)",
+        "songArtist": "Bebe (feat. Anuel AA)Ozuna",
+        "weekDiff": 56.5
+      },
+      {
+        "artist": "Danny Ocean",
+        "song": "Me Rehúso",
+        "songArtist": "Me RehúsoDanny Ocean",
+        "weekDiff": 56.46875
+      },
+      {
+        "artist": "Don Omar",
+        "song": "Te Quiero Pa´Mi",
+        "songArtist": "Te Quiero Pa´MiDon Omar",
+        "weekDiff": 55.5
+      },
+      {
+        "artist": "Daddy Yankee",
+        "song": "La Rompe Corazones",
+        "songArtist": "La Rompe CorazonesDaddy Yankee",
+        "weekDiff": 53.59375
+      },
+      {
+        "artist": "Romeo Santos",
+        "song": "Bella y Sensual",
+        "songArtist": "Bella y SensualRomeo Santos",
+        "weekDiff": 49.296875
+      }
+    ]
+  },
+  {
+    "country": "ec",
+    "songs": [
+      {
+        "artist": "Sebastian Yatra",
+        "song": "Traicionera",
+        "songArtist": "TraicioneraSebastian Yatra",
+        "weekDiff": 70.90625
+      },
+      {
+        "artist": "Anuel Aa",
+        "song": "Sola (Remix) [feat. Daddy Yankee, Wisin, Farruko, Zion & Lennox]",
+        "songArtist": "Sola (Remix) [feat. Daddy Yankee, Wisin, Farruko, Zion & Lennox]Anuel Aa",
+        "weekDiff": 69.109375
+      },
+      {
+        "artist": "Carlos Vives",
+        "song": "La Bicicleta",
+        "songArtist": "La BicicletaCarlos Vives",
+        "weekDiff": 67.921875
+      },
+      {
+        "artist": "Zion & Lennox",
+        "song": "Otra Vez (feat. J Balvin)",
+        "songArtist": "Otra Vez (feat. J Balvin)Zion & Lennox",
+        "weekDiff": 66.875
+      },
+      {
+        "artist": "Chino & Nacho",
+        "song": "Andas En Mi Cabeza",
+        "songArtist": "Andas En Mi CabezaChino & Nacho",
+        "weekDiff": 66.140625
+      },
+      {
+        "artist": "Coldplay",
+        "song": "The Scientist",
+        "songArtist": "The ScientistColdplay",
+        "weekDiff": 64.109375
+      },
+      {
+        "artist": "Piso 21",
+        "song": "Me Llamas (feat. Maluma) - Remix",
+        "songArtist": "Me Llamas (feat. Maluma) - RemixPiso 21",
+        "weekDiff": 63.09375
+      },
+      {
+        "artist": "CNCO",
+        "song": "Reggaetón Lento (Bailemos)",
+        "songArtist": "Reggaetón Lento (Bailemos)CNCO",
+        "weekDiff": 58.703125
+      },
+      {
+        "artist": "Nicky Jam",
+        "song": "Si Tú La Ves",
+        "songArtist": "Si Tú La VesNicky Jam",
+        "weekDiff": 58.03125
+      },
+      {
+        "artist": "CNCO",
+        "song": "Hey DJ",
+        "songArtist": "Hey DJCNCO",
+        "weekDiff": 57.671875
+      }
+    ]
+  },
+  {
+    "country": "ee",
+    "songs": [
+      {
+        "artist": "Post Malone",
+        "song": "Go Flex",
+        "songArtist": "Go FlexPost Malone",
+        "weekDiff": 72.59375
+      },
+      {
+        "artist": "Childish Gambino",
+        "song": "Redbone",
+        "songArtist": "RedboneChildish Gambino",
+        "weekDiff": 52.15625
+      },
+      {
+        "artist": "XXXTENTACION",
+        "song": "Look At Me!",
+        "songArtist": "Look At Me!XXXTENTACION",
+        "weekDiff": 52.09375
+      },
+      {
+        "artist": "Post Malone",
+        "song": "White Iverson",
+        "songArtist": "White IversonPost Malone",
+        "weekDiff": 51.71875
+      },
+      {
+        "artist": "Lil Peep",
+        "song": "Save That Shit",
+        "songArtist": "Save That ShitLil Peep",
+        "weekDiff": 43.40625
+      },
+      {
+        "artist": "Post Malone",
+        "song": "Congratulations",
+        "songArtist": "CongratulationsPost Malone",
+        "weekDiff": 39.8125
+      },
+      {
+        "artist": "XXXTENTACION",
+        "song": "Everybody Dies In Their Nightmares",
+        "songArtist": "Everybody Dies In Their NightmaresXXXTENTACION",
+        "weekDiff": 39.1875
+      },
+      {
+        "artist": "Lil Xan",
+        "song": "Betrayed",
+        "songArtist": "BetrayedLil Xan",
+        "weekDiff": 38.84375
+      },
+      {
+        "artist": "Imagine Dragons",
+        "song": "Whatever It Takes",
+        "songArtist": "Whatever It TakesImagine Dragons",
+        "weekDiff": 36.609375
+      },
+      {
+        "artist": "XXXTENTACION",
+        "song": "Fuck Love (feat. Trippie Redd)",
+        "songArtist": "Fuck Love (feat. Trippie Redd)XXXTENTACION",
+        "weekDiff": 35.78125
+      }
+    ]
+  },
+  {
+    "country": "es",
+    "songs": [
+      {
+        "artist": "Danny Ocean",
+        "song": "Me Rehúso",
+        "songArtist": "Me RehúsoDanny Ocean",
+        "weekDiff": 50.46875
+      },
+      {
+        "artist": "Becky G",
+        "song": "Mayores",
+        "songArtist": "MayoresBecky G",
+        "weekDiff": 44.96875
+      },
+      {
+        "artist": "Cali Y El Dandee",
+        "song": "Lumbra",
+        "songArtist": "LumbraCali Y El Dandee",
+        "weekDiff": 43.21875
+      },
+      {
+        "artist": "Maluma",
+        "song": "Felices los 4",
+        "songArtist": "Felices los 4Maluma",
+        "weekDiff": 43.109375
+      },
+      {
+        "artist": "Shakira",
+        "song": "Perro Fiel (feat. Nicky Jam)",
+        "songArtist": "Perro Fiel (feat. Nicky Jam)Shakira",
+        "weekDiff": 40
+      },
+      {
+        "artist": "Natti Natasha",
+        "song": "Criminal",
+        "songArtist": "CriminalNatti Natasha",
+        "weekDiff": 38.9375
+      },
+      {
+        "artist": "Anuel Aa",
+        "song": "Sola (Remix) [feat. Daddy Yankee, Wisin, Farruko, Zion & Lennox]",
+        "songArtist": "Sola (Remix) [feat. Daddy Yankee, Wisin, Farruko, Zion & Lennox]Anuel Aa",
+        "weekDiff": 38.109375
+      },
+      {
+        "artist": "CNCO",
+        "song": "Reggaetón Lento (Bailemos)",
+        "songArtist": "Reggaetón Lento (Bailemos)CNCO",
+        "weekDiff": 36.703125
+      },
+      {
+        "artist": "CNCO",
+        "song": "Hey DJ",
+        "songArtist": "Hey DJCNCO",
+        "weekDiff": 36.671875
+      },
+      {
+        "artist": "Piso 21",
+        "song": "Déjala Que Vuelva (feat. Manuel Turizo)",
+        "songArtist": "Déjala Que Vuelva (feat. Manuel Turizo)Piso 21",
+        "weekDiff": 36.265625
+      }
+    ]
+  },
+  {
+    "country": "fi",
+    "songs": [
+      {
+        "artist": "ItaloBrothers",
+        "song": "Summer Air",
+        "songArtist": "Summer AirItaloBrothers",
+        "weekDiff": 53.140625
+      },
+      {
+        "artist": "Alan Walker",
+        "song": "Faded",
+        "songArtist": "FadedAlan Walker",
+        "weekDiff": 34.765625
+      },
+      {
+        "artist": "Alan Walker",
+        "song": "Alone",
+        "songArtist": "AloneAlan Walker",
+        "weekDiff": 30.546875
+      },
+      {
+        "artist": "Robin Schulz",
+        "song": "OK",
+        "songArtist": "OKRobin Schulz",
+        "weekDiff": 26.375
+      },
+      {
+        "artist": "Burak Yeter",
+        "song": "Tuesday",
+        "songArtist": "TuesdayBurak Yeter",
+        "weekDiff": 23.21875
+      },
+      {
+        "artist": "Rag'n'Bone Man",
+        "song": "Skin",
+        "songArtist": "SkinRag'n'Bone Man",
+        "weekDiff": 20.4375
+      },
+      {
+        "artist": "Eminem",
+        "song": "Lose Yourself - Soundtrack Version",
+        "songArtist": "Lose Yourself - Soundtrack VersionEminem",
+        "weekDiff": 20.25
+      },
+      {
+        "artist": "Luis Fonsi",
+        "song": "Despacito - Remix",
+        "songArtist": "Despacito - RemixLuis Fonsi",
+        "weekDiff": 19.265625
+      },
+      {
+        "artist": "Axwell /\\ Ingrosso",
+        "song": "More Than You Know",
+        "songArtist": "More Than You KnowAxwell /\\ Ingrosso",
+        "weekDiff": 18.46875
+      },
+      {
+        "artist": "Sabrina Carpenter",
+        "song": "Thumbs",
+        "songArtist": "ThumbsSabrina Carpenter",
+        "weekDiff": 18.390625
+      }
+    ]
+  },
+  {
+    "country": "fr",
+    "songs": [
+      {
+        "artist": "Petit Biscuit",
+        "song": "Sunset Lover",
+        "songArtist": "Sunset LoverPetit Biscuit",
+        "weekDiff": 39.296875
+      },
+      {
+        "artist": "Ofenbach",
+        "song": "Be Mine",
+        "songArtist": "Be MineOfenbach",
+        "weekDiff": 37.390625
+      },
+      {
+        "artist": "The Chainsmokers",
+        "song": "It Won't Kill Ya",
+        "songArtist": "It Won't Kill YaThe Chainsmokers",
+        "weekDiff": 28.140625
+      },
+      {
+        "artist": "Tom Walker",
+        "song": "Leave a Light On",
+        "songArtist": "Leave a Light OnTom Walker",
+        "weekDiff": 27.796875
+      },
+      {
+        "artist": "Kungs",
+        "song": "This Girl (Kungs Vs. Cookin' On 3 Burners) - Kungs Vs. Cookin' On 3 Burners",
+        "songArtist": "This Girl (Kungs Vs. Cookin' On 3 Burners) - Kungs Vs. Cookin' On 3 BurnersKungs",
+        "weekDiff": 23.171875
+      },
+      {
+        "artist": "Major Lazer",
+        "song": "Light It Up (feat. Nyla & Fuse ODG) - Remix",
+        "songArtist": "Light It Up (feat. Nyla & Fuse ODG) - RemixMajor Lazer",
+        "weekDiff": 20.6875
+      },
+      {
+        "artist": "PNL",
+        "song": "A l'Ammoniaque",
+        "songArtist": "A l'AmmoniaquePNL",
+        "weekDiff": 18.234375
+      },
+      {
+        "artist": "MC Fioti",
+        "song": "Bum Bum Tam Tam",
+        "songArtist": "Bum Bum Tam TamMC Fioti",
+        "weekDiff": 17.578125
+      },
+      {
+        "artist": "Rag'n'Bone Man",
+        "song": "Human",
+        "songArtist": "HumanRag'n'Bone Man",
+        "weekDiff": 17.53125
+      },
+      {
+        "artist": "Rag'n'Bone Man",
+        "song": "Skin",
+        "songArtist": "SkinRag'n'Bone Man",
+        "weekDiff": 17.4375
+      }
+    ]
+  },
+  {
+    "country": "gr",
+    "songs": [
+      {
+        "artist": "Eminem",
+        "song": "'Till I Collapse",
+        "songArtist": "'Till I CollapseEminem",
+        "weekDiff": 72.734375
+      },
+      {
+        "artist": "Travis Scott",
+        "song": "goosebumps",
+        "songArtist": "goosebumpsTravis Scott",
+        "weekDiff": 67.125
+      },
+      {
+        "artist": "XXXTENTACION",
+        "song": "Look At Me!",
+        "songArtist": "Look At Me!XXXTENTACION",
+        "weekDiff": 56.09375
+      },
+      {
+        "artist": "The Weeknd",
+        "song": "Starboy",
+        "songArtist": "StarboyThe Weeknd",
+        "weekDiff": 50.8125
+      },
+      {
+        "artist": "Lord Huron",
+        "song": "The Night We Met",
+        "songArtist": "The Night We MetLord Huron",
+        "weekDiff": 47.796875
+      },
+      {
+        "artist": "Desiigner",
+        "song": "Panda",
+        "songArtist": "PandaDesiigner",
+        "weekDiff": 46.890625
+      },
+      {
+        "artist": "Future",
+        "song": "Mask Off",
+        "songArtist": "Mask OffFuture",
+        "weekDiff": 46.328125
+      },
+      {
+        "artist": "Rihanna",
+        "song": "Love On The Brain",
+        "songArtist": "Love On The BrainRihanna",
+        "weekDiff": 45.734375
+      },
+      {
+        "artist": "Travis Scott",
+        "song": "BUTTERFLY EFFECT",
+        "songArtist": "BUTTERFLY EFFECTTravis Scott",
+        "weekDiff": 44.671875
+      },
+      {
+        "artist": "Cardi B",
+        "song": "Bodak Yellow",
+        "songArtist": "Bodak YellowCardi B",
+        "weekDiff": 44.640625
+      }
+    ]
+  },
+  {
+    "country": "gt",
+    "songs": [
+      {
+        "artist": "Anuel Aa",
+        "song": "Sola (Remix) [feat. Daddy Yankee, Wisin, Farruko, Zion & Lennox]",
+        "songArtist": "Sola (Remix) [feat. Daddy Yankee, Wisin, Farruko, Zion & Lennox]Anuel Aa",
+        "weekDiff": 69.109375
+      },
+      {
+        "artist": "Zion & Lennox",
+        "song": "Otra Vez (feat. J Balvin)",
+        "songArtist": "Otra Vez (feat. J Balvin)Zion & Lennox",
+        "weekDiff": 66.875
+      },
+      {
+        "artist": "Coldplay",
+        "song": "The Scientist",
+        "songArtist": "The ScientistColdplay",
+        "weekDiff": 63.109375
+      },
+      {
+        "artist": "Piso 21",
+        "song": "Me Llamas (feat. Maluma) - Remix",
+        "songArtist": "Me Llamas (feat. Maluma) - RemixPiso 21",
+        "weekDiff": 62.09375
+      },
+      {
+        "artist": "Sebastian Yatra",
+        "song": "Traicionera",
+        "songArtist": "TraicioneraSebastian Yatra",
+        "weekDiff": 61.90625
+      },
+      {
+        "artist": "Chris Jeday",
+        "song": "Ahora Dice",
+        "songArtist": "Ahora DiceChris Jeday",
+        "weekDiff": 59.765625
+      },
+      {
+        "artist": "Nicky Jam",
+        "song": "Si Tú La Ves",
+        "songArtist": "Si Tú La VesNicky Jam",
+        "weekDiff": 58.03125
+      },
+      {
+        "artist": "Danny Ocean",
+        "song": "Me Rehúso",
+        "songArtist": "Me RehúsoDanny Ocean",
+        "weekDiff": 56.46875
+      },
+      {
+        "artist": "Manuel Turizo",
+        "song": "Una Lady Como Tú",
+        "songArtist": "Una Lady Como TúManuel Turizo",
+        "weekDiff": 54.25
+      },
+      {
+        "artist": "Chino & Nacho",
+        "song": "Andas En Mi Cabeza",
+        "songArtist": "Andas En Mi CabezaChino & Nacho",
+        "weekDiff": 53.140625
+      }
+    ]
+  },
+  {
+    "country": "hk",
+    "songs": [
+      {
+        "artist": "Passenger",
+        "song": "Let Her Go",
+        "songArtist": "Let Her GoPassenger",
+        "weekDiff": 61.296875
+      },
+      {
+        "artist": "Alan Walker",
+        "song": "Faded",
+        "songArtist": "FadedAlan Walker",
+        "weekDiff": 56.765625
+      },
+      {
+        "artist": "Charlie Puth",
+        "song": "We Don't Talk Anymore (feat. Selena Gomez)",
+        "songArtist": "We Don't Talk Anymore (feat. Selena Gomez)Charlie Puth",
+        "weekDiff": 56.109375
+      },
+      {
+        "artist": "Bruno Mars",
+        "song": "Versace On The Floor",
+        "songArtist": "Versace On The FloorBruno Mars",
+        "weekDiff": 44.984375
+      },
+      {
+        "artist": "BLACKPINK",
+        "song": "As If It's Your Last",
+        "songArtist": "As If It's Your LastBLACKPINK",
+        "weekDiff": 43.671875
+      },
+      {
+        "artist": "Bruno Mars",
+        "song": "That's What I Like",
+        "songArtist": "That's What I LikeBruno Mars",
+        "weekDiff": 43.234375
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "Photograph",
+        "songArtist": "PhotographEd Sheeran",
+        "weekDiff": 39.5
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "Thinking Out Loud",
+        "songArtist": "Thinking Out LoudEd Sheeran",
+        "weekDiff": 39.46875
+      },
+      {
+        "artist": "Maroon 5",
+        "song": "Sugar",
+        "songArtist": "SugarMaroon 5",
+        "weekDiff": 38.140625
+      },
+      {
+        "artist": "James Arthur",
+        "song": "Say You Won't Let Go",
+        "songArtist": "Say You Won't Let GoJames Arthur",
+        "weekDiff": 38
+      }
+    ]
+  },
+  {
+    "country": "hn",
+    "songs": [
+      {
+        "artist": "Anuel Aa",
+        "song": "Sola (Remix) [feat. Daddy Yankee, Wisin, Farruko, Zion & Lennox]",
+        "songArtist": "Sola (Remix) [feat. Daddy Yankee, Wisin, Farruko, Zion & Lennox]Anuel Aa",
+        "weekDiff": 69.109375
+      },
+      {
+        "artist": "Zion & Lennox",
+        "song": "Otra Vez (feat. J Balvin)",
+        "songArtist": "Otra Vez (feat. J Balvin)Zion & Lennox",
+        "weekDiff": 66.875
+      },
+      {
+        "artist": "Sean Paul",
+        "song": "No Lie",
+        "songArtist": "No LieSean Paul",
+        "weekDiff": 64.609375
+      },
+      {
+        "artist": "Coldplay",
+        "song": "The Scientist",
+        "songArtist": "The ScientistColdplay",
+        "weekDiff": 64.109375
+      },
+      {
+        "artist": "Chris Jeday",
+        "song": "Ahora Dice",
+        "songArtist": "Ahora DiceChris Jeday",
+        "weekDiff": 59.765625
+      },
+      {
+        "artist": "Piso 21",
+        "song": "Me Llamas (feat. Maluma) - Remix",
+        "songArtist": "Me Llamas (feat. Maluma) - RemixPiso 21",
+        "weekDiff": 57.09375
+      },
+      {
+        "artist": "Danny Ocean",
+        "song": "Me Rehúso",
+        "songArtist": "Me RehúsoDanny Ocean",
+        "weekDiff": 56.46875
+      },
+      {
+        "artist": "Sebastian Yatra",
+        "song": "Traicionera",
+        "songArtist": "TraicioneraSebastian Yatra",
+        "weekDiff": 54.90625
+      },
+      {
+        "artist": "Nicky Jam",
+        "song": "Si Tú La Ves",
+        "songArtist": "Si Tú La VesNicky Jam",
+        "weekDiff": 54.03125
+      },
+      {
+        "artist": "Manuel Turizo",
+        "song": "Una Lady Como Tú",
+        "songArtist": "Una Lady Como TúManuel Turizo",
+        "weekDiff": 53.25
+      }
+    ]
+  },
+  {
+    "country": "hu",
+    "songs": [
+      {
+        "artist": "Linkin Park",
+        "song": "In The End",
+        "songArtist": "In The EndLinkin Park",
+        "weekDiff": 74.234375
+      },
+      {
+        "artist": "Eminem",
+        "song": "'Till I Collapse",
+        "songArtist": "'Till I CollapseEminem",
+        "weekDiff": 70.734375
+      },
+      {
+        "artist": "Macklemore & Ryan Lewis",
+        "song": "Can't Hold Us - feat. Ray Dalton",
+        "songArtist": "Can't Hold Us - feat. Ray DaltonMacklemore & Ryan Lewis",
+        "weekDiff": 61.359375
+      },
+      {
+        "artist": "Twenty One Pilots",
+        "song": "Stressed Out",
+        "songArtist": "Stressed OutTwenty One Pilots",
+        "weekDiff": 58.625
+      },
+      {
+        "artist": "Linkin Park",
+        "song": "Numb",
+        "songArtist": "NumbLinkin Park",
+        "weekDiff": 54.6875
+      },
+      {
+        "artist": "Robin Schulz",
+        "song": "OK",
+        "songArtist": "OKRobin Schulz",
+        "weekDiff": 52.375
+      },
+      {
+        "artist": "Imagine Dragons",
+        "song": "Whatever It Takes",
+        "songArtist": "Whatever It TakesImagine Dragons",
+        "weekDiff": 51.609375
+      },
+      {
+        "artist": "Rag'n'Bone Man",
+        "song": "Human",
+        "songArtist": "HumanRag'n'Bone Man",
+        "weekDiff": 48.53125
+      },
+      {
+        "artist": "Burak Yeter",
+        "song": "Tuesday",
+        "songArtist": "TuesdayBurak Yeter",
+        "weekDiff": 47.21875
+      },
+      {
+        "artist": "Sean Paul",
+        "song": "No Lie",
+        "songArtist": "No LieSean Paul",
+        "weekDiff": 42.609375
+      }
+    ]
+  },
+  {
+    "country": "id",
+    "songs": [
+      {
+        "artist": "Bruno Mars",
+        "song": "Versace On The Floor",
+        "songArtist": "Versace On The FloorBruno Mars",
+        "weekDiff": 80.984375
+      },
+      {
+        "artist": "BLACKPINK",
+        "song": "As If It's Your Last",
+        "songArtist": "As If It's Your LastBLACKPINK",
+        "weekDiff": 62.671875
+      },
+      {
+        "artist": "Coldplay",
+        "song": "The Scientist",
+        "songArtist": "The ScientistColdplay",
+        "weekDiff": 50.109375
+      },
+      {
+        "artist": "Bruno Mars",
+        "song": "That's What I Like",
+        "songArtist": "That's What I LikeBruno Mars",
+        "weekDiff": 48.234375
+      },
+      {
+        "artist": "Louis Tomlinson",
+        "song": "Back to You (feat. Bebe Rexha & Digital Farm Animals)",
+        "songArtist": "Back to You (feat. Bebe Rexha & Digital Farm Animals)Louis Tomlinson",
+        "weekDiff": 46.3125
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "Dive",
+        "songArtist": "DiveEd Sheeran",
+        "weekDiff": 42.53125
+      },
+      {
+        "artist": "Maggie Lindemann",
+        "song": "Pretty Girl - Cheat Codes X CADE Remix",
+        "songArtist": "Pretty Girl - Cheat Codes X CADE RemixMaggie Lindemann",
+        "weekDiff": 42
+      },
+      {
+        "artist": "Jonas Blue",
+        "song": "Mama",
+        "songArtist": "MamaJonas Blue",
+        "weekDiff": 41.40625
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "Photograph",
+        "songArtist": "PhotographEd Sheeran",
+        "weekDiff": 39.5
+      },
+      {
+        "artist": "Martin Garrix",
+        "song": "There for You",
+        "songArtist": "There for YouMartin Garrix",
+        "weekDiff": 38.9375
+      }
+    ]
+  },
+  {
+    "country": "ie",
+    "songs": [
+      {
+        "artist": "The Killers",
+        "song": "Mr. Brightside",
+        "songArtist": "Mr. BrightsideThe Killers",
+        "weekDiff": 84.578125
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "Castle on the Hill",
+        "songArtist": "Castle on the HillEd Sheeran",
+        "weekDiff": 56.890625
+      },
+      {
+        "artist": "Toto",
+        "song": "Africa",
+        "songArtist": "AfricaToto",
+        "weekDiff": 55.828125
+      },
+      {
+        "artist": "Sigala",
+        "song": "Came Here for Love",
+        "songArtist": "Came Here for LoveSigala",
+        "weekDiff": 52.96875
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "Happier",
+        "songArtist": "HappierEd Sheeran",
+        "weekDiff": 50.375
+      },
+      {
+        "artist": "NEIKED",
+        "song": "Sexual",
+        "songArtist": "SexualNEIKED",
+        "weekDiff": 50.078125
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "Supermarket Flowers",
+        "songArtist": "Supermarket FlowersEd Sheeran",
+        "weekDiff": 49.328125
+      },
+      {
+        "artist": "Oasis",
+        "song": "Wonderwall - Remastered",
+        "songArtist": "Wonderwall - RemasteredOasis",
+        "weekDiff": 48.125
+      },
+      {
+        "artist": "James Bay",
+        "song": "Let It Go",
+        "songArtist": "Let It GoJames Bay",
+        "weekDiff": 46.515625
+      },
+      {
+        "artist": "Macklemore & Ryan Lewis",
+        "song": "Can't Hold Us - feat. Ray Dalton",
+        "songArtist": "Can't Hold Us - feat. Ray DaltonMacklemore & Ryan Lewis",
+        "weekDiff": 45.359375
+      }
+    ]
+  },
+  {
+    "country": "il",
+    "songs": [
+      {
+        "artist": "Hozier",
+        "song": "Take Me to Church",
+        "songArtist": "Take Me to ChurchHozier",
+        "weekDiff": 29.6875
+      },
+      {
+        "artist": "Netta",
+        "song": "Toy",
+        "songArtist": "ToyNetta",
+        "weekDiff": 26.96875
+      },
+      {
+        "artist": "Sia",
+        "song": "Genius - with Sia, Diplo & Labrinth",
+        "songArtist": "Genius - with Sia, Diplo & LabrinthSia",
+        "weekDiff": 21.625
+      },
+      {
+        "artist": "Queen",
+        "song": "Bohemian Rhapsody - Remastered 2011",
+        "songArtist": "Bohemian Rhapsody - Remastered 2011Queen",
+        "weekDiff": 21.4375
+      },
+      {
+        "artist": "Beyoncé",
+        "song": "Halo",
+        "songArtist": "HaloBeyoncé",
+        "weekDiff": 20.59375
+      },
+      {
+        "artist": "David Guetta",
+        "song": "Like I Do",
+        "songArtist": "Like I DoDavid Guetta",
+        "weekDiff": 16.15625
+      },
+      {
+        "artist": "Passenger",
+        "song": "Let Her Go",
+        "songArtist": "Let Her GoPassenger",
+        "weekDiff": 15.296875
+      },
+      {
+        "artist": "Lil Dicky",
+        "song": "Freaky Friday (feat. Chris Brown)",
+        "songArtist": "Freaky Friday (feat. Chris Brown)Lil Dicky",
+        "weekDiff": 15.171875
+      },
+      {
+        "artist": "Sean Paul",
+        "song": "Mad Love",
+        "songArtist": "Mad LoveSean Paul",
+        "weekDiff": 15.046875
+      },
+      {
+        "artist": "Jason Mraz",
+        "song": "I'm Yours",
+        "songArtist": "I'm YoursJason Mraz",
+        "weekDiff": 14.203125
+      }
+    ]
+  },
+  {
+    "country": "is",
+    "songs": [
+      {
+        "artist": "Kaleo",
+        "song": "Way Down We Go",
+        "songArtist": "Way Down We GoKaleo",
+        "weekDiff": 83.984375
+      },
+      {
+        "artist": "Journey",
+        "song": "Don't Stop Believin'",
+        "songArtist": "Don't Stop Believin'Journey",
+        "weekDiff": 76.90625
+      },
+      {
+        "artist": "Beyoncé",
+        "song": "Halo",
+        "songArtist": "HaloBeyoncé",
+        "weekDiff": 69.59375
+      },
+      {
+        "artist": "Childish Gambino",
+        "song": "Redbone",
+        "songArtist": "RedboneChildish Gambino",
+        "weekDiff": 61.15625
+      },
+      {
+        "artist": "Sam Smith",
+        "song": "Stay With Me",
+        "songArtist": "Stay With MeSam Smith",
+        "weekDiff": 56.96875
+      },
+      {
+        "artist": "Post Malone",
+        "song": "Go Flex",
+        "songArtist": "Go FlexPost Malone",
+        "weekDiff": 52.59375
+      },
+      {
+        "artist": "Queen",
+        "song": "Don't Stop Me Now - Remastered",
+        "songArtist": "Don't Stop Me Now - RemasteredQueen",
+        "weekDiff": 51.75
+      },
+      {
+        "artist": "Lord Huron",
+        "song": "The Night We Met",
+        "songArtist": "The Night We MetLord Huron",
+        "weekDiff": 50.796875
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "Happier",
+        "songArtist": "HappierEd Sheeran",
+        "weekDiff": 48.375
+      },
+      {
+        "artist": "Post Malone",
+        "song": "White Iverson",
+        "songArtist": "White IversonPost Malone",
+        "weekDiff": 44.71875
+      }
+    ]
+  },
+  {
+    "country": "it",
+    "songs": [
+      {
+        "artist": "Sfera Ebbasta",
+        "song": "Ricchi x Sempre",
+        "songArtist": "Ricchi x SempreSfera Ebbasta",
+        "weekDiff": 40.28125
+      },
+      {
+        "artist": "Sfera Ebbasta",
+        "song": "Rockstar",
+        "songArtist": "RockstarSfera Ebbasta",
+        "weekDiff": 40.234375
+      },
+      {
+        "artist": "Sfera Ebbasta",
+        "song": "Sciroppo (feat. DrefGold)",
+        "songArtist": "Sciroppo (feat. DrefGold)Sfera Ebbasta",
+        "weekDiff": 40.21875
+      },
+      {
+        "artist": "Sfera Ebbasta",
+        "song": "Cupido (feat. Quavo)",
+        "songArtist": "Cupido (feat. Quavo)Sfera Ebbasta",
+        "weekDiff": 40.1875
+      },
+      {
+        "artist": "Danny Ocean",
+        "song": "Me Rehúso",
+        "songArtist": "Me RehúsoDanny Ocean",
+        "weekDiff": 37.46875
+      },
+      {
+        "artist": "Ghali",
+        "song": "Cara Italia",
+        "songArtist": "Cara ItaliaGhali",
+        "weekDiff": 37.328125
+      },
+      {
+        "artist": "Robin Schulz",
+        "song": "OK",
+        "songArtist": "OKRobin Schulz",
+        "weekDiff": 29.375
+      },
+      {
+        "artist": "Natti Natasha",
+        "song": "Criminal",
+        "songArtist": "CriminalNatti Natasha",
+        "weekDiff": 28.9375
+      },
+      {
+        "artist": "Imagine Dragons",
+        "song": "Next To Me",
+        "songArtist": "Next To MeImagine Dragons",
+        "weekDiff": 28.8125
+      },
+      {
+        "artist": "Capo Plaza",
+        "song": "Tesla (feat. Sfera Ebbasta & DrefGold)",
+        "songArtist": "Tesla (feat. Sfera Ebbasta & DrefGold)Capo Plaza",
+        "weekDiff": 27.5
+      }
+    ]
+  },
+  {
+    "country": "jp",
+    "songs": [
+      {
+        "artist": "Taylor Swift",
+        "song": "Shake It Off",
+        "songArtist": "Shake It OffTaylor Swift",
+        "weekDiff": 55.15625
+      },
+      {
+        "artist": "Justin Bieber",
+        "song": "What Do You Mean?",
+        "songArtist": "What Do You Mean?Justin Bieber",
+        "weekDiff": 53.578125
+      },
+      {
+        "artist": "Maroon 5",
+        "song": "Sugar",
+        "songArtist": "SugarMaroon 5",
+        "weekDiff": 50.140625
+      },
+      {
+        "artist": "BTS",
+        "song": "DNA",
+        "songArtist": "DNABTS",
+        "weekDiff": 48.359375
+      },
+      {
+        "artist": "Justin Bieber",
+        "song": "Sorry",
+        "songArtist": "SorryJustin Bieber",
+        "weekDiff": 44.390625
+      },
+      {
+        "artist": "Ariana Grande",
+        "song": "One Last Time",
+        "songArtist": "One Last TimeAriana Grande",
+        "weekDiff": 42.875
+      },
+      {
+        "artist": "Zedd",
+        "song": "Stay",
+        "songArtist": "StayZedd",
+        "weekDiff": 35.96875
+      },
+      {
+        "artist": "BTS",
+        "song": "Go Go",
+        "songArtist": "Go GoBTS",
+        "weekDiff": 35.15625
+      },
+      {
+        "artist": "BLACKPINK",
+        "song": "As If It's Your Last",
+        "songArtist": "As If It's Your LastBLACKPINK",
+        "weekDiff": 32.671875
+      },
+      {
+        "artist": "DJ Khaled",
+        "song": "I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)",
+        "songArtist": "I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)DJ Khaled",
+        "weekDiff": 30.890625
+      }
+    ]
+  },
+  {
+    "country": "lt",
+    "songs": [
+      {
+        "artist": "Childish Gambino",
+        "song": "Redbone",
+        "songArtist": "RedboneChildish Gambino",
+        "weekDiff": 71.15625
+      },
+      {
+        "artist": "Earth, Wind & Fire",
+        "song": "September",
+        "songArtist": "SeptemberEarth, Wind & Fire",
+        "weekDiff": 49.75
+      },
+      {
+        "artist": "Lil Peep",
+        "song": "Save That Shit",
+        "songArtist": "Save That ShitLil Peep",
+        "weekDiff": 43.40625
+      },
+      {
+        "artist": "A R I Z O N A",
+        "song": "Oceans Away",
+        "songArtist": "Oceans AwayA R I Z O N A",
+        "weekDiff": 35.8125
+      },
+      {
+        "artist": "Lauv",
+        "song": "I Like Me Better",
+        "songArtist": "I Like Me BetterLauv",
+        "weekDiff": 33.234375
+      },
+      {
+        "artist": "Burak Yeter",
+        "song": "Tuesday",
+        "songArtist": "TuesdayBurak Yeter",
+        "weekDiff": 33.21875
+      },
+      {
+        "artist": "Lord Huron",
+        "song": "The Night We Met",
+        "songArtist": "The Night We MetLord Huron",
+        "weekDiff": 32.796875
+      },
+      {
+        "artist": "Portugal. The Man",
+        "song": "Feel It Still",
+        "songArtist": "Feel It StillPortugal. The Man",
+        "weekDiff": 32.296875
+      },
+      {
+        "artist": "Martin Jensen",
+        "song": "Solo Dance",
+        "songArtist": "Solo DanceMartin Jensen",
+        "weekDiff": 32.140625
+      },
+      {
+        "artist": "XXXTENTACION",
+        "song": "Look At Me!",
+        "songArtist": "Look At Me!XXXTENTACION",
+        "weekDiff": 32.09375
+      }
+    ]
+  },
+  {
+    "country": "lu",
+    "songs": [
+      {
+        "artist": "Travis Scott",
+        "song": "goosebumps",
+        "songArtist": "goosebumpsTravis Scott",
+        "weekDiff": 54.125
+      },
+      {
+        "artist": "Bausa",
+        "song": "Was Du Liebe nennst",
+        "songArtist": "Was Du Liebe nennstBausa",
+        "weekDiff": 51.390625
+      },
+      {
+        "artist": "Macklemore & Ryan Lewis",
+        "song": "Can't Hold Us - feat. Ray Dalton",
+        "songArtist": "Can't Hold Us - feat. Ray DaltonMacklemore & Ryan Lewis",
+        "weekDiff": 45.359375
+      },
+      {
+        "artist": "Oasis",
+        "song": "Wonderwall - Remastered",
+        "songArtist": "Wonderwall - RemasteredOasis",
+        "weekDiff": 40.125
+      },
+      {
+        "artist": "Future",
+        "song": "Mask Off",
+        "songArtist": "Mask OffFuture",
+        "weekDiff": 38.328125
+      },
+      {
+        "artist": "Tom Walker",
+        "song": "Leave a Light On",
+        "songArtist": "Leave a Light OnTom Walker",
+        "weekDiff": 32.796875
+      },
+      {
+        "artist": "Luis Fonsi",
+        "song": "Despacito (Featuring Daddy Yankee)",
+        "songArtist": "Despacito (Featuring Daddy Yankee)Luis Fonsi",
+        "weekDiff": 32.578125
+      },
+      {
+        "artist": "Martin Jensen",
+        "song": "Solo Dance",
+        "songArtist": "Solo DanceMartin Jensen",
+        "weekDiff": 31.140625
+      },
+      {
+        "artist": "XXXTENTACION",
+        "song": "Look At Me!",
+        "songArtist": "Look At Me!XXXTENTACION",
+        "weekDiff": 31.09375
+      },
+      {
+        "artist": "Drake",
+        "song": "One Dance",
+        "songArtist": "One DanceDrake",
+        "weekDiff": 29.734375
+      }
+    ]
+  },
+  {
+    "country": "lv",
+    "songs": [
+      {
+        "artist": "J. Cole",
+        "song": "No Role Modelz",
+        "songArtist": "No Role ModelzJ. Cole",
+        "weekDiff": 67.5625
+      },
+      {
+        "artist": "Post Malone",
+        "song": "Go Flex",
+        "songArtist": "Go FlexPost Malone",
+        "weekDiff": 58.59375
+      },
+      {
+        "artist": "Eminem",
+        "song": "'Till I Collapse",
+        "songArtist": "'Till I CollapseEminem",
+        "weekDiff": 53.734375
+      },
+      {
+        "artist": "XXXTENTACION",
+        "song": "Look At Me!",
+        "songArtist": "Look At Me!XXXTENTACION",
+        "weekDiff": 52.09375
+      },
+      {
+        "artist": "Childish Gambino",
+        "song": "Redbone",
+        "songArtist": "RedboneChildish Gambino",
+        "weekDiff": 51.15625
+      },
+      {
+        "artist": "Post Malone",
+        "song": "White Iverson",
+        "songArtist": "White IversonPost Malone",
+        "weekDiff": 46.71875
+      },
+      {
+        "artist": "Kaleo",
+        "song": "Way Down We Go",
+        "songArtist": "Way Down We GoKaleo",
+        "weekDiff": 44.984375
+      },
+      {
+        "artist": "Lil Peep",
+        "song": "Save That Shit",
+        "songArtist": "Save That ShitLil Peep",
+        "weekDiff": 44.40625
+      },
+      {
+        "artist": "Lord Huron",
+        "song": "The Night We Met",
+        "songArtist": "The Night We MetLord Huron",
+        "weekDiff": 42.796875
+      },
+      {
+        "artist": "Travis Scott",
+        "song": "goosebumps",
+        "songArtist": "goosebumpsTravis Scott",
+        "weekDiff": 42.125
+      }
+    ]
+  },
+  {
+    "country": "mt",
+    "songs": [
+      {
+        "artist": "Oasis",
+        "song": "Wonderwall - Remastered",
+        "songArtist": "Wonderwall - RemasteredOasis",
+        "weekDiff": 61.125
+      },
+      {
+        "artist": "Coldplay",
+        "song": "The Scientist",
+        "songArtist": "The ScientistColdplay",
+        "weekDiff": 56.109375
+      },
+      {
+        "artist": "Jason Mraz",
+        "song": "I'm Yours",
+        "songArtist": "I'm YoursJason Mraz",
+        "weekDiff": 40.203125
+      },
+      {
+        "artist": "The Killers",
+        "song": "Mr. Brightside",
+        "songArtist": "Mr. BrightsideThe Killers",
+        "weekDiff": 39.578125
+      },
+      {
+        "artist": "Toto",
+        "song": "Africa",
+        "songArtist": "AfricaToto",
+        "weekDiff": 35.828125
+      },
+      {
+        "artist": "Journey",
+        "song": "Don't Stop Believin'",
+        "songArtist": "Don't Stop Believin'Journey",
+        "weekDiff": 34.90625
+      },
+      {
+        "artist": "Beyoncé",
+        "song": "Halo",
+        "songArtist": "HaloBeyoncé",
+        "weekDiff": 34.59375
+      },
+      {
+        "artist": "James Arthur",
+        "song": "Say You Won't Let Go",
+        "songArtist": "Say You Won't Let GoJames Arthur",
+        "weekDiff": 33
+      },
+      {
+        "artist": "JP Cooper",
+        "song": "September Song",
+        "songArtist": "September SongJP Cooper",
+        "weekDiff": 31.5625
+      },
+      {
+        "artist": "Lord Huron",
+        "song": "The Night We Met",
+        "songArtist": "The Night We MetLord Huron",
+        "weekDiff": 30.796875
+      }
+    ]
+  },
+  {
+    "country": "mx",
+    "songs": [
+      {
+        "artist": "Queen",
+        "song": "Bohemian Rhapsody - Remastered 2011",
+        "songArtist": "Bohemian Rhapsody - Remastered 2011Queen",
+        "weekDiff": 80.4375
+      },
+      {
+        "artist": "Sebastian Yatra",
+        "song": "Traicionera",
+        "songArtist": "TraicioneraSebastian Yatra",
+        "weekDiff": 70.90625
+      },
+      {
+        "artist": "Zion & Lennox",
+        "song": "Otra Vez (feat. J Balvin)",
+        "songArtist": "Otra Vez (feat. J Balvin)Zion & Lennox",
+        "weekDiff": 66.875
+      },
+      {
+        "artist": "Maluma",
+        "song": "Borro Cassette",
+        "songArtist": "Borro CassetteMaluma",
+        "weekDiff": 64.6875
+      },
+      {
+        "artist": "Coldplay",
+        "song": "The Scientist",
+        "songArtist": "The ScientistColdplay",
+        "weekDiff": 64.109375
+      },
+      {
+        "artist": "Piso 21",
+        "song": "Me Llamas (feat. Maluma) - Remix",
+        "songArtist": "Me Llamas (feat. Maluma) - RemixPiso 21",
+        "weekDiff": 60.09375
+      },
+      {
+        "artist": "IAmChino",
+        "song": "Ay Mi Dios (feat. Pitbull, Yandel & Chacal)",
+        "songArtist": "Ay Mi Dios (feat. Pitbull, Yandel & Chacal)IAmChino",
+        "weekDiff": 58.625
+      },
+      {
+        "artist": "Daddy Yankee",
+        "song": "La Rompe Corazones",
+        "songArtist": "La Rompe CorazonesDaddy Yankee",
+        "weekDiff": 57.59375
+      },
+      {
+        "artist": "Ricky Martin",
+        "song": "Vente Pa' Ca",
+        "songArtist": "Vente Pa' CaRicky Martin",
+        "weekDiff": 56.453125
+      },
+      {
+        "artist": "Chris Jeday",
+        "song": "Ahora Dice",
+        "songArtist": "Ahora DiceChris Jeday",
+        "weekDiff": 51.765625
+      }
+    ]
+  },
+  {
+    "country": "my",
+    "songs": [
+      {
+        "artist": "Sam Smith",
+        "song": "I'm Not The Only One",
+        "songArtist": "I'm Not The Only OneSam Smith",
+        "weekDiff": 83.28125
+      },
+      {
+        "artist": "Jason Mraz",
+        "song": "I'm Yours",
+        "songArtist": "I'm YoursJason Mraz",
+        "weekDiff": 71.203125
+      },
+      {
+        "artist": "Passenger",
+        "song": "Let Her Go",
+        "songArtist": "Let Her GoPassenger",
+        "weekDiff": 62.296875
+      },
+      {
+        "artist": "Coldplay",
+        "song": "The Scientist",
+        "songArtist": "The ScientistColdplay",
+        "weekDiff": 62.109375
+      },
+      {
+        "artist": "Bruno Mars",
+        "song": "Versace On The Floor",
+        "songArtist": "Versace On The FloorBruno Mars",
+        "weekDiff": 60.984375
+      },
+      {
+        "artist": "BLACKPINK",
+        "song": "As If It's Your Last",
+        "songArtist": "As If It's Your LastBLACKPINK",
+        "weekDiff": 60.671875
+      },
+      {
+        "artist": "Justin Bieber",
+        "song": "Love Yourself",
+        "songArtist": "Love YourselfJustin Bieber",
+        "weekDiff": 59.578125
+      },
+      {
+        "artist": "Alan Walker",
+        "song": "Faded",
+        "songArtist": "FadedAlan Walker",
+        "weekDiff": 52.765625
+      },
+      {
+        "artist": "BTS",
+        "song": "DNA",
+        "songArtist": "DNABTS",
+        "weekDiff": 47.359375
+      },
+      {
+        "artist": "Alessia Cara",
+        "song": "Scars To Your Beautiful",
+        "songArtist": "Scars To Your BeautifulAlessia Cara",
+        "weekDiff": 46.375
+      }
+    ]
+  },
+  {
+    "country": "ni",
+    "songs": [
+      {
+        "artist": "DJ Snake",
+        "song": "Middle",
+        "songArtist": "MiddleDJ Snake",
+        "weekDiff": 82.28125
+      },
+      {
+        "artist": "Queen",
+        "song": "Bohemian Rhapsody - Remastered 2011",
+        "songArtist": "Bohemian Rhapsody - Remastered 2011Queen",
+        "weekDiff": 72.4375
+      },
+      {
+        "artist": "Carlos Vives",
+        "song": "La Bicicleta",
+        "songArtist": "La BicicletaCarlos Vives",
+        "weekDiff": 69.921875
+      },
+      {
+        "artist": "Anuel Aa",
+        "song": "Sola (Remix) [feat. Daddy Yankee, Wisin, Farruko, Zion & Lennox]",
+        "songArtist": "Sola (Remix) [feat. Daddy Yankee, Wisin, Farruko, Zion & Lennox]Anuel Aa",
+        "weekDiff": 69.109375
+      },
+      {
+        "artist": "Passenger",
+        "song": "Let Her Go",
+        "songArtist": "Let Her GoPassenger",
+        "weekDiff": 68.296875
+      },
+      {
+        "artist": "Zion & Lennox",
+        "song": "Otra Vez (feat. J Balvin)",
+        "songArtist": "Otra Vez (feat. J Balvin)Zion & Lennox",
+        "weekDiff": 66.875
+      },
+      {
+        "artist": "Sean Paul",
+        "song": "No Lie",
+        "songArtist": "No LieSean Paul",
+        "weekDiff": 65.609375
+      },
+      {
+        "artist": "Coldplay",
+        "song": "The Scientist",
+        "songArtist": "The ScientistColdplay",
+        "weekDiff": 64.109375
+      },
+      {
+        "artist": "Mike Posner",
+        "song": "I Took A Pill In Ibiza - Seeb Remix",
+        "songArtist": "I Took A Pill In Ibiza - Seeb RemixMike Posner",
+        "weekDiff": 63.59375
+      },
+      {
+        "artist": "Piso 21",
+        "song": "Me Llamas (feat. Maluma) - Remix",
+        "songArtist": "Me Llamas (feat. Maluma) - RemixPiso 21",
+        "weekDiff": 61.09375
+      }
+    ]
+  },
+  {
+    "country": "nl",
+    "songs": [
+      {
+        "artist": "Boef",
+        "song": "Habiba",
+        "songArtist": "HabibaBoef",
+        "weekDiff": 47.4375
+      },
+      {
+        "artist": "James Arthur",
+        "song": "Say You Won't Let Go",
+        "songArtist": "Say You Won't Let GoJames Arthur",
+        "weekDiff": 35
+      },
+      {
+        "artist": "Niall Horan",
+        "song": "This Town",
+        "songArtist": "This TownNiall Horan",
+        "weekDiff": 33.96875
+      },
+      {
+        "artist": "Imagine Dragons",
+        "song": "Whatever It Takes",
+        "songArtist": "Whatever It TakesImagine Dragons",
+        "weekDiff": 31.609375
+      },
+      {
+        "artist": "The Script",
+        "song": "Rain",
+        "songArtist": "RainThe Script",
+        "weekDiff": 29.9375
+      },
+      {
+        "artist": "Jason Mraz",
+        "song": "I'm Yours",
+        "songArtist": "I'm YoursJason Mraz",
+        "weekDiff": 29.203125
+      },
+      {
+        "artist": "Toto",
+        "song": "Africa",
+        "songArtist": "AfricaToto",
+        "weekDiff": 26.828125
+      },
+      {
+        "artist": "CNCO",
+        "song": "Reggaetón Lento (Remix)",
+        "songArtist": "Reggaetón Lento (Remix)CNCO",
+        "weekDiff": 25.390625
+      },
+      {
+        "artist": "JP Cooper",
+        "song": "September Song",
+        "songArtist": "September SongJP Cooper",
+        "weekDiff": 23.5625
+      },
+      {
+        "artist": "AJR",
+        "song": "Weak",
+        "songArtist": "WeakAJR",
+        "weekDiff": 23.078125
+      }
+    ]
+  },
+  {
+    "country": "no",
+    "songs": [
+      {
+        "artist": "Calum Scott",
+        "song": "Dancing On My Own",
+        "songArtist": "Dancing On My OwnCalum Scott",
+        "weekDiff": 66.296875
+      },
+      {
+        "artist": "ItaloBrothers",
+        "song": "Summer Air",
+        "songArtist": "Summer AirItaloBrothers",
+        "weekDiff": 65.140625
+      },
+      {
+        "artist": "Adele",
+        "song": "When We Were Young",
+        "songArtist": "When We Were YoungAdele",
+        "weekDiff": 58.3125
+      },
+      {
+        "artist": "Alan Walker",
+        "song": "Faded",
+        "songArtist": "FadedAlan Walker",
+        "weekDiff": 54.765625
+      },
+      {
+        "artist": "Astrid S",
+        "song": "Think Before I Talk",
+        "songArtist": "Think Before I TalkAstrid S",
+        "weekDiff": 54.25
+      },
+      {
+        "artist": "Alan Walker",
+        "song": "The Spectre",
+        "songArtist": "The SpectreAlan Walker",
+        "weekDiff": 52.71875
+      },
+      {
+        "artist": "Rag'n'Bone Man",
+        "song": "Skin",
+        "songArtist": "SkinRag'n'Bone Man",
+        "weekDiff": 49.4375
+      },
+      {
+        "artist": "Burak Yeter",
+        "song": "Tuesday",
+        "songArtist": "TuesdayBurak Yeter",
+        "weekDiff": 46.21875
+      },
+      {
+        "artist": "Alan Walker",
+        "song": "Alone",
+        "songArtist": "AloneAlan Walker",
+        "weekDiff": 40.546875
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "Happier",
+        "songArtist": "HappierEd Sheeran",
+        "weekDiff": 40.375
+      }
+    ]
+  },
+  {
+    "country": "nz",
+    "songs": [
+      {
+        "artist": "J. Cole",
+        "song": "No Role Modelz",
+        "songArtist": "No Role ModelzJ. Cole",
+        "weekDiff": 87.5625
+      },
+      {
+        "artist": "The Killers",
+        "song": "Mr. Brightside",
+        "songArtist": "Mr. BrightsideThe Killers",
+        "weekDiff": 84.578125
+      },
+      {
+        "artist": "Childish Gambino",
+        "song": "Redbone",
+        "songArtist": "RedboneChildish Gambino",
+        "weekDiff": 70.15625
+      },
+      {
+        "artist": "Khalid",
+        "song": "Location",
+        "songArtist": "LocationKhalid",
+        "weekDiff": 59.46875
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "Castle on the Hill",
+        "songArtist": "Castle on the HillEd Sheeran",
+        "weekDiff": 57.890625
+      },
+      {
+        "artist": "J. Cole",
+        "song": "Neighbors",
+        "songArtist": "NeighborsJ. Cole",
+        "weekDiff": 55.890625
+      },
+      {
+        "artist": "Travis Scott",
+        "song": "goosebumps",
+        "songArtist": "goosebumpsTravis Scott",
+        "weekDiff": 53.125
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "Happier",
+        "songArtist": "HappierEd Sheeran",
+        "weekDiff": 50.375
+      },
+      {
+        "artist": "Flume",
+        "song": "Never Be Like You",
+        "songArtist": "Never Be Like YouFlume",
+        "weekDiff": 49.703125
+      },
+      {
+        "artist": "Kendrick Lamar",
+        "song": "LOVE. FEAT. ZACARI.",
+        "songArtist": "LOVE. FEAT. ZACARI.Kendrick Lamar",
+        "weekDiff": 49.640625
+      }
+    ]
+  },
+  {
+    "country": "pa",
+    "songs": [
+      {
+        "artist": "Anuel Aa",
+        "song": "Sola (Remix) [feat. Daddy Yankee, Wisin, Farruko, Zion & Lennox]",
+        "songArtist": "Sola (Remix) [feat. Daddy Yankee, Wisin, Farruko, Zion & Lennox]Anuel Aa",
+        "weekDiff": 69.109375
+      },
+      {
+        "artist": "Zion & Lennox",
+        "song": "Otra Vez (feat. J Balvin)",
+        "songArtist": "Otra Vez (feat. J Balvin)Zion & Lennox",
+        "weekDiff": 66.875
+      },
+      {
+        "artist": "Ozuna",
+        "song": "Dile Que Tu Me Quieres",
+        "songArtist": "Dile Que Tu Me QuieresOzuna",
+        "weekDiff": 64.609375
+      },
+      {
+        "artist": "Chris Jeday",
+        "song": "Ahora Dice",
+        "songArtist": "Ahora DiceChris Jeday",
+        "weekDiff": 58.765625
+      },
+      {
+        "artist": "Ozuna",
+        "song": "Bebe (feat. Anuel AA)",
+        "songArtist": "Bebe (feat. Anuel AA)Ozuna",
+        "weekDiff": 56.5
+      },
+      {
+        "artist": "Danny Ocean",
+        "song": "Me Rehúso",
+        "songArtist": "Me RehúsoDanny Ocean",
+        "weekDiff": 56.46875
+      },
+      {
+        "artist": "Piso 21",
+        "song": "Me Llamas (feat. Maluma) - Remix",
+        "songArtist": "Me Llamas (feat. Maluma) - RemixPiso 21",
+        "weekDiff": 56.09375
+      },
+      {
+        "artist": "Daddy Yankee",
+        "song": "La Rompe Corazones",
+        "songArtist": "La Rompe CorazonesDaddy Yankee",
+        "weekDiff": 54.59375
+      },
+      {
+        "artist": "Nicky Jam",
+        "song": "Si Tú La Ves",
+        "songArtist": "Si Tú La VesNicky Jam",
+        "weekDiff": 54.03125
+      },
+      {
+        "artist": "Manuel Turizo",
+        "song": "Una Lady Como Tú",
+        "songArtist": "Una Lady Como TúManuel Turizo",
+        "weekDiff": 53.25
+      }
+    ]
+  },
+  {
+    "country": "pe",
+    "songs": [
+      {
+        "artist": "Chino & Nacho",
+        "song": "Andas En Mi Cabeza",
+        "songArtist": "Andas En Mi CabezaChino & Nacho",
+        "weekDiff": 75.140625
+      },
+      {
+        "artist": "Carlos Vives",
+        "song": "La Bicicleta",
+        "songArtist": "La BicicletaCarlos Vives",
+        "weekDiff": 74.921875
+      },
+      {
+        "artist": "Piso 21",
+        "song": "Me Llamas (feat. Maluma) - Remix",
+        "songArtist": "Me Llamas (feat. Maluma) - RemixPiso 21",
+        "weekDiff": 71.09375
+      },
+      {
+        "artist": "Sebastian Yatra",
+        "song": "Traicionera",
+        "songArtist": "TraicioneraSebastian Yatra",
+        "weekDiff": 70.90625
+      },
+      {
+        "artist": "Anuel Aa",
+        "song": "Sola (Remix) [feat. Daddy Yankee, Wisin, Farruko, Zion & Lennox]",
+        "songArtist": "Sola (Remix) [feat. Daddy Yankee, Wisin, Farruko, Zion & Lennox]Anuel Aa",
+        "weekDiff": 69.109375
+      },
+      {
+        "artist": "CNCO",
+        "song": "Reggaetón Lento (Bailemos)",
+        "songArtist": "Reggaetón Lento (Bailemos)CNCO",
+        "weekDiff": 67.703125
+      },
+      {
+        "artist": "Zion & Lennox",
+        "song": "Otra Vez (feat. J Balvin)",
+        "songArtist": "Otra Vez (feat. J Balvin)Zion & Lennox",
+        "weekDiff": 66.875
+      },
+      {
+        "artist": "Coldplay",
+        "song": "The Scientist",
+        "songArtist": "The ScientistColdplay",
+        "weekDiff": 64.109375
+      },
+      {
+        "artist": "IAmChino",
+        "song": "Ay Mi Dios (feat. Pitbull, Yandel & Chacal)",
+        "songArtist": "Ay Mi Dios (feat. Pitbull, Yandel & Chacal)IAmChino",
+        "weekDiff": 63.625
+      },
+      {
+        "artist": "Nicky Jam",
+        "song": "Si Tú La Ves",
+        "songArtist": "Si Tú La VesNicky Jam",
+        "weekDiff": 62.03125
+      }
+    ]
+  },
+  {
+    "country": "ph",
+    "songs": [
+      {
+        "artist": "Sam Smith",
+        "song": "I'm Not The Only One",
+        "songArtist": "I'm Not The Only OneSam Smith",
+        "weekDiff": 85.28125
+      },
+      {
+        "artist": "Bruno Mars",
+        "song": "Versace On The Floor",
+        "songArtist": "Versace On The FloorBruno Mars",
+        "weekDiff": 80.984375
+      },
+      {
+        "artist": "Jason Mraz",
+        "song": "I'm Yours",
+        "songArtist": "I'm YoursJason Mraz",
+        "weekDiff": 75.203125
+      },
+      {
+        "artist": "Andy Grammer",
+        "song": "Fresh Eyes",
+        "songArtist": "Fresh EyesAndy Grammer",
+        "weekDiff": 73.359375
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "Dive",
+        "songArtist": "DiveEd Sheeran",
+        "weekDiff": 65.53125
+      },
+      {
+        "artist": "Coldplay",
+        "song": "The Scientist",
+        "songArtist": "The ScientistColdplay",
+        "weekDiff": 65.109375
+      },
+      {
+        "artist": "LANY",
+        "song": "Super Far",
+        "songArtist": "Super FarLANY",
+        "weekDiff": 61.46875
+      },
+      {
+        "artist": "Hailee Steinfeld",
+        "song": "Starving",
+        "songArtist": "StarvingHailee Steinfeld",
+        "weekDiff": 55.609375
+      },
+      {
+        "artist": "Isaiah",
+        "song": "It's Gotta Be You",
+        "songArtist": "It's Gotta Be YouIsaiah",
+        "weekDiff": 52.203125
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "Happier",
+        "songArtist": "HappierEd Sheeran",
+        "weekDiff": 50.375
+      }
+    ]
+  },
+  {
+    "country": "pl",
+    "songs": [
+      {
+        "artist": "Ofenbach",
+        "song": "Be Mine",
+        "songArtist": "Be MineOfenbach",
+        "weekDiff": 71.390625
+      },
+      {
+        "artist": "Robin Schulz",
+        "song": "Sugar (feat. Francesco Yates)",
+        "songArtist": "Sugar (feat. Francesco Yates)Robin Schulz",
+        "weekDiff": 63.4375
+      },
+      {
+        "artist": "Major Lazer",
+        "song": "Lean On (feat. MØ & DJ Snake)",
+        "songArtist": "Lean On (feat. MØ & DJ Snake)Major Lazer",
+        "weekDiff": 61.671875
+      },
+      {
+        "artist": "Kungs",
+        "song": "This Girl (Kungs Vs. Cookin' On 3 Burners) - Kungs Vs. Cookin' On 3 Burners",
+        "songArtist": "This Girl (Kungs Vs. Cookin' On 3 Burners) - Kungs Vs. Cookin' On 3 BurnersKungs",
+        "weekDiff": 52.171875
+      },
+      {
+        "artist": "Felix Jaehn",
+        "song": "Hot2Touch",
+        "songArtist": "Hot2TouchFelix Jaehn",
+        "weekDiff": 52.078125
+      },
+      {
+        "artist": "Macklemore & Ryan Lewis",
+        "song": "Can't Hold Us - feat. Ray Dalton",
+        "songArtist": "Can't Hold Us - feat. Ray DaltonMacklemore & Ryan Lewis",
+        "weekDiff": 49.359375
+      },
+      {
+        "artist": "Major Lazer",
+        "song": "Light It Up (feat. Nyla & Fuse ODG) - Remix",
+        "songArtist": "Light It Up (feat. Nyla & Fuse ODG) - RemixMajor Lazer",
+        "weekDiff": 47.6875
+      },
+      {
+        "artist": "Burak Yeter",
+        "song": "Tuesday",
+        "songArtist": "TuesdayBurak Yeter",
+        "weekDiff": 45.21875
+      },
+      {
+        "artist": "Tiësto",
+        "song": "On My Way",
+        "songArtist": "On My WayTiësto",
+        "weekDiff": 44.8125
+      },
+      {
+        "artist": "DNCE",
+        "song": "Cake By The Ocean",
+        "songArtist": "Cake By The OceanDNCE",
+        "weekDiff": 43.09375
+      }
+    ]
+  },
+  {
+    "country": "pt",
+    "songs": [
+      {
+        "artist": "Travis Scott",
+        "song": "goosebumps",
+        "songArtist": "goosebumpsTravis Scott",
+        "weekDiff": 53.125
+      },
+      {
+        "artist": "MC Kevinho",
+        "song": "Olha a Explosão",
+        "songArtist": "Olha a ExplosãoMC Kevinho",
+        "weekDiff": 51.140625
+      },
+      {
+        "artist": "Khalid",
+        "song": "Location",
+        "songArtist": "LocationKhalid",
+        "weekDiff": 48.46875
+      },
+      {
+        "artist": "Major Lazer",
+        "song": "Sua Cara (feat. Anitta & Pabllo Vittar)",
+        "songArtist": "Sua Cara (feat. Anitta & Pabllo Vittar)Major Lazer",
+        "weekDiff": 44.25
+      },
+      {
+        "artist": "Anitta",
+        "song": "Vai malandra (feat. Tropkillaz & DJ Yuri Martins)",
+        "songArtist": "Vai malandra (feat. Tropkillaz & DJ Yuri Martins)Anitta",
+        "weekDiff": 42.828125
+      },
+      {
+        "artist": "Childish Gambino",
+        "song": "Redbone",
+        "songArtist": "RedboneChildish Gambino",
+        "weekDiff": 41.15625
+      },
+      {
+        "artist": "Danny Ocean",
+        "song": "Me Rehúso",
+        "songArtist": "Me RehúsoDanny Ocean",
+        "weekDiff": 40.46875
+      },
+      {
+        "artist": "Maluma",
+        "song": "Felices los 4",
+        "songArtist": "Felices los 4Maluma",
+        "weekDiff": 38.109375
+      },
+      {
+        "artist": "XXXTENTACION",
+        "song": "Fuck Love (feat. Trippie Redd)",
+        "songArtist": "Fuck Love (feat. Trippie Redd)XXXTENTACION",
+        "weekDiff": 35.78125
+      },
+      {
+        "artist": "Imagine Dragons",
+        "song": "Whatever It Takes",
+        "songArtist": "Whatever It TakesImagine Dragons",
+        "weekDiff": 35.609375
+      }
+    ]
+  },
+  {
+    "country": "py",
+    "songs": [
+      {
+        "artist": "Don Omar",
+        "song": "Te Quiero Pa´Mi",
+        "songArtist": "Te Quiero Pa´MiDon Omar",
+        "weekDiff": 73.5
+      },
+      {
+        "artist": "Anuel Aa",
+        "song": "Sola (Remix) [feat. Daddy Yankee, Wisin, Farruko, Zion & Lennox]",
+        "songArtist": "Sola (Remix) [feat. Daddy Yankee, Wisin, Farruko, Zion & Lennox]Anuel Aa",
+        "weekDiff": 69.109375
+      },
+      {
+        "artist": "Zion & Lennox",
+        "song": "Otra Vez (feat. J Balvin)",
+        "songArtist": "Otra Vez (feat. J Balvin)Zion & Lennox",
+        "weekDiff": 66.875
+      },
+      {
+        "artist": "Coldplay",
+        "song": "The Scientist",
+        "songArtist": "The ScientistColdplay",
+        "weekDiff": 64.109375
+      },
+      {
+        "artist": "Piso 21",
+        "song": "Besándote",
+        "songArtist": "BesándotePiso 21",
+        "weekDiff": 58.5625
+      },
+      {
+        "artist": "Danny Ocean",
+        "song": "Me Rehúso",
+        "songArtist": "Me RehúsoDanny Ocean",
+        "weekDiff": 56.46875
+      },
+      {
+        "artist": "Ozuna",
+        "song": "Bebe (feat. Anuel AA)",
+        "songArtist": "Bebe (feat. Anuel AA)Ozuna",
+        "weekDiff": 55.5
+      },
+      {
+        "artist": "Sebastian Yatra",
+        "song": "Traicionera",
+        "songArtist": "TraicioneraSebastian Yatra",
+        "weekDiff": 54.90625
+      },
+      {
+        "artist": "Piso 21",
+        "song": "Me Llamas (feat. Maluma) - Remix",
+        "songArtist": "Me Llamas (feat. Maluma) - RemixPiso 21",
+        "weekDiff": 52.09375
+      },
+      {
+        "artist": "MC Kevinho",
+        "song": "Olha a Explosão",
+        "songArtist": "Olha a ExplosãoMC Kevinho",
+        "weekDiff": 51.140625
+      }
+    ]
+  },
+  {
+    "country": "ro",
+    "songs": [
+      {
+        "artist": "Famous Dex",
+        "song": "PICK IT UP (feat. A$AP Rocky)",
+        "songArtist": "PICK IT UP (feat. A$AP Rocky)Famous Dex",
+        "weekDiff": 22.75
+      },
+      {
+        "artist": "XXXTENTACION",
+        "song": "the remedy for a broken heart (why am I so in love)",
+        "songArtist": "the remedy for a broken heart (why am I so in love)XXXTENTACION",
+        "weekDiff": 22.1875
+      },
+      {
+        "artist": "Jay Rock",
+        "song": "King's Dead (with Kendrick Lamar, Future & James Blake)",
+        "songArtist": "King's Dead (with Kendrick Lamar, Future & James Blake)Jay Rock",
+        "weekDiff": 21.328125
+      },
+      {
+        "artist": "Famous Dex",
+        "song": "JAPAN",
+        "songArtist": "JAPANFamous Dex",
+        "weekDiff": 20.359375
+      },
+      {
+        "artist": "XXXTENTACION",
+        "song": "NUMB",
+        "songArtist": "NUMBXXXTENTACION",
+        "weekDiff": 20.03125
+      },
+      {
+        "artist": "Rich The Kid",
+        "song": "Plug Walk",
+        "songArtist": "Plug WalkRich The Kid",
+        "weekDiff": 19.8125
+      },
+      {
+        "artist": "Migos",
+        "song": "Walk It Talk It",
+        "songArtist": "Walk It Talk ItMigos",
+        "weekDiff": 19.734375
+      },
+      {
+        "artist": "Migos",
+        "song": "Narcos",
+        "songArtist": "NarcosMigos",
+        "weekDiff": 19.671875
+      },
+      {
+        "artist": "Lil Pump",
+        "song": "Esskeetit",
+        "songArtist": "EsskeetitLil Pump",
+        "weekDiff": 19.109375
+      },
+      {
+        "artist": "XXXTENTACION",
+        "song": "Hope",
+        "songArtist": "HopeXXXTENTACION",
+        "weekDiff": 18.578125
+      }
+    ]
+  },
+  {
+    "country": "se",
+    "songs": [
+      {
+        "artist": "Journey",
+        "song": "Don't Stop Believin'",
+        "songArtist": "Don't Stop Believin'Journey",
+        "weekDiff": 80.90625
+      },
+      {
+        "artist": "Joakim Lundell",
+        "song": "All I Need",
+        "songArtist": "All I NeedJoakim Lundell",
+        "weekDiff": 54.640625
+      },
+      {
+        "artist": "Adele",
+        "song": "When We Were Young",
+        "songArtist": "When We Were YoungAdele",
+        "weekDiff": 50.3125
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "Happier",
+        "songArtist": "HappierEd Sheeran",
+        "weekDiff": 49.375
+      },
+      {
+        "artist": "Martin Jensen",
+        "song": "Solo Dance",
+        "songArtist": "Solo DanceMartin Jensen",
+        "weekDiff": 44.140625
+      },
+      {
+        "artist": "Post Malone",
+        "song": "Go Flex",
+        "songArtist": "Go FlexPost Malone",
+        "weekDiff": 35.59375
+      },
+      {
+        "artist": "Calum Scott",
+        "song": "Dancing On My Own",
+        "songArtist": "Dancing On My OwnCalum Scott",
+        "weekDiff": 34.296875
+      },
+      {
+        "artist": "Luis Fonsi",
+        "song": "Despacito - Remix",
+        "songArtist": "Despacito - RemixLuis Fonsi",
+        "weekDiff": 34.265625
+      },
+      {
+        "artist": "Alessia Cara",
+        "song": "How Far I'll Go - From \"Moana\"",
+        "songArtist": "How Far I'll Go - From \"Moana\"Alessia Cara",
+        "weekDiff": 34.171875
+      },
+      {
+        "artist": "OneRepublic",
+        "song": "Rich Love (with Seeb)",
+        "songArtist": "Rich Love (with Seeb)OneRepublic",
+        "weekDiff": 33.53125
+      }
+    ]
+  },
+  {
+    "country": "sg",
+    "songs": [
+      {
+        "artist": "Sam Smith",
+        "song": "I'm Not The Only One",
+        "songArtist": "I'm Not The Only OneSam Smith",
+        "weekDiff": 80.28125
+      },
+      {
+        "artist": "Jason Mraz",
+        "song": "I'm Yours",
+        "songArtist": "I'm YoursJason Mraz",
+        "weekDiff": 63.203125
+      },
+      {
+        "artist": "Coldplay",
+        "song": "The Scientist",
+        "songArtist": "The ScientistColdplay",
+        "weekDiff": 63.109375
+      },
+      {
+        "artist": "BLACKPINK",
+        "song": "As If It's Your Last",
+        "songArtist": "As If It's Your LastBLACKPINK",
+        "weekDiff": 61.671875
+      },
+      {
+        "artist": "Justin Bieber",
+        "song": "Love Yourself",
+        "songArtist": "Love YourselfJustin Bieber",
+        "weekDiff": 60.578125
+      },
+      {
+        "artist": "Bruno Mars",
+        "song": "Versace On The Floor",
+        "songArtist": "Versace On The FloorBruno Mars",
+        "weekDiff": 59.984375
+      },
+      {
+        "artist": "Alan Walker",
+        "song": "Faded",
+        "songArtist": "FadedAlan Walker",
+        "weekDiff": 55.765625
+      },
+      {
+        "artist": "Charlie Puth",
+        "song": "We Don't Talk Anymore (feat. Selena Gomez)",
+        "songArtist": "We Don't Talk Anymore (feat. Selena Gomez)Charlie Puth",
+        "weekDiff": 55.109375
+      },
+      {
+        "artist": "BTS",
+        "song": "DNA",
+        "songArtist": "DNABTS",
+        "weekDiff": 48.359375
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "Happier",
+        "songArtist": "HappierEd Sheeran",
+        "weekDiff": 47.375
+      }
+    ]
+  },
+  {
+    "country": "sk",
+    "songs": [
+      {
+        "artist": "Eminem",
+        "song": "'Till I Collapse",
+        "songArtist": "'Till I CollapseEminem",
+        "weekDiff": 67.734375
+      },
+      {
+        "artist": "Imagine Dragons",
+        "song": "Whatever It Takes",
+        "songArtist": "Whatever It TakesImagine Dragons",
+        "weekDiff": 51.609375
+      },
+      {
+        "artist": "Lord Huron",
+        "song": "The Night We Met",
+        "songArtist": "The Night We MetLord Huron",
+        "weekDiff": 42.796875
+      },
+      {
+        "artist": "Lil Peep",
+        "song": "Save That Shit",
+        "songArtist": "Save That ShitLil Peep",
+        "weekDiff": 40.40625
+      },
+      {
+        "artist": "Kygo",
+        "song": "It Ain't Me (with Selena Gomez)",
+        "songArtist": "It Ain't Me (with Selena Gomez)Kygo",
+        "weekDiff": 38.359375
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "Happier",
+        "songArtist": "HappierEd Sheeran",
+        "weekDiff": 36.375
+      },
+      {
+        "artist": "Lil Wayne",
+        "song": "Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",
+        "songArtist": "Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)Lil Wayne",
+        "weekDiff": 33.421875
+      },
+      {
+        "artist": "Kygo",
+        "song": "Stargazing",
+        "songArtist": "StargazingKygo",
+        "weekDiff": 32.25
+      },
+      {
+        "artist": "Lauv",
+        "song": "I Like Me Better",
+        "songArtist": "I Like Me BetterLauv",
+        "weekDiff": 32.234375
+      },
+      {
+        "artist": "Imagine Dragons",
+        "song": "Next To Me",
+        "songArtist": "Next To MeImagine Dragons",
+        "weekDiff": 30.8125
+      }
+    ]
+  },
+  {
+    "country": "sv",
+    "songs": [
+      {
+        "artist": "DJ Snake",
+        "song": "Middle",
+        "songArtist": "MiddleDJ Snake",
+        "weekDiff": 71.28125
+      },
+      {
+        "artist": "Anuel Aa",
+        "song": "Sola (Remix) [feat. Daddy Yankee, Wisin, Farruko, Zion & Lennox]",
+        "songArtist": "Sola (Remix) [feat. Daddy Yankee, Wisin, Farruko, Zion & Lennox]Anuel Aa",
+        "weekDiff": 69.109375
+      },
+      {
+        "artist": "Zion & Lennox",
+        "song": "Otra Vez (feat. J Balvin)",
+        "songArtist": "Otra Vez (feat. J Balvin)Zion & Lennox",
+        "weekDiff": 66.875
+      },
+      {
+        "artist": "Coldplay",
+        "song": "The Scientist",
+        "songArtist": "The ScientistColdplay",
+        "weekDiff": 64.109375
+      },
+      {
+        "artist": "Piso 21",
+        "song": "Me Llamas (feat. Maluma) - Remix",
+        "songArtist": "Me Llamas (feat. Maluma) - RemixPiso 21",
+        "weekDiff": 60.09375
+      },
+      {
+        "artist": "Chris Jeday",
+        "song": "Ahora Dice",
+        "songArtist": "Ahora DiceChris Jeday",
+        "weekDiff": 59.765625
+      },
+      {
+        "artist": "Sebastian Yatra",
+        "song": "Traicionera",
+        "songArtist": "TraicioneraSebastian Yatra",
+        "weekDiff": 56.90625
+      },
+      {
+        "artist": "Danny Ocean",
+        "song": "Me Rehúso",
+        "songArtist": "Me RehúsoDanny Ocean",
+        "weekDiff": 56.46875
+      },
+      {
+        "artist": "Alan Walker",
+        "song": "Faded",
+        "songArtist": "FadedAlan Walker",
+        "weekDiff": 55.765625
+      },
+      {
+        "artist": "CNCO",
+        "song": "Reggaetón Lento (Bailemos)",
+        "songArtist": "Reggaetón Lento (Bailemos)CNCO",
+        "weekDiff": 54.703125
+      }
+    ]
+  },
+  {
+    "country": "th",
+    "songs": [
+      {
+        "artist": "BLACKPINK",
+        "song": "As If It's Your Last",
+        "songArtist": "As If It's Your LastBLACKPINK",
+        "weekDiff": 54.671875
+      },
+      {
+        "artist": "BTS",
+        "song": "DNA",
+        "songArtist": "DNABTS",
+        "weekDiff": 47.359375
+      },
+      {
+        "artist": "Khalid",
+        "song": "Young Dumb & Broke",
+        "songArtist": "Young Dumb & BrokeKhalid",
+        "weekDiff": 32.234375
+      },
+      {
+        "artist": "LANY",
+        "song": "Super Far",
+        "songArtist": "Super FarLANY",
+        "weekDiff": 27.46875
+      },
+      {
+        "artist": "Lauv",
+        "song": "I Like Me Better",
+        "songArtist": "I Like Me BetterLauv",
+        "weekDiff": 22.234375
+      },
+      {
+        "artist": "Daya",
+        "song": "New",
+        "songArtist": "NewDaya",
+        "weekDiff": 20.21875
+      },
+      {
+        "artist": "Louis Tomlinson",
+        "song": "Back to You (feat. Bebe Rexha & Digital Farm Animals)",
+        "songArtist": "Back to You (feat. Bebe Rexha & Digital Farm Animals)Louis Tomlinson",
+        "weekDiff": 17.3125
+      },
+      {
+        "artist": "Charlie Puth",
+        "song": "How Long",
+        "songArtist": "How LongCharlie Puth",
+        "weekDiff": 16.96875
+      },
+      {
+        "artist": "R3HAB",
+        "song": "I Just Can't",
+        "songArtist": "I Just Can'tR3HAB",
+        "weekDiff": 16.53125
+      },
+      {
+        "artist": "BTS",
+        "song": "The Truth Untold",
+        "songArtist": "The Truth UntoldBTS",
+        "weekDiff": 16.40625
+      }
+    ]
+  },
+  {
+    "country": "tr",
+    "songs": [
+      {
+        "artist": "Anne-Marie",
+        "song": "Ciao Adios",
+        "songArtist": "Ciao AdiosAnne-Marie",
+        "weekDiff": 59.59375
+      },
+      {
+        "artist": "Rag'n'Bone Man",
+        "song": "Human",
+        "songArtist": "HumanRag'n'Bone Man",
+        "weekDiff": 52.53125
+      },
+      {
+        "artist": "Burak Yeter",
+        "song": "Tuesday",
+        "songArtist": "TuesdayBurak Yeter",
+        "weekDiff": 38.21875
+      },
+      {
+        "artist": "Kaleo",
+        "song": "Way Down We Go",
+        "songArtist": "Way Down We GoKaleo",
+        "weekDiff": 37.984375
+      },
+      {
+        "artist": "The Weeknd",
+        "song": "Starboy",
+        "songArtist": "StarboyThe Weeknd",
+        "weekDiff": 37.8125
+      },
+      {
+        "artist": "Hozier",
+        "song": "Take Me To Church",
+        "songArtist": "Take Me To ChurchHozier",
+        "weekDiff": 37.53125
+      },
+      {
+        "artist": "Sean Paul",
+        "song": "No Lie",
+        "songArtist": "No LieSean Paul",
+        "weekDiff": 30.609375
+      },
+      {
+        "artist": "Sia",
+        "song": "The Greatest",
+        "songArtist": "The GreatestSia",
+        "weekDiff": 29.109375
+      },
+      {
+        "artist": "Future",
+        "song": "Mask Off",
+        "songArtist": "Mask OffFuture",
+        "weekDiff": 28.328125
+      },
+      {
+        "artist": "Eminem",
+        "song": "'Till I Collapse",
+        "songArtist": "'Till I CollapseEminem",
+        "weekDiff": 26.734375
+      }
+    ]
+  },
+  {
+    "country": "tw",
+    "songs": [
+      {
+        "artist": "Alan Walker",
+        "song": "Faded",
+        "songArtist": "FadedAlan Walker",
+        "weekDiff": 56.765625
+      },
+      {
+        "artist": "Charlie Puth",
+        "song": "We Don't Talk Anymore (feat. Selena Gomez)",
+        "songArtist": "We Don't Talk Anymore (feat. Selena Gomez)Charlie Puth",
+        "weekDiff": 48.109375
+      },
+      {
+        "artist": "Mike Perry",
+        "song": "The Ocean (feat. Shy Martin)",
+        "songArtist": "The Ocean (feat. Shy Martin)Mike Perry",
+        "weekDiff": 47.1875
+      },
+      {
+        "artist": "BLACKPINK",
+        "song": "As If It's Your Last",
+        "songArtist": "As If It's Your LastBLACKPINK",
+        "weekDiff": 45.671875
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "Photograph",
+        "songArtist": "PhotographEd Sheeran",
+        "weekDiff": 39.5
+      },
+      {
+        "artist": "The Chainsmokers",
+        "song": "Closer",
+        "songArtist": "CloserThe Chainsmokers",
+        "weekDiff": 35.734375
+      },
+      {
+        "artist": "Zedd",
+        "song": "Stay",
+        "songArtist": "StayZedd",
+        "weekDiff": 34.96875
+      },
+      {
+        "artist": "Alan Walker",
+        "song": "All Falls Down (feat. Juliander)",
+        "songArtist": "All Falls Down (feat. Juliander)Alan Walker",
+        "weekDiff": 34.5
+      },
+      {
+        "artist": "The Chainsmokers",
+        "song": "Paris",
+        "songArtist": "ParisThe Chainsmokers",
+        "weekDiff": 32.453125
+      },
+      {
+        "artist": "Lauv",
+        "song": "I Like Me Better",
+        "songArtist": "I Like Me BetterLauv",
+        "weekDiff": 32.234375
+      }
+    ]
+  },
+  {
+    "country": "uy",
+    "songs": [
+      {
+        "artist": "Zion & Lennox",
+        "song": "Otra Vez (feat. J Balvin)",
+        "songArtist": "Otra Vez (feat. J Balvin)Zion & Lennox",
+        "weekDiff": 60.875
+      },
+      {
+        "artist": "Sebastian Yatra",
+        "song": "Traicionera",
+        "songArtist": "TraicioneraSebastian Yatra",
+        "weekDiff": 59.90625
+      },
+      {
+        "artist": "Piso 21",
+        "song": "Me Llamas (feat. Maluma) - Remix",
+        "songArtist": "Me Llamas (feat. Maluma) - RemixPiso 21",
+        "weekDiff": 52.09375
+      },
+      {
+        "artist": "Danny Ocean",
+        "song": "Me Rehúso",
+        "songArtist": "Me RehúsoDanny Ocean",
+        "weekDiff": 51.46875
+      },
+      {
+        "artist": "MC Kevinho",
+        "song": "Olha a Explosão",
+        "songArtist": "Olha a ExplosãoMC Kevinho",
+        "weekDiff": 48.140625
+      },
+      {
+        "artist": "Daddy Yankee",
+        "song": "La Rompe Corazones",
+        "songArtist": "La Rompe CorazonesDaddy Yankee",
+        "weekDiff": 47.59375
+      },
+      {
+        "artist": "Carlos Vives",
+        "song": "Robarte un Beso",
+        "songArtist": "Robarte un BesoCarlos Vives",
+        "weekDiff": 46.796875
+      },
+      {
+        "artist": "CNCO",
+        "song": "Reggaetón Lento (Bailemos)",
+        "songArtist": "Reggaetón Lento (Bailemos)CNCO",
+        "weekDiff": 46.703125
+      },
+      {
+        "artist": "Maluma",
+        "song": "Felices los 4",
+        "songArtist": "Felices los 4Maluma",
+        "weekDiff": 46.109375
+      },
+      {
+        "artist": "Becky G",
+        "song": "Mayores",
+        "songArtist": "MayoresBecky G",
+        "weekDiff": 45.96875
+      }
+    ]
+  },
+  {
+    "country": "vn",
+    "songs": [
+      {
+        "artist": "BTS",
+        "song": "Intro: Singularity",
+        "songArtist": "Intro: SingularityBTS",
+        "weekDiff": 16.84375
+      },
+      {
+        "artist": "BTS",
+        "song": "The Truth Untold",
+        "songArtist": "The Truth UntoldBTS",
+        "weekDiff": 15.40625
+      },
+      {
+        "artist": "BTS",
+        "song": "IDOL",
+        "songArtist": "IDOLBTS",
+        "weekDiff": 14.890625
+      },
+      {
+        "artist": "BTS",
+        "song": "Magic Shop",
+        "songArtist": "Magic ShopBTS",
+        "weekDiff": 14.53125
+      },
+      {
+        "artist": "BLACKPINK",
+        "song": "DDU-DU DDU-DU - KR Ver.",
+        "songArtist": "DDU-DU DDU-DU - KR Ver.BLACKPINK",
+        "weekDiff": 14.09375
+      },
+      {
+        "artist": "BLACKPINK",
+        "song": "As If It's Your Last",
+        "songArtist": "As If It's Your LastBLACKPINK",
+        "weekDiff": 13.671875
+      },
+      {
+        "artist": "BTS",
+        "song": "Airplane pt.2",
+        "songArtist": "Airplane pt.2BTS",
+        "weekDiff": 13.578125
+      },
+      {
+        "artist": "BTS",
+        "song": "DNA",
+        "songArtist": "DNABTS",
+        "weekDiff": 12.359375
+      },
+      {
+        "artist": "BTS",
+        "song": "Go Go",
+        "songArtist": "Go GoBTS",
+        "weekDiff": 12.15625
+      },
+      {
+        "artist": "BTS",
+        "song": "Anpanman",
+        "songArtist": "AnpanmanBTS",
+        "weekDiff": 12.046875
+      }
+    ]
+  },
+  {
+    "country": "za",
+    "songs": [
+      {
+        "artist": "Journey",
+        "song": "Don't Stop Believin'",
+        "songArtist": "Don't Stop Believin'Journey",
+        "weekDiff": 24.90625
+      },
+      {
+        "artist": "King Princess",
+        "song": "1950",
+        "songArtist": "1950King Princess",
+        "weekDiff": 21.421875
+      },
+      {
+        "artist": "Ella Mai",
+        "song": "Boo'd Up",
+        "songArtist": "Boo'd UpElla Mai",
+        "weekDiff": 19.109375
+      },
+      {
+        "artist": "Beyoncé",
+        "song": "Halo",
+        "songArtist": "HaloBeyoncé",
+        "weekDiff": 18.59375
+      },
+      {
+        "artist": "Jess Glynne",
+        "song": "I'll Be There",
+        "songArtist": "I'll Be ThereJess Glynne",
+        "weekDiff": 17.1875
+      },
+      {
+        "artist": "Toto",
+        "song": "Africa",
+        "songArtist": "AfricaToto",
+        "weekDiff": 16.828125
+      },
+      {
+        "artist": "Khalid",
+        "song": "OTW",
+        "songArtist": "OTWKhalid",
+        "weekDiff": 16.078125
+      },
+      {
+        "artist": "Lil Baby",
+        "song": "Yes Indeed",
+        "songArtist": "Yes IndeedLil Baby",
+        "weekDiff": 15.84375
+      },
+      {
+        "artist": "Nicki Minaj",
+        "song": "Chun-Li",
+        "songArtist": "Chun-LiNicki Minaj",
+        "weekDiff": 15.796875
+      },
+      {
+        "artist": "Kygo",
+        "song": "Remind Me to Forget",
+        "songArtist": "Remind Me to ForgetKygo",
+        "weekDiff": 15.640625
+      }
+    ]
+  }
+]

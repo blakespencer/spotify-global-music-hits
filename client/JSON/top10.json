@@ -1,0 +1,4162 @@
+[
+  {
+    "country": "global",
+    "songs": [
+      {
+        "artist": "Post Malone",
+        "song": "rockstar",
+        "songArtist": "rockstarPost Malone",
+        "weekDiff": 11.796875
+      },
+      {
+        "artist": "Dua Lipa",
+        "song": "New Rules",
+        "songArtist": "New RulesDua Lipa",
+        "weekDiff": 11.328125
+      },
+      {
+        "artist": "Drake",
+        "song": "God's Plan",
+        "songArtist": "God's PlanDrake",
+        "weekDiff": 11.234375
+      },
+      {
+        "artist": "Juice WRLD",
+        "song": "Lucid Dreams",
+        "songArtist": "Lucid DreamsJuice WRLD",
+        "weekDiff": 10.796875
+      },
+      {
+        "artist": "Camila Cabello",
+        "song": "Havana",
+        "songArtist": "HavanaCamila Cabello",
+        "weekDiff": 10.53125
+      },
+      {
+        "artist": "Travis Scott",
+        "song": "SICKO MODE",
+        "songArtist": "SICKO MODETravis Scott",
+        "weekDiff": 9.421875
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "Perfect",
+        "songArtist": "PerfectEd Sheeran",
+        "weekDiff": 9.34375
+      },
+      {
+        "artist": "Cardi B",
+        "song": "I Like It",
+        "songArtist": "I Like ItCardi B",
+        "weekDiff": 9.25
+      },
+      {
+        "artist": "Post Malone",
+        "song": "Psycho (feat. Ty Dolla $ign)",
+        "songArtist": "Psycho (feat. Ty Dolla $ign)Post Malone",
+        "weekDiff": 8.25
+      },
+      {
+        "artist": "Maroon 5",
+        "song": "Girls Like You (feat. Cardi B)",
+        "songArtist": "Girls Like You (feat. Cardi B)Maroon 5",
+        "weekDiff": 8.15625
+      }
+    ]
+  },
+  {
+    "country": "us",
+    "songs": [
+      {
+        "artist": "Lil Uzi Vert",
+        "song": "XO TOUR Llif3",
+        "songArtist": "XO TOUR Llif3Lil Uzi Vert",
+        "weekDiff": 26.171875
+      },
+      {
+        "artist": "Juice WRLD",
+        "song": "Lucid Dreams",
+        "songArtist": "Lucid DreamsJuice WRLD",
+        "weekDiff": 17.796875
+      },
+      {
+        "artist": "Post Malone",
+        "song": "I Fall Apart",
+        "songArtist": "I Fall ApartPost Malone",
+        "weekDiff": 17.703125
+      },
+      {
+        "artist": "XXXTENTACION",
+        "song": "SAD!",
+        "songArtist": "SAD!XXXTENTACION",
+        "weekDiff": 15.046875
+      },
+      {
+        "artist": "Kendrick Lamar",
+        "song": "HUMBLE.",
+        "songArtist": "HUMBLE.Kendrick Lamar",
+        "weekDiff": 14.984375
+      },
+      {
+        "artist": "Future",
+        "song": "Mask Off",
+        "songArtist": "Mask OffFuture",
+        "weekDiff": 12.578125
+      },
+      {
+        "artist": "Logic",
+        "song": "1-800-273-8255",
+        "songArtist": "1-800-273-8255Logic",
+        "weekDiff": 12.109375
+      },
+      {
+        "artist": "French Montana",
+        "song": "Unforgettable",
+        "songArtist": "UnforgettableFrench Montana",
+        "weekDiff": 11.75
+      },
+      {
+        "artist": "BlocBoy JB",
+        "song": "Look Alive (feat. Drake)",
+        "songArtist": "Look Alive (feat. Drake)BlocBoy JB",
+        "weekDiff": 11.5625
+      },
+      {
+        "artist": "Travis Scott",
+        "song": "SICKO MODE",
+        "songArtist": "SICKO MODETravis Scott",
+        "weekDiff": 11.421875
+      }
+    ]
+  },
+  {
+    "country": "gb",
+    "songs": [
+      {
+        "artist": "French Montana",
+        "song": "Unforgettable",
+        "songArtist": "UnforgettableFrench Montana",
+        "weekDiff": 13.75
+      },
+      {
+        "artist": "Drake",
+        "song": "Nice For What",
+        "songArtist": "Nice For WhatDrake",
+        "weekDiff": 11.609375
+      },
+      {
+        "artist": "Calvin Harris",
+        "song": "One Kiss (with Dua Lipa)",
+        "songArtist": "One Kiss (with Dua Lipa)Calvin Harris",
+        "weekDiff": 10.28125
+      },
+      {
+        "artist": "Drake",
+        "song": "God's Plan",
+        "songArtist": "God's PlanDrake",
+        "weekDiff": 10.234375
+      },
+      {
+        "artist": "Lil Dicky",
+        "song": "Freaky Friday (feat. Chris Brown)",
+        "songArtist": "Freaky Friday (feat. Chris Brown)Lil Dicky",
+        "weekDiff": 9.78125
+      },
+      {
+        "artist": "Dua Lipa",
+        "song": "New Rules",
+        "songArtist": "New RulesDua Lipa",
+        "weekDiff": 9.328125
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "Castle on the Hill",
+        "songArtist": "Castle on the HillEd Sheeran",
+        "weekDiff": 8.78125
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "Galway Girl",
+        "songArtist": "Galway GirlEd Sheeran",
+        "weekDiff": 8.109375
+      },
+      {
+        "artist": "benny blanco",
+        "song": "Eastside (with Halsey & Khalid)",
+        "songArtist": "Eastside (with Halsey & Khalid)benny blanco",
+        "weekDiff": 7.8125
+      },
+      {
+        "artist": "Post Malone",
+        "song": "rockstar",
+        "songArtist": "rockstarPost Malone",
+        "weekDiff": 7.796875
+      }
+    ]
+  },
+  {
+    "country": "ad",
+    "songs": [
+      {
+        "artist": "Luis Fonsi",
+        "song": "Despacito (Featuring Daddy Yankee)",
+        "songArtist": "Despacito (Featuring Daddy Yankee)Luis Fonsi",
+        "weekDiff": 16.9375
+      },
+      {
+        "artist": "Clean Bandit",
+        "song": "Rockabye (feat. Sean Paul & Anne-Marie)",
+        "songArtist": "Rockabye (feat. Sean Paul & Anne-Marie)Clean Bandit",
+        "weekDiff": 7.5
+      },
+      {
+        "artist": "The Chainsmokers",
+        "song": "Paris",
+        "songArtist": "ParisThe Chainsmokers",
+        "weekDiff": 6.671875
+      },
+      {
+        "artist": "Jason Derulo",
+        "song": "Swalla (feat. Nicki Minaj & Ty Dolla $ign)",
+        "songArtist": "Swalla (feat. Nicki Minaj & Ty Dolla $ign)Jason Derulo",
+        "weekDiff": 6.578125
+      },
+      {
+        "artist": "Katy Perry",
+        "song": "Chained To The Rhythm",
+        "songArtist": "Chained To The RhythmKaty Perry",
+        "weekDiff": 4.484375
+      },
+      {
+        "artist": "The Chainsmokers",
+        "song": "Something Just Like This",
+        "songArtist": "Something Just Like ThisThe Chainsmokers",
+        "weekDiff": 3.65625
+      },
+      {
+        "artist": "Kygo",
+        "song": "It Ain't Me (with Selena Gomez)",
+        "songArtist": "It Ain't Me (with Selena Gomez)Kygo",
+        "weekDiff": 3.453125
+      },
+      {
+        "artist": "Charlie Puth",
+        "song": "Attention",
+        "songArtist": "AttentionCharlie Puth",
+        "weekDiff": 3.328125
+      },
+      {
+        "artist": "ZAYN",
+        "song": "I Don’t Wanna Live Forever (Fifty Shades Darker) - From \"Fifty Shades Darker (Original Motion Picture Soundtrack)\"",
+        "songArtist": "I Don’t Wanna Live Forever (Fifty Shades Darker) - From \"Fifty Shades Darker (Original Motion Picture Soundtrack)\"ZAYN",
+        "weekDiff": 3.21875
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "Shape of You",
+        "songArtist": "Shape of YouEd Sheeran",
+        "weekDiff": 2.328125
+      }
+    ]
+  },
+  {
+    "country": "ar",
+    "songs": [
+      {
+        "artist": "Nio Garcia",
+        "song": "Te Boté - Remix",
+        "songArtist": "Te Boté - RemixNio Garcia",
+        "weekDiff": 17.234375
+      },
+      {
+        "artist": "Luis Fonsi",
+        "song": "Despacito (Featuring Daddy Yankee)",
+        "songArtist": "Despacito (Featuring Daddy Yankee)Luis Fonsi",
+        "weekDiff": 12.9375
+      },
+      {
+        "artist": "Nicky Jam",
+        "song": "X",
+        "songArtist": "XNicky Jam",
+        "weekDiff": 11.765625
+      },
+      {
+        "artist": "Daddy Yankee",
+        "song": "Dura",
+        "songArtist": "DuraDaddy Yankee",
+        "weekDiff": 11.1875
+      },
+      {
+        "artist": "Luis Fonsi",
+        "song": "Échame La Culpa",
+        "songArtist": "Échame La CulpaLuis Fonsi",
+        "weekDiff": 10.5625
+      },
+      {
+        "artist": "Bad Bunny",
+        "song": "Amorfoda",
+        "songArtist": "AmorfodaBad Bunny",
+        "weekDiff": 7.796875
+      },
+      {
+        "artist": "J Balvin",
+        "song": "Mi Gente",
+        "songArtist": "Mi GenteJ Balvin",
+        "weekDiff": 6.703125
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "Shape of You",
+        "songArtist": "Shape of YouEd Sheeran",
+        "weekDiff": 2.328125
+      },
+      {
+        "artist": "DJ Snake",
+        "song": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
+        "songArtist": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)DJ Snake",
+        "weekDiff": 1.890625
+      },
+      {
+        "artist": "Bad Bunny",
+        "song": "MIA (feat. Drake)",
+        "songArtist": "MIA (feat. Drake)Bad Bunny",
+        "weekDiff": 1.609375
+      }
+    ]
+  },
+  {
+    "country": "at",
+    "songs": [
+      {
+        "artist": "Imagine Dragons",
+        "song": "Thunder",
+        "songArtist": "ThunderImagine Dragons",
+        "weekDiff": 11.109375
+      },
+      {
+        "artist": "Dynoro",
+        "song": "In My Mind",
+        "songArtist": "In My MindDynoro",
+        "weekDiff": 10.796875
+      },
+      {
+        "artist": "Marshmello",
+        "song": "Silence",
+        "songArtist": "SilenceMarshmello",
+        "weekDiff": 10.140625
+      },
+      {
+        "artist": "Rudimental",
+        "song": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",
+        "songArtist": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen)Rudimental",
+        "weekDiff": 10.078125
+      },
+      {
+        "artist": "Post Malone",
+        "song": "rockstar",
+        "songArtist": "rockstarPost Malone",
+        "weekDiff": 9.796875
+      },
+      {
+        "artist": "NF",
+        "song": "Let You Down",
+        "songArtist": "Let You DownNF",
+        "weekDiff": 9.28125
+      },
+      {
+        "artist": "Eminem",
+        "song": "River (feat. Ed Sheeran)",
+        "songArtist": "River (feat. Ed Sheeran)Eminem",
+        "weekDiff": 8.46875
+      },
+      {
+        "artist": "Marshmello",
+        "song": "FRIENDS",
+        "songArtist": "FRIENDSMarshmello",
+        "weekDiff": 7.859375
+      },
+      {
+        "artist": "The Chainsmokers",
+        "song": "Paris",
+        "songArtist": "ParisThe Chainsmokers",
+        "weekDiff": 7.671875
+      },
+      {
+        "artist": "Clean Bandit",
+        "song": "Solo (feat. Demi Lovato)",
+        "songArtist": "Solo (feat. Demi Lovato)Clean Bandit",
+        "weekDiff": 7.375
+      }
+    ]
+  },
+  {
+    "country": "au",
+    "songs": [
+      {
+        "artist": "Post Malone",
+        "song": "I Fall Apart",
+        "songArtist": "I Fall ApartPost Malone",
+        "weekDiff": 18.703125
+      },
+      {
+        "artist": "5 Seconds of Summer",
+        "song": "Youngblood",
+        "songArtist": "Youngblood5 Seconds of Summer",
+        "weekDiff": 16.296875
+      },
+      {
+        "artist": "Marshmello",
+        "song": "Silence",
+        "songArtist": "SilenceMarshmello",
+        "weekDiff": 12.140625
+      },
+      {
+        "artist": "benny blanco",
+        "song": "Eastside (with Halsey & Khalid)",
+        "songArtist": "Eastside (with Halsey & Khalid)benny blanco",
+        "weekDiff": 10.8125
+      },
+      {
+        "artist": "NF",
+        "song": "Let You Down",
+        "songArtist": "Let You DownNF",
+        "weekDiff": 10.28125
+      },
+      {
+        "artist": "Dua Lipa",
+        "song": "New Rules",
+        "songArtist": "New RulesDua Lipa",
+        "weekDiff": 9.328125
+      },
+      {
+        "artist": "Logic",
+        "song": "1-800-273-8255",
+        "songArtist": "1-800-273-8255Logic",
+        "weekDiff": 9.109375
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "Galway Girl",
+        "songArtist": "Galway GirlEd Sheeran",
+        "weekDiff": 9.109375
+      },
+      {
+        "artist": "Kendrick Lamar",
+        "song": "HUMBLE.",
+        "songArtist": "HUMBLE.Kendrick Lamar",
+        "weekDiff": 8.984375
+      },
+      {
+        "artist": "Post Malone",
+        "song": "rockstar",
+        "songArtist": "rockstarPost Malone",
+        "weekDiff": 8.796875
+      }
+    ]
+  },
+  {
+    "country": "be",
+    "songs": [
+      {
+        "artist": "Calvin Harris",
+        "song": "One Kiss (with Dua Lipa)",
+        "songArtist": "One Kiss (with Dua Lipa)Calvin Harris",
+        "weekDiff": 14.28125
+      },
+      {
+        "artist": "Marshmello",
+        "song": "Silence",
+        "songArtist": "SilenceMarshmello",
+        "weekDiff": 12.140625
+      },
+      {
+        "artist": "Drake",
+        "song": "God's Plan",
+        "songArtist": "God's PlanDrake",
+        "weekDiff": 11.234375
+      },
+      {
+        "artist": "Dua Lipa",
+        "song": "New Rules",
+        "songArtist": "New RulesDua Lipa",
+        "weekDiff": 10.328125
+      },
+      {
+        "artist": "Marshmello",
+        "song": "FRIENDS",
+        "songArtist": "FRIENDSMarshmello",
+        "weekDiff": 9.859375
+      },
+      {
+        "artist": "Post Malone",
+        "song": "rockstar",
+        "songArtist": "rockstarPost Malone",
+        "weekDiff": 9.796875
+      },
+      {
+        "artist": "Zedd",
+        "song": "The Middle",
+        "songArtist": "The MiddleZedd",
+        "weekDiff": 9.46875
+      },
+      {
+        "artist": "Selena Gomez",
+        "song": "Wolves",
+        "songArtist": "WolvesSelena Gomez",
+        "weekDiff": 9.359375
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "Perfect",
+        "songArtist": "PerfectEd Sheeran",
+        "weekDiff": 9.34375
+      },
+      {
+        "artist": "Rudimental",
+        "song": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",
+        "songArtist": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen)Rudimental",
+        "weekDiff": 8.078125
+      }
+    ]
+  },
+  {
+    "country": "bg",
+    "songs": [
+      {
+        "artist": "Post Malone",
+        "song": "rockstar",
+        "songArtist": "rockstarPost Malone",
+        "weekDiff": 17.796875
+      },
+      {
+        "artist": "Dua Lipa",
+        "song": "New Rules",
+        "songArtist": "New RulesDua Lipa",
+        "weekDiff": 13.328125
+      },
+      {
+        "artist": "Cardi B",
+        "song": "I Like It",
+        "songArtist": "I Like ItCardi B",
+        "weekDiff": 13.25
+      },
+      {
+        "artist": "French Montana",
+        "song": "Unforgettable",
+        "songArtist": "UnforgettableFrench Montana",
+        "weekDiff": 12.75
+      },
+      {
+        "artist": "Camila Cabello",
+        "song": "Havana",
+        "songArtist": "HavanaCamila Cabello",
+        "weekDiff": 12.53125
+      },
+      {
+        "artist": "Lil Pump",
+        "song": "Gucci Gang",
+        "songArtist": "Gucci GangLil Pump",
+        "weekDiff": 10.375
+      },
+      {
+        "artist": "Tyga",
+        "song": "Taste (feat. Offset)",
+        "songArtist": "Taste (feat. Offset)Tyga",
+        "weekDiff": 9.8125
+      },
+      {
+        "artist": "Travis Scott",
+        "song": "SICKO MODE",
+        "songArtist": "SICKO MODETravis Scott",
+        "weekDiff": 9.421875
+      },
+      {
+        "artist": "G-Eazy",
+        "song": "Him & I (with Halsey)",
+        "songArtist": "Him & I (with Halsey)G-Eazy",
+        "weekDiff": 9.34375
+      },
+      {
+        "artist": "DJ Khaled",
+        "song": "Wild Thoughts (feat. Rihanna & Bryson Tiller)",
+        "songArtist": "Wild Thoughts (feat. Rihanna & Bryson Tiller)DJ Khaled",
+        "weekDiff": 7.953125
+      }
+    ]
+  },
+  {
+    "country": "bo",
+    "songs": [
+      {
+        "artist": "Nio Garcia",
+        "song": "Te Boté - Remix",
+        "songArtist": "Te Boté - RemixNio Garcia",
+        "weekDiff": 15.234375
+      },
+      {
+        "artist": "Luis Fonsi",
+        "song": "Échame La Culpa",
+        "songArtist": "Échame La CulpaLuis Fonsi",
+        "weekDiff": 12.5625
+      },
+      {
+        "artist": "Nicky Jam",
+        "song": "X",
+        "songArtist": "XNicky Jam",
+        "weekDiff": 11.765625
+      },
+      {
+        "artist": "Luis Fonsi",
+        "song": "Despacito (Featuring Daddy Yankee)",
+        "songArtist": "Despacito (Featuring Daddy Yankee)Luis Fonsi",
+        "weekDiff": 10.9375
+      },
+      {
+        "artist": "Daddy Yankee",
+        "song": "Dura",
+        "songArtist": "DuraDaddy Yankee",
+        "weekDiff": 9.1875
+      },
+      {
+        "artist": "J Balvin",
+        "song": "Mi Gente",
+        "songArtist": "Mi GenteJ Balvin",
+        "weekDiff": 6.703125
+      },
+      {
+        "artist": "Bad Bunny",
+        "song": "Amorfoda",
+        "songArtist": "AmorfodaBad Bunny",
+        "weekDiff": 5.796875
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "Shape of You",
+        "songArtist": "Shape of YouEd Sheeran",
+        "weekDiff": 4.328125
+      },
+      {
+        "artist": "DJ Snake",
+        "song": "Let Me Love You",
+        "songArtist": "Let Me Love YouDJ Snake",
+        "weekDiff": 2.71875
+      },
+      {
+        "artist": "DJ Snake",
+        "song": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
+        "songArtist": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)DJ Snake",
+        "weekDiff": 1.890625
+      }
+    ]
+  },
+  {
+    "country": "br",
+    "songs": [
+      {
+        "artist": "Ed Sheeran",
+        "song": "Shape of You",
+        "songArtist": "Shape of YouEd Sheeran",
+        "weekDiff": 3.328125
+      },
+      {
+        "artist": "The Weeknd",
+        "song": "Starboy",
+        "songArtist": "StarboyThe Weeknd",
+        "weekDiff": 3
+      },
+      {
+        "artist": "The Chainsmokers",
+        "song": "Closer",
+        "songArtist": "CloserThe Chainsmokers",
+        "weekDiff": 2.671875
+      },
+      {
+        "artist": "Dua Lipa",
+        "song": "New Rules",
+        "songArtist": "New RulesDua Lipa",
+        "weekDiff": 2.328125
+      },
+      {
+        "artist": "Selena Gomez",
+        "song": "Bad Liar",
+        "songArtist": "Bad LiarSelena Gomez",
+        "weekDiff": 0.703125
+      },
+      {
+        "artist": "Katy Perry",
+        "song": "Chained To The Rhythm",
+        "songArtist": "Chained To The RhythmKaty Perry",
+        "weekDiff": 0.484375
+      },
+      {
+        "artist": "Luis Fonsi",
+        "song": "Despacito - Remix",
+        "songArtist": "Despacito - RemixLuis Fonsi",
+        "weekDiff": 0
+      },
+      {
+        "artist": "Taylor Swift",
+        "song": "Look What You Made Me Do",
+        "songArtist": "Look What You Made Me DoTaylor Swift",
+        "weekDiff": -0.28125
+      },
+      {
+        "artist": "Luis Fonsi",
+        "song": "Despacito (Featuring Daddy Yankee)",
+        "songArtist": "Despacito (Featuring Daddy Yankee)Luis Fonsi",
+        "weekDiff": -2.0625
+      },
+      {
+        "artist": "J Balvin",
+        "song": "Mi Gente",
+        "songArtist": "Mi GenteJ Balvin",
+        "weekDiff": -2.296875
+      }
+    ]
+  },
+  {
+    "country": "ca",
+    "songs": [
+      {
+        "artist": "Lil Uzi Vert",
+        "song": "XO TOUR Llif3",
+        "songArtist": "XO TOUR Llif3Lil Uzi Vert",
+        "weekDiff": 17.171875
+      },
+      {
+        "artist": "French Montana",
+        "song": "Unforgettable",
+        "songArtist": "UnforgettableFrench Montana",
+        "weekDiff": 15.75
+      },
+      {
+        "artist": "Post Malone",
+        "song": "rockstar",
+        "songArtist": "rockstarPost Malone",
+        "weekDiff": 13.796875
+      },
+      {
+        "artist": "BlocBoy JB",
+        "song": "Look Alive (feat. Drake)",
+        "songArtist": "Look Alive (feat. Drake)BlocBoy JB",
+        "weekDiff": 12.5625
+      },
+      {
+        "artist": "Cardi B",
+        "song": "I Like It",
+        "songArtist": "I Like ItCardi B",
+        "weekDiff": 12.25
+      },
+      {
+        "artist": "Kendrick Lamar",
+        "song": "HUMBLE.",
+        "songArtist": "HUMBLE.Kendrick Lamar",
+        "weekDiff": 11.984375
+      },
+      {
+        "artist": "Camila Cabello",
+        "song": "Havana",
+        "songArtist": "HavanaCamila Cabello",
+        "weekDiff": 11.53125
+      },
+      {
+        "artist": "Travis Scott",
+        "song": "SICKO MODE",
+        "songArtist": "SICKO MODETravis Scott",
+        "weekDiff": 11.421875
+      },
+      {
+        "artist": "Lil Pump",
+        "song": "Gucci Gang",
+        "songArtist": "Gucci GangLil Pump",
+        "weekDiff": 11.375
+      },
+      {
+        "artist": "Marshmello",
+        "song": "Silence",
+        "songArtist": "SilenceMarshmello",
+        "weekDiff": 11.140625
+      }
+    ]
+  },
+  {
+    "country": "ch",
+    "songs": [
+      {
+        "artist": "French Montana",
+        "song": "Unforgettable",
+        "songArtist": "UnforgettableFrench Montana",
+        "weekDiff": 15.75
+      },
+      {
+        "artist": "Luis Fonsi",
+        "song": "Despacito (Featuring Daddy Yankee)",
+        "songArtist": "Despacito (Featuring Daddy Yankee)Luis Fonsi",
+        "weekDiff": 13.9375
+      },
+      {
+        "artist": "Imagine Dragons",
+        "song": "Thunder",
+        "songArtist": "ThunderImagine Dragons",
+        "weekDiff": 12.109375
+      },
+      {
+        "artist": "Rudimental",
+        "song": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",
+        "songArtist": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen)Rudimental",
+        "weekDiff": 12.078125
+      },
+      {
+        "artist": "Post Malone",
+        "song": "rockstar",
+        "songArtist": "rockstarPost Malone",
+        "weekDiff": 11.796875
+      },
+      {
+        "artist": "Luis Fonsi",
+        "song": "Échame La Culpa",
+        "songArtist": "Échame La CulpaLuis Fonsi",
+        "weekDiff": 11.5625
+      },
+      {
+        "artist": "Camila Cabello",
+        "song": "Havana",
+        "songArtist": "HavanaCamila Cabello",
+        "weekDiff": 11.53125
+      },
+      {
+        "artist": "Dynoro",
+        "song": "In My Mind",
+        "songArtist": "In My MindDynoro",
+        "weekDiff": 8.796875
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "Perfect",
+        "songArtist": "PerfectEd Sheeran",
+        "weekDiff": 8.34375
+      },
+      {
+        "artist": "Nicky Jam",
+        "song": "X",
+        "songArtist": "XNicky Jam",
+        "weekDiff": 7.765625
+      }
+    ]
+  },
+  {
+    "country": "cl",
+    "songs": [
+      {
+        "artist": "Nio Garcia",
+        "song": "Te Boté - Remix",
+        "songArtist": "Te Boté - RemixNio Garcia",
+        "weekDiff": 19.234375
+      },
+      {
+        "artist": "Luis Fonsi",
+        "song": "Échame La Culpa",
+        "songArtist": "Échame La CulpaLuis Fonsi",
+        "weekDiff": 12.5625
+      },
+      {
+        "artist": "Daddy Yankee",
+        "song": "Dura",
+        "songArtist": "DuraDaddy Yankee",
+        "weekDiff": 11.1875
+      },
+      {
+        "artist": "Luis Fonsi",
+        "song": "Despacito (Featuring Daddy Yankee)",
+        "songArtist": "Despacito (Featuring Daddy Yankee)Luis Fonsi",
+        "weekDiff": 10.9375
+      },
+      {
+        "artist": "Nicky Jam",
+        "song": "X",
+        "songArtist": "XNicky Jam",
+        "weekDiff": 10.765625
+      },
+      {
+        "artist": "J Balvin",
+        "song": "Mi Gente",
+        "songArtist": "Mi GenteJ Balvin",
+        "weekDiff": 6.703125
+      },
+      {
+        "artist": "Bad Bunny",
+        "song": "Amorfoda",
+        "songArtist": "AmorfodaBad Bunny",
+        "weekDiff": 5.796875
+      },
+      {
+        "artist": "DJ Snake",
+        "song": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
+        "songArtist": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)DJ Snake",
+        "weekDiff": 1.890625
+      },
+      {
+        "artist": "DJ Snake",
+        "song": "Let Me Love You",
+        "songArtist": "Let Me Love YouDJ Snake",
+        "weekDiff": 1.71875
+      },
+      {
+        "artist": "Bad Bunny",
+        "song": "MIA (feat. Drake)",
+        "songArtist": "MIA (feat. Drake)Bad Bunny",
+        "weekDiff": 1.609375
+      }
+    ]
+  },
+  {
+    "country": "co",
+    "songs": [
+      {
+        "artist": "Nio Garcia",
+        "song": "Te Boté - Remix",
+        "songArtist": "Te Boté - RemixNio Garcia",
+        "weekDiff": 12.234375
+      },
+      {
+        "artist": "Nicky Jam",
+        "song": "X",
+        "songArtist": "XNicky Jam",
+        "weekDiff": 11.765625
+      },
+      {
+        "artist": "Daddy Yankee",
+        "song": "Dura",
+        "songArtist": "DuraDaddy Yankee",
+        "weekDiff": 10.1875
+      },
+      {
+        "artist": "Luis Fonsi",
+        "song": "Despacito (Featuring Daddy Yankee)",
+        "songArtist": "Despacito (Featuring Daddy Yankee)Luis Fonsi",
+        "weekDiff": 7.9375
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "Shape of You",
+        "songArtist": "Shape of YouEd Sheeran",
+        "weekDiff": 6.328125
+      },
+      {
+        "artist": "Bad Bunny",
+        "song": "Amorfoda",
+        "songArtist": "AmorfodaBad Bunny",
+        "weekDiff": 5.796875
+      },
+      {
+        "artist": "J Balvin",
+        "song": "Mi Gente",
+        "songArtist": "Mi GenteJ Balvin",
+        "weekDiff": 5.703125
+      },
+      {
+        "artist": "DJ Snake",
+        "song": "Let Me Love You",
+        "songArtist": "Let Me Love YouDJ Snake",
+        "weekDiff": 3.71875
+      },
+      {
+        "artist": "DJ Snake",
+        "song": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
+        "songArtist": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)DJ Snake",
+        "weekDiff": 1.890625
+      },
+      {
+        "artist": "Bad Bunny",
+        "song": "MIA (feat. Drake)",
+        "songArtist": "MIA (feat. Drake)Bad Bunny",
+        "weekDiff": 1.609375
+      }
+    ]
+  },
+  {
+    "country": "cr",
+    "songs": [
+      {
+        "artist": "Nio Garcia",
+        "song": "Te Boté - Remix",
+        "songArtist": "Te Boté - RemixNio Garcia",
+        "weekDiff": 21.234375
+      },
+      {
+        "artist": "Luis Fonsi",
+        "song": "Despacito (Featuring Daddy Yankee)",
+        "songArtist": "Despacito (Featuring Daddy Yankee)Luis Fonsi",
+        "weekDiff": 15.9375
+      },
+      {
+        "artist": "Nicky Jam",
+        "song": "X",
+        "songArtist": "XNicky Jam",
+        "weekDiff": 11.765625
+      },
+      {
+        "artist": "Daddy Yankee",
+        "song": "Dura",
+        "songArtist": "DuraDaddy Yankee",
+        "weekDiff": 10.1875
+      },
+      {
+        "artist": "Jason Derulo",
+        "song": "Swalla (feat. Nicki Minaj & Ty Dolla $ign)",
+        "songArtist": "Swalla (feat. Nicki Minaj & Ty Dolla $ign)Jason Derulo",
+        "weekDiff": 8.578125
+      },
+      {
+        "artist": "J Balvin",
+        "song": "Mi Gente",
+        "songArtist": "Mi GenteJ Balvin",
+        "weekDiff": 7.703125
+      },
+      {
+        "artist": "Luis Fonsi",
+        "song": "Échame La Culpa",
+        "songArtist": "Échame La CulpaLuis Fonsi",
+        "weekDiff": 7.5625
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "Shape of You",
+        "songArtist": "Shape of YouEd Sheeran",
+        "weekDiff": 7.328125
+      },
+      {
+        "artist": "Bad Bunny",
+        "song": "Amorfoda",
+        "songArtist": "AmorfodaBad Bunny",
+        "weekDiff": 6.796875
+      },
+      {
+        "artist": "The Chainsmokers",
+        "song": "Closer",
+        "songArtist": "CloserThe Chainsmokers",
+        "weekDiff": 5.671875
+      }
+    ]
+  },
+  {
+    "country": "cy",
+    "songs": [
+      {
+        "artist": "Cardi B",
+        "song": "I Like It",
+        "songArtist": "I Like ItCardi B",
+        "weekDiff": 15.25
+      },
+      {
+        "artist": "French Montana",
+        "song": "Unforgettable",
+        "songArtist": "UnforgettableFrench Montana",
+        "weekDiff": 12.75
+      },
+      {
+        "artist": "Dua Lipa",
+        "song": "New Rules",
+        "songArtist": "New RulesDua Lipa",
+        "weekDiff": 12.328125
+      },
+      {
+        "artist": "Camila Cabello",
+        "song": "Havana",
+        "songArtist": "HavanaCamila Cabello",
+        "weekDiff": 11.53125
+      },
+      {
+        "artist": "Post Malone",
+        "song": "rockstar",
+        "songArtist": "rockstarPost Malone",
+        "weekDiff": 10.796875
+      },
+      {
+        "artist": "Maroon 5",
+        "song": "Girls Like You (feat. Cardi B)",
+        "songArtist": "Girls Like You (feat. Cardi B)Maroon 5",
+        "weekDiff": 9.15625
+      },
+      {
+        "artist": "ZAYN",
+        "song": "Dusk Till Dawn - Radio Edit",
+        "songArtist": "Dusk Till Dawn - Radio EditZAYN",
+        "weekDiff": 8.765625
+      },
+      {
+        "artist": "Marshmello",
+        "song": "FRIENDS",
+        "songArtist": "FRIENDSMarshmello",
+        "weekDiff": 7.859375
+      },
+      {
+        "artist": "Eminem",
+        "song": "River (feat. Ed Sheeran)",
+        "songArtist": "River (feat. Ed Sheeran)Eminem",
+        "weekDiff": 7.46875
+      },
+      {
+        "artist": "Charlie Puth",
+        "song": "Attention",
+        "songArtist": "AttentionCharlie Puth",
+        "weekDiff": 7.328125
+      }
+    ]
+  },
+  {
+    "country": "cz",
+    "songs": [
+      {
+        "artist": "Imagine Dragons",
+        "song": "Thunder",
+        "songArtist": "ThunderImagine Dragons",
+        "weekDiff": 20.109375
+      },
+      {
+        "artist": "Camila Cabello",
+        "song": "Havana",
+        "songArtist": "HavanaCamila Cabello",
+        "weekDiff": 19.53125
+      },
+      {
+        "artist": "Rudimental",
+        "song": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",
+        "songArtist": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen)Rudimental",
+        "weekDiff": 14.078125
+      },
+      {
+        "artist": "Post Malone",
+        "song": "rockstar",
+        "songArtist": "rockstarPost Malone",
+        "weekDiff": 12.796875
+      },
+      {
+        "artist": "Clean Bandit",
+        "song": "Solo (feat. Demi Lovato)",
+        "songArtist": "Solo (feat. Demi Lovato)Clean Bandit",
+        "weekDiff": 11.375
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "Shape of You",
+        "songArtist": "Shape of YouEd Sheeran",
+        "weekDiff": 11.328125
+      },
+      {
+        "artist": "Marshmello",
+        "song": "FRIENDS",
+        "songArtist": "FRIENDSMarshmello",
+        "weekDiff": 9.859375
+      },
+      {
+        "artist": "Dynoro",
+        "song": "In My Mind",
+        "songArtist": "In My MindDynoro",
+        "weekDiff": 9.796875
+      },
+      {
+        "artist": "Selena Gomez",
+        "song": "Wolves",
+        "songArtist": "WolvesSelena Gomez",
+        "weekDiff": 9.359375
+      },
+      {
+        "artist": "Calvin Harris",
+        "song": "One Kiss (with Dua Lipa)",
+        "songArtist": "One Kiss (with Dua Lipa)Calvin Harris",
+        "weekDiff": 9.28125
+      }
+    ]
+  },
+  {
+    "country": "de",
+    "songs": [
+      {
+        "artist": "Dynoro",
+        "song": "In My Mind",
+        "songArtist": "In My MindDynoro",
+        "weekDiff": 12.796875
+      },
+      {
+        "artist": "Post Malone",
+        "song": "rockstar",
+        "songArtist": "rockstarPost Malone",
+        "weekDiff": 10.796875
+      },
+      {
+        "artist": "French Montana",
+        "song": "Unforgettable",
+        "songArtist": "UnforgettableFrench Montana",
+        "weekDiff": 10.75
+      },
+      {
+        "artist": "NF",
+        "song": "Let You Down",
+        "songArtist": "Let You DownNF",
+        "weekDiff": 10.28125
+      },
+      {
+        "artist": "Eminem",
+        "song": "River (feat. Ed Sheeran)",
+        "songArtist": "River (feat. Ed Sheeran)Eminem",
+        "weekDiff": 8.46875
+      },
+      {
+        "artist": "Imagine Dragons",
+        "song": "Thunder",
+        "songArtist": "ThunderImagine Dragons",
+        "weekDiff": 8.109375
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "Galway Girl",
+        "songArtist": "Galway GirlEd Sheeran",
+        "weekDiff": 8.109375
+      },
+      {
+        "artist": "Jason Derulo",
+        "song": "Swalla (feat. Nicki Minaj & Ty Dolla $ign)",
+        "songArtist": "Swalla (feat. Nicki Minaj & Ty Dolla $ign)Jason Derulo",
+        "weekDiff": 7.578125
+      },
+      {
+        "artist": "Marshmello",
+        "song": "Silence",
+        "songArtist": "SilenceMarshmello",
+        "weekDiff": 7.140625
+      },
+      {
+        "artist": "Camila Cabello",
+        "song": "Havana",
+        "songArtist": "HavanaCamila Cabello",
+        "weekDiff": 6.53125
+      }
+    ]
+  },
+  {
+    "country": "dk",
+    "songs": [
+      {
+        "artist": "5 Seconds of Summer",
+        "song": "Youngblood",
+        "songArtist": "Youngblood5 Seconds of Summer",
+        "weekDiff": 10.296875
+      },
+      {
+        "artist": "Logic",
+        "song": "1-800-273-8255",
+        "songArtist": "1-800-273-8255Logic",
+        "weekDiff": 9.109375
+      },
+      {
+        "artist": "Post Malone",
+        "song": "rockstar",
+        "songArtist": "rockstarPost Malone",
+        "weekDiff": 8.796875
+      },
+      {
+        "artist": "French Montana",
+        "song": "Unforgettable",
+        "songArtist": "UnforgettableFrench Montana",
+        "weekDiff": 8.75
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "Galway Girl",
+        "songArtist": "Galway GirlEd Sheeran",
+        "weekDiff": 8.109375
+      },
+      {
+        "artist": "benny blanco",
+        "song": "Eastside (with Halsey & Khalid)",
+        "songArtist": "Eastside (with Halsey & Khalid)benny blanco",
+        "weekDiff": 6.8125
+      },
+      {
+        "artist": "XXXTENTACION",
+        "song": "SAD!",
+        "songArtist": "SAD!XXXTENTACION",
+        "weekDiff": 6.046875
+      },
+      {
+        "artist": "Luis Fonsi",
+        "song": "Despacito - Remix",
+        "songArtist": "Despacito - RemixLuis Fonsi",
+        "weekDiff": 6
+      },
+      {
+        "artist": "Shawn Mendes",
+        "song": "There's Nothing Holdin' Me Back",
+        "songArtist": "There's Nothing Holdin' Me BackShawn Mendes",
+        "weekDiff": 5.953125
+      },
+      {
+        "artist": "Lil Dicky",
+        "song": "Freaky Friday (feat. Chris Brown)",
+        "songArtist": "Freaky Friday (feat. Chris Brown)Lil Dicky",
+        "weekDiff": 5.78125
+      }
+    ]
+  },
+  {
+    "country": "do",
+    "songs": [
+      {
+        "artist": "Nio Garcia",
+        "song": "Te Boté - Remix",
+        "songArtist": "Te Boté - RemixNio Garcia",
+        "weekDiff": 17.234375
+      },
+      {
+        "artist": "Luis Fonsi",
+        "song": "Despacito (Featuring Daddy Yankee)",
+        "songArtist": "Despacito (Featuring Daddy Yankee)Luis Fonsi",
+        "weekDiff": 12.9375
+      },
+      {
+        "artist": "Cardi B",
+        "song": "I Like It",
+        "songArtist": "I Like ItCardi B",
+        "weekDiff": 11.25
+      },
+      {
+        "artist": "Nicky Jam",
+        "song": "X",
+        "songArtist": "XNicky Jam",
+        "weekDiff": 10.765625
+      },
+      {
+        "artist": "Daddy Yankee",
+        "song": "Dura",
+        "songArtist": "DuraDaddy Yankee",
+        "weekDiff": 9.1875
+      },
+      {
+        "artist": "J Balvin",
+        "song": "Mi Gente",
+        "songArtist": "Mi GenteJ Balvin",
+        "weekDiff": 6.703125
+      },
+      {
+        "artist": "Bad Bunny",
+        "song": "Amorfoda",
+        "songArtist": "AmorfodaBad Bunny",
+        "weekDiff": 5.796875
+      },
+      {
+        "artist": "DJ Snake",
+        "song": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
+        "songArtist": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)DJ Snake",
+        "weekDiff": 1.890625
+      },
+      {
+        "artist": "Bad Bunny",
+        "song": "MIA (feat. Drake)",
+        "songArtist": "MIA (feat. Drake)Bad Bunny",
+        "weekDiff": 1.609375
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "Shape of You",
+        "songArtist": "Shape of YouEd Sheeran",
+        "weekDiff": 0.328125
+      }
+    ]
+  },
+  {
+    "country": "ec",
+    "songs": [
+      {
+        "artist": "Nio Garcia",
+        "song": "Te Boté - Remix",
+        "songArtist": "Te Boté - RemixNio Garcia",
+        "weekDiff": 15.234375
+      },
+      {
+        "artist": "Luis Fonsi",
+        "song": "Échame La Culpa",
+        "songArtist": "Échame La CulpaLuis Fonsi",
+        "weekDiff": 12.5625
+      },
+      {
+        "artist": "Luis Fonsi",
+        "song": "Despacito (Featuring Daddy Yankee)",
+        "songArtist": "Despacito (Featuring Daddy Yankee)Luis Fonsi",
+        "weekDiff": 11.9375
+      },
+      {
+        "artist": "Nicky Jam",
+        "song": "X",
+        "songArtist": "XNicky Jam",
+        "weekDiff": 11.765625
+      },
+      {
+        "artist": "Daddy Yankee",
+        "song": "Dura",
+        "songArtist": "DuraDaddy Yankee",
+        "weekDiff": 9.1875
+      },
+      {
+        "artist": "Bad Bunny",
+        "song": "Amorfoda",
+        "songArtist": "AmorfodaBad Bunny",
+        "weekDiff": 5.796875
+      },
+      {
+        "artist": "J Balvin",
+        "song": "Mi Gente",
+        "songArtist": "Mi GenteJ Balvin",
+        "weekDiff": 4.703125
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "Shape of You",
+        "songArtist": "Shape of YouEd Sheeran",
+        "weekDiff": 2.328125
+      },
+      {
+        "artist": "DJ Snake",
+        "song": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
+        "songArtist": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)DJ Snake",
+        "weekDiff": 1.890625
+      },
+      {
+        "artist": "DJ Snake",
+        "song": "Let Me Love You",
+        "songArtist": "Let Me Love YouDJ Snake",
+        "weekDiff": 1.71875
+      }
+    ]
+  },
+  {
+    "country": "ee",
+    "songs": [
+      {
+        "artist": "Post Malone",
+        "song": "rockstar",
+        "songArtist": "rockstarPost Malone",
+        "weekDiff": 15.796875
+      },
+      {
+        "artist": "Marshmello",
+        "song": "Silence",
+        "songArtist": "SilenceMarshmello",
+        "weekDiff": 14.140625
+      },
+      {
+        "artist": "Imagine Dragons",
+        "song": "Thunder",
+        "songArtist": "ThunderImagine Dragons",
+        "weekDiff": 11.109375
+      },
+      {
+        "artist": "NF",
+        "song": "Let You Down",
+        "songArtist": "Let You DownNF",
+        "weekDiff": 9.28125
+      },
+      {
+        "artist": "Dynoro",
+        "song": "In My Mind",
+        "songArtist": "In My MindDynoro",
+        "weekDiff": 8.796875
+      },
+      {
+        "artist": "Juice WRLD",
+        "song": "Lucid Dreams",
+        "songArtist": "Lucid DreamsJuice WRLD",
+        "weekDiff": 7.796875
+      },
+      {
+        "artist": "Kendrick Lamar",
+        "song": "All The Stars (with SZA)",
+        "songArtist": "All The Stars (with SZA)Kendrick Lamar",
+        "weekDiff": 7.78125
+      },
+      {
+        "artist": "ZAYN",
+        "song": "Dusk Till Dawn - Radio Edit",
+        "songArtist": "Dusk Till Dawn - Radio EditZAYN",
+        "weekDiff": 7.765625
+      },
+      {
+        "artist": "The Chainsmokers",
+        "song": "Paris",
+        "songArtist": "ParisThe Chainsmokers",
+        "weekDiff": 7.671875
+      },
+      {
+        "artist": "Post Malone",
+        "song": "Psycho (feat. Ty Dolla $ign)",
+        "songArtist": "Psycho (feat. Ty Dolla $ign)Post Malone",
+        "weekDiff": 7.25
+      }
+    ]
+  },
+  {
+    "country": "es",
+    "songs": [
+      {
+        "artist": "Luis Fonsi",
+        "song": "Échame La Culpa",
+        "songArtist": "Échame La CulpaLuis Fonsi",
+        "weekDiff": 15.5625
+      },
+      {
+        "artist": "Nio Garcia",
+        "song": "Te Boté - Remix",
+        "songArtist": "Te Boté - RemixNio Garcia",
+        "weekDiff": 14.234375
+      },
+      {
+        "artist": "Luis Fonsi",
+        "song": "Despacito (Featuring Daddy Yankee)",
+        "songArtist": "Despacito (Featuring Daddy Yankee)Luis Fonsi",
+        "weekDiff": 12.9375
+      },
+      {
+        "artist": "Nicky Jam",
+        "song": "X",
+        "songArtist": "XNicky Jam",
+        "weekDiff": 11.765625
+      },
+      {
+        "artist": "Daddy Yankee",
+        "song": "Dura",
+        "songArtist": "DuraDaddy Yankee",
+        "weekDiff": 10.1875
+      },
+      {
+        "artist": "J Balvin",
+        "song": "Mi Gente",
+        "songArtist": "Mi GenteJ Balvin",
+        "weekDiff": 7.703125
+      },
+      {
+        "artist": "Clean Bandit",
+        "song": "Rockabye (feat. Sean Paul & Anne-Marie)",
+        "songArtist": "Rockabye (feat. Sean Paul & Anne-Marie)Clean Bandit",
+        "weekDiff": 6.5
+      },
+      {
+        "artist": "Bad Bunny",
+        "song": "Amorfoda",
+        "songArtist": "AmorfodaBad Bunny",
+        "weekDiff": 5.796875
+      },
+      {
+        "artist": "DJ Snake",
+        "song": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
+        "songArtist": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)DJ Snake",
+        "weekDiff": 1.890625
+      },
+      {
+        "artist": "Bad Bunny",
+        "song": "MIA (feat. Drake)",
+        "songArtist": "MIA (feat. Drake)Bad Bunny",
+        "weekDiff": 1.609375
+      }
+    ]
+  },
+  {
+    "country": "fi",
+    "songs": [
+      {
+        "artist": "Post Malone",
+        "song": "rockstar",
+        "songArtist": "rockstarPost Malone",
+        "weekDiff": 7.796875
+      },
+      {
+        "artist": "Clean Bandit",
+        "song": "Solo (feat. Demi Lovato)",
+        "songArtist": "Solo (feat. Demi Lovato)Clean Bandit",
+        "weekDiff": 7.375
+      },
+      {
+        "artist": "Dynoro",
+        "song": "In My Mind",
+        "songArtist": "In My MindDynoro",
+        "weekDiff": 5.796875
+      },
+      {
+        "artist": "Eminem",
+        "song": "River (feat. Ed Sheeran)",
+        "songArtist": "River (feat. Ed Sheeran)Eminem",
+        "weekDiff": 4.46875
+      },
+      {
+        "artist": "6ix9ine",
+        "song": "FEFE (feat. Nicki Minaj & Murda Beatz)",
+        "songArtist": "FEFE (feat. Nicki Minaj & Murda Beatz)6ix9ine",
+        "weekDiff": 4.34375
+      },
+      {
+        "artist": "G-Eazy",
+        "song": "Him & I (with Halsey)",
+        "songArtist": "Him & I (with Halsey)G-Eazy",
+        "weekDiff": 4.34375
+      },
+      {
+        "artist": "Lil Peep",
+        "song": "Falling Down",
+        "songArtist": "Falling DownLil Peep",
+        "weekDiff": 4.296875
+      },
+      {
+        "artist": "Juice WRLD",
+        "song": "Lucid Dreams",
+        "songArtist": "Lucid DreamsJuice WRLD",
+        "weekDiff": 3.796875
+      },
+      {
+        "artist": "ZAYN",
+        "song": "Dusk Till Dawn - Radio Edit",
+        "songArtist": "Dusk Till Dawn - Radio EditZAYN",
+        "weekDiff": 3.765625
+      },
+      {
+        "artist": "Post Malone",
+        "song": "Better Now",
+        "songArtist": "Better NowPost Malone",
+        "weekDiff": 3.53125
+      }
+    ]
+  },
+  {
+    "country": "fr",
+    "songs": [
+      {
+        "artist": "Future",
+        "song": "Mask Off",
+        "songArtist": "Mask OffFuture",
+        "weekDiff": 8.578125
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "Shape of You",
+        "songArtist": "Shape of YouEd Sheeran",
+        "weekDiff": 7.328125
+      },
+      {
+        "artist": "DJ Khaled",
+        "song": "Wild Thoughts (feat. Rihanna & Bryson Tiller)",
+        "songArtist": "Wild Thoughts (feat. Rihanna & Bryson Tiller)DJ Khaled",
+        "weekDiff": 5.953125
+      },
+      {
+        "artist": "Clean Bandit",
+        "song": "Rockabye (feat. Sean Paul & Anne-Marie)",
+        "songArtist": "Rockabye (feat. Sean Paul & Anne-Marie)Clean Bandit",
+        "weekDiff": 4.5
+      },
+      {
+        "artist": "Calvin Harris",
+        "song": "Feels",
+        "songArtist": "FeelsCalvin Harris",
+        "weekDiff": 4.3125
+      },
+      {
+        "artist": "Calvin Harris",
+        "song": "One Kiss (with Dua Lipa)",
+        "songArtist": "One Kiss (with Dua Lipa)Calvin Harris",
+        "weekDiff": 4.28125
+      },
+      {
+        "artist": "Drake",
+        "song": "God's Plan",
+        "songArtist": "God's PlanDrake",
+        "weekDiff": 4.234375
+      },
+      {
+        "artist": "French Montana",
+        "song": "Unforgettable",
+        "songArtist": "UnforgettableFrench Montana",
+        "weekDiff": 3.75
+      },
+      {
+        "artist": "Drake",
+        "song": "Passionfruit",
+        "songArtist": "PassionfruitDrake",
+        "weekDiff": 2.8125
+      },
+      {
+        "artist": "Dynoro",
+        "song": "In My Mind",
+        "songArtist": "In My MindDynoro",
+        "weekDiff": 2.796875
+      }
+    ]
+  },
+  {
+    "country": "gr",
+    "songs": [
+      {
+        "artist": "Post Malone",
+        "song": "rockstar",
+        "songArtist": "rockstarPost Malone",
+        "weekDiff": 17.796875
+      },
+      {
+        "artist": "Camila Cabello",
+        "song": "Havana",
+        "songArtist": "HavanaCamila Cabello",
+        "weekDiff": 15.53125
+      },
+      {
+        "artist": "Cardi B",
+        "song": "I Like It",
+        "songArtist": "I Like ItCardi B",
+        "weekDiff": 15.25
+      },
+      {
+        "artist": "French Montana",
+        "song": "Unforgettable",
+        "songArtist": "UnforgettableFrench Montana",
+        "weekDiff": 13.75
+      },
+      {
+        "artist": "Dua Lipa",
+        "song": "New Rules",
+        "songArtist": "New RulesDua Lipa",
+        "weekDiff": 12.328125
+      },
+      {
+        "artist": "Travis Scott",
+        "song": "SICKO MODE",
+        "songArtist": "SICKO MODETravis Scott",
+        "weekDiff": 11.421875
+      },
+      {
+        "artist": "Drake",
+        "song": "God's Plan",
+        "songArtist": "God's PlanDrake",
+        "weekDiff": 10.234375
+      },
+      {
+        "artist": "ZAYN",
+        "song": "Dusk Till Dawn - Radio Edit",
+        "songArtist": "Dusk Till Dawn - Radio EditZAYN",
+        "weekDiff": 8.765625
+      },
+      {
+        "artist": "Lil Pump",
+        "song": "Gucci Gang",
+        "songArtist": "Gucci GangLil Pump",
+        "weekDiff": 8.375
+      },
+      {
+        "artist": "Charlie Puth",
+        "song": "Attention",
+        "songArtist": "AttentionCharlie Puth",
+        "weekDiff": 8.328125
+      }
+    ]
+  },
+  {
+    "country": "gt",
+    "songs": [
+      {
+        "artist": "Nio Garcia",
+        "song": "Te Boté - Remix",
+        "songArtist": "Te Boté - RemixNio Garcia",
+        "weekDiff": 20.234375
+      },
+      {
+        "artist": "Nicky Jam",
+        "song": "X",
+        "songArtist": "XNicky Jam",
+        "weekDiff": 11.765625
+      },
+      {
+        "artist": "Daddy Yankee",
+        "song": "Dura",
+        "songArtist": "DuraDaddy Yankee",
+        "weekDiff": 11.1875
+      },
+      {
+        "artist": "Luis Fonsi",
+        "song": "Despacito (Featuring Daddy Yankee)",
+        "songArtist": "Despacito (Featuring Daddy Yankee)Luis Fonsi",
+        "weekDiff": 9.9375
+      },
+      {
+        "artist": "J Balvin",
+        "song": "Mi Gente",
+        "songArtist": "Mi GenteJ Balvin",
+        "weekDiff": 6.703125
+      },
+      {
+        "artist": "Bad Bunny",
+        "song": "Amorfoda",
+        "songArtist": "AmorfodaBad Bunny",
+        "weekDiff": 5.796875
+      },
+      {
+        "artist": "Luis Fonsi",
+        "song": "Échame La Culpa",
+        "songArtist": "Échame La CulpaLuis Fonsi",
+        "weekDiff": 5.5625
+      },
+      {
+        "artist": "DJ Snake",
+        "song": "Let Me Love You",
+        "songArtist": "Let Me Love YouDJ Snake",
+        "weekDiff": 4.71875
+      },
+      {
+        "artist": "DJ Snake",
+        "song": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
+        "songArtist": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)DJ Snake",
+        "weekDiff": 1.890625
+      },
+      {
+        "artist": "The Chainsmokers",
+        "song": "Closer",
+        "songArtist": "CloserThe Chainsmokers",
+        "weekDiff": 1.671875
+      }
+    ]
+  },
+  {
+    "country": "hk",
+    "songs": [
+      {
+        "artist": "Camila Cabello",
+        "song": "Havana",
+        "songArtist": "HavanaCamila Cabello",
+        "weekDiff": 18.53125
+      },
+      {
+        "artist": "The Chainsmokers",
+        "song": "Something Just Like This",
+        "songArtist": "Something Just Like ThisThe Chainsmokers",
+        "weekDiff": 14.65625
+      },
+      {
+        "artist": "Maroon 5",
+        "song": "What Lovers Do (feat. SZA)",
+        "songArtist": "What Lovers Do (feat. SZA)Maroon 5",
+        "weekDiff": 13.546875
+      },
+      {
+        "artist": "Zedd",
+        "song": "The Middle",
+        "songArtist": "The MiddleZedd",
+        "weekDiff": 13.46875
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "Shape of You",
+        "songArtist": "Shape of YouEd Sheeran",
+        "weekDiff": 13.328125
+      },
+      {
+        "artist": "Charlie Puth",
+        "song": "Attention",
+        "songArtist": "AttentionCharlie Puth",
+        "weekDiff": 11.328125
+      },
+      {
+        "artist": "Zedd",
+        "song": "Stay (with Alessia Cara)",
+        "songArtist": "Stay (with Alessia Cara)Zedd",
+        "weekDiff": 10.953125
+      },
+      {
+        "artist": "Maroon 5",
+        "song": "Girls Like You (feat. Cardi B)",
+        "songArtist": "Girls Like You (feat. Cardi B)Maroon 5",
+        "weekDiff": 10.15625
+      },
+      {
+        "artist": "benny blanco",
+        "song": "Eastside (with Halsey & Khalid)",
+        "songArtist": "Eastside (with Halsey & Khalid)benny blanco",
+        "weekDiff": 8.8125
+      },
+      {
+        "artist": "The Chainsmokers",
+        "song": "Paris",
+        "songArtist": "ParisThe Chainsmokers",
+        "weekDiff": 8.671875
+      }
+    ]
+  },
+  {
+    "country": "hn",
+    "songs": [
+      {
+        "artist": "Nio Garcia",
+        "song": "Te Boté - Remix",
+        "songArtist": "Te Boté - RemixNio Garcia",
+        "weekDiff": 21.234375
+      },
+      {
+        "artist": "Luis Fonsi",
+        "song": "Despacito (Featuring Daddy Yankee)",
+        "songArtist": "Despacito (Featuring Daddy Yankee)Luis Fonsi",
+        "weekDiff": 13.9375
+      },
+      {
+        "artist": "Nicky Jam",
+        "song": "X",
+        "songArtist": "XNicky Jam",
+        "weekDiff": 11.765625
+      },
+      {
+        "artist": "Daddy Yankee",
+        "song": "Dura",
+        "songArtist": "DuraDaddy Yankee",
+        "weekDiff": 10.1875
+      },
+      {
+        "artist": "Cardi B",
+        "song": "I Like It",
+        "songArtist": "I Like ItCardi B",
+        "weekDiff": 8.25
+      },
+      {
+        "artist": "J Balvin",
+        "song": "Mi Gente",
+        "songArtist": "Mi GenteJ Balvin",
+        "weekDiff": 6.703125
+      },
+      {
+        "artist": "Bad Bunny",
+        "song": "Amorfoda",
+        "songArtist": "AmorfodaBad Bunny",
+        "weekDiff": 5.796875
+      },
+      {
+        "artist": "Luis Fonsi",
+        "song": "Échame La Culpa",
+        "songArtist": "Échame La CulpaLuis Fonsi",
+        "weekDiff": 5.5625
+      },
+      {
+        "artist": "DJ Snake",
+        "song": "Let Me Love You",
+        "songArtist": "Let Me Love YouDJ Snake",
+        "weekDiff": 4.71875
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "Shape of You",
+        "songArtist": "Shape of YouEd Sheeran",
+        "weekDiff": 4.328125
+      }
+    ]
+  },
+  {
+    "country": "hu",
+    "songs": [
+      {
+        "artist": "Camila Cabello",
+        "song": "Havana",
+        "songArtist": "HavanaCamila Cabello",
+        "weekDiff": 17.53125
+      },
+      {
+        "artist": "Imagine Dragons",
+        "song": "Thunder",
+        "songArtist": "ThunderImagine Dragons",
+        "weekDiff": 16.109375
+      },
+      {
+        "artist": "Clean Bandit",
+        "song": "Solo (feat. Demi Lovato)",
+        "songArtist": "Solo (feat. Demi Lovato)Clean Bandit",
+        "weekDiff": 14.375
+      },
+      {
+        "artist": "Dua Lipa",
+        "song": "New Rules",
+        "songArtist": "New RulesDua Lipa",
+        "weekDiff": 14.328125
+      },
+      {
+        "artist": "Calvin Harris",
+        "song": "One Kiss (with Dua Lipa)",
+        "songArtist": "One Kiss (with Dua Lipa)Calvin Harris",
+        "weekDiff": 11.28125
+      },
+      {
+        "artist": "Rudimental",
+        "song": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",
+        "songArtist": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen)Rudimental",
+        "weekDiff": 11.078125
+      },
+      {
+        "artist": "Marshmello",
+        "song": "FRIENDS",
+        "songArtist": "FRIENDSMarshmello",
+        "weekDiff": 10.859375
+      },
+      {
+        "artist": "Post Malone",
+        "song": "rockstar",
+        "songArtist": "rockstarPost Malone",
+        "weekDiff": 10.796875
+      },
+      {
+        "artist": "Dynoro",
+        "song": "In My Mind",
+        "songArtist": "In My MindDynoro",
+        "weekDiff": 9.796875
+      },
+      {
+        "artist": "Martin Garrix",
+        "song": "Scared to Be Lonely",
+        "songArtist": "Scared to Be LonelyMartin Garrix",
+        "weekDiff": 8.421875
+      }
+    ]
+  },
+  {
+    "country": "id",
+    "songs": [
+      {
+        "artist": "Ed Sheeran",
+        "song": "Perfect",
+        "songArtist": "PerfectEd Sheeran",
+        "weekDiff": 23.34375
+      },
+      {
+        "artist": "Maroon 5",
+        "song": "Girls Like You (feat. Cardi B)",
+        "songArtist": "Girls Like You (feat. Cardi B)Maroon 5",
+        "weekDiff": 16.15625
+      },
+      {
+        "artist": "Camila Cabello",
+        "song": "Havana",
+        "songArtist": "HavanaCamila Cabello",
+        "weekDiff": 15.53125
+      },
+      {
+        "artist": "Selena Gomez",
+        "song": "Wolves",
+        "songArtist": "WolvesSelena Gomez",
+        "weekDiff": 15.359375
+      },
+      {
+        "artist": "Zedd",
+        "song": "The Middle",
+        "songArtist": "The MiddleZedd",
+        "weekDiff": 14.46875
+      },
+      {
+        "artist": "Charlie Puth",
+        "song": "Attention",
+        "songArtist": "AttentionCharlie Puth",
+        "weekDiff": 13.328125
+      },
+      {
+        "artist": "Dua Lipa",
+        "song": "New Rules",
+        "songArtist": "New RulesDua Lipa",
+        "weekDiff": 12.328125
+      },
+      {
+        "artist": "Dua Lipa",
+        "song": "IDGAF",
+        "songArtist": "IDGAFDua Lipa",
+        "weekDiff": 12.3125
+      },
+      {
+        "artist": "Bruno Mars",
+        "song": "That's What I Like",
+        "songArtist": "That's What I LikeBruno Mars",
+        "weekDiff": 11.953125
+      },
+      {
+        "artist": "Sam Smith",
+        "song": "Too Good At Goodbyes",
+        "songArtist": "Too Good At GoodbyesSam Smith",
+        "weekDiff": 11.578125
+      }
+    ]
+  },
+  {
+    "country": "ie",
+    "songs": [
+      {
+        "artist": "Dua Lipa",
+        "song": "New Rules",
+        "songArtist": "New RulesDua Lipa",
+        "weekDiff": 12.328125
+      },
+      {
+        "artist": "NF",
+        "song": "Let You Down",
+        "songArtist": "Let You DownNF",
+        "weekDiff": 10.28125
+      },
+      {
+        "artist": "French Montana",
+        "song": "Unforgettable",
+        "songArtist": "UnforgettableFrench Montana",
+        "weekDiff": 9.75
+      },
+      {
+        "artist": "Drake",
+        "song": "Nice For What",
+        "songArtist": "Nice For WhatDrake",
+        "weekDiff": 9.609375
+      },
+      {
+        "artist": "Camila Cabello",
+        "song": "Havana",
+        "songArtist": "HavanaCamila Cabello",
+        "weekDiff": 9.53125
+      },
+      {
+        "artist": "benny blanco",
+        "song": "Eastside (with Halsey & Khalid)",
+        "songArtist": "Eastside (with Halsey & Khalid)benny blanco",
+        "weekDiff": 8.8125
+      },
+      {
+        "artist": "Marshmello",
+        "song": "FRIENDS",
+        "songArtist": "FRIENDSMarshmello",
+        "weekDiff": 7.859375
+      },
+      {
+        "artist": "Lil Dicky",
+        "song": "Freaky Friday (feat. Chris Brown)",
+        "songArtist": "Freaky Friday (feat. Chris Brown)Lil Dicky",
+        "weekDiff": 7.78125
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "Castle on the Hill",
+        "songArtist": "Castle on the HillEd Sheeran",
+        "weekDiff": 7.78125
+      },
+      {
+        "artist": "Calvin Harris",
+        "song": "Promises (with Sam Smith)",
+        "songArtist": "Promises (with Sam Smith)Calvin Harris",
+        "weekDiff": 7.5625
+      }
+    ]
+  },
+  {
+    "country": "il",
+    "songs": [
+      {
+        "artist": "Juice WRLD",
+        "song": "Lucid Dreams",
+        "songArtist": "Lucid DreamsJuice WRLD",
+        "weekDiff": 16.796875
+      },
+      {
+        "artist": "Maroon 5",
+        "song": "Girls Like You (feat. Cardi B)",
+        "songArtist": "Girls Like You (feat. Cardi B)Maroon 5",
+        "weekDiff": 13.15625
+      },
+      {
+        "artist": "Cardi B",
+        "song": "I Like It",
+        "songArtist": "I Like ItCardi B",
+        "weekDiff": 11.25
+      },
+      {
+        "artist": "Calvin Harris",
+        "song": "One Kiss (with Dua Lipa)",
+        "songArtist": "One Kiss (with Dua Lipa)Calvin Harris",
+        "weekDiff": 7.28125
+      },
+      {
+        "artist": "Marshmello",
+        "song": "FRIENDS",
+        "songArtist": "FRIENDSMarshmello",
+        "weekDiff": 6.859375
+      },
+      {
+        "artist": "Eminem",
+        "song": "Lucky You (feat. Joyner Lucas)",
+        "songArtist": "Lucky You (feat. Joyner Lucas)Eminem",
+        "weekDiff": 6.8125
+      },
+      {
+        "artist": "Drake",
+        "song": "Nice For What",
+        "songArtist": "Nice For WhatDrake",
+        "weekDiff": 6.609375
+      },
+      {
+        "artist": "Clean Bandit",
+        "song": "Solo (feat. Demi Lovato)",
+        "songArtist": "Solo (feat. Demi Lovato)Clean Bandit",
+        "weekDiff": 6.375
+      },
+      {
+        "artist": "DJ Khaled",
+        "song": "No Brainer",
+        "songArtist": "No BrainerDJ Khaled",
+        "weekDiff": 4.765625
+      },
+      {
+        "artist": "Dua Lipa",
+        "song": "IDGAF",
+        "songArtist": "IDGAFDua Lipa",
+        "weekDiff": 4.3125
+      }
+    ]
+  },
+  {
+    "country": "is",
+    "songs": [
+      {
+        "artist": "Kendrick Lamar",
+        "song": "HUMBLE.",
+        "songArtist": "HUMBLE.Kendrick Lamar",
+        "weekDiff": 9.984375
+      },
+      {
+        "artist": "Post Malone",
+        "song": "rockstar",
+        "songArtist": "rockstarPost Malone",
+        "weekDiff": 9.796875
+      },
+      {
+        "artist": "The Weeknd",
+        "song": "I Feel It Coming",
+        "songArtist": "I Feel It ComingThe Weeknd",
+        "weekDiff": 8.890625
+      },
+      {
+        "artist": "Future",
+        "song": "Mask Off",
+        "songArtist": "Mask OffFuture",
+        "weekDiff": 8.578125
+      },
+      {
+        "artist": "Migos",
+        "song": "Bad and Boujee (feat. Lil Uzi Vert)",
+        "songArtist": "Bad and Boujee (feat. Lil Uzi Vert)Migos",
+        "weekDiff": 8.40625
+      },
+      {
+        "artist": "Juice WRLD",
+        "song": "Lucid Dreams",
+        "songArtist": "Lucid DreamsJuice WRLD",
+        "weekDiff": 6.796875
+      },
+      {
+        "artist": "Luis Fonsi",
+        "song": "Despacito - Remix",
+        "songArtist": "Despacito - RemixLuis Fonsi",
+        "weekDiff": 6
+      },
+      {
+        "artist": "French Montana",
+        "song": "Unforgettable",
+        "songArtist": "UnforgettableFrench Montana",
+        "weekDiff": 5.75
+      },
+      {
+        "artist": "Post Malone",
+        "song": "Better Now",
+        "songArtist": "Better NowPost Malone",
+        "weekDiff": 5.53125
+      },
+      {
+        "artist": "XXXTENTACION",
+        "song": "SAD!",
+        "songArtist": "SAD!XXXTENTACION",
+        "weekDiff": 5.046875
+      }
+    ]
+  },
+  {
+    "country": "it",
+    "songs": [
+      {
+        "artist": "Clean Bandit",
+        "song": "Rockabye (feat. Sean Paul & Anne-Marie)",
+        "songArtist": "Rockabye (feat. Sean Paul & Anne-Marie)Clean Bandit",
+        "weekDiff": 13.5
+      },
+      {
+        "artist": "Luis Fonsi",
+        "song": "Despacito (Featuring Daddy Yankee)",
+        "songArtist": "Despacito (Featuring Daddy Yankee)Luis Fonsi",
+        "weekDiff": 12.9375
+      },
+      {
+        "artist": "The Chainsmokers",
+        "song": "Something Just Like This",
+        "songArtist": "Something Just Like ThisThe Chainsmokers",
+        "weekDiff": 10.65625
+      },
+      {
+        "artist": "Imagine Dragons",
+        "song": "Thunder",
+        "songArtist": "ThunderImagine Dragons",
+        "weekDiff": 8.109375
+      },
+      {
+        "artist": "Nicky Jam",
+        "song": "X",
+        "songArtist": "XNicky Jam",
+        "weekDiff": 7.765625
+      },
+      {
+        "artist": "Maroon 5",
+        "song": "Don't Wanna Know",
+        "songArtist": "Don't Wanna KnowMaroon 5",
+        "weekDiff": 4.59375
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "Perfect",
+        "songArtist": "PerfectEd Sheeran",
+        "weekDiff": 4.34375
+      },
+      {
+        "artist": "Kygo",
+        "song": "It Ain't Me (with Selena Gomez)",
+        "songArtist": "It Ain't Me (with Selena Gomez)Kygo",
+        "weekDiff": 3.453125
+      },
+      {
+        "artist": "Post Malone",
+        "song": "rockstar",
+        "songArtist": "rockstarPost Malone",
+        "weekDiff": 2.796875
+      },
+      {
+        "artist": "DJ Snake",
+        "song": "Let Me Love You",
+        "songArtist": "Let Me Love YouDJ Snake",
+        "weekDiff": 2.71875
+      }
+    ]
+  },
+  {
+    "country": "jp",
+    "songs": [
+      {
+        "artist": "Ed Sheeran",
+        "song": "Shape of You",
+        "songArtist": "Shape of YouEd Sheeran",
+        "weekDiff": 36.328125
+      },
+      {
+        "artist": "Selena Gomez",
+        "song": "Wolves",
+        "songArtist": "WolvesSelena Gomez",
+        "weekDiff": 15.359375
+      },
+      {
+        "artist": "Maroon 5",
+        "song": "What Lovers Do (feat. SZA)",
+        "songArtist": "What Lovers Do (feat. SZA)Maroon 5",
+        "weekDiff": 13.546875
+      },
+      {
+        "artist": "Zedd",
+        "song": "The Middle",
+        "songArtist": "The MiddleZedd",
+        "weekDiff": 12.46875
+      },
+      {
+        "artist": "Dua Lipa",
+        "song": "New Rules",
+        "songArtist": "New RulesDua Lipa",
+        "weekDiff": 11.328125
+      },
+      {
+        "artist": "Camila Cabello",
+        "song": "Havana",
+        "songArtist": "HavanaCamila Cabello",
+        "weekDiff": 8.53125
+      },
+      {
+        "artist": "Justin Bieber",
+        "song": "Friends (with BloodPop®)",
+        "songArtist": "Friends (with BloodPop®)Justin Bieber",
+        "weekDiff": 7.078125
+      },
+      {
+        "artist": "Ariana Grande",
+        "song": "no tears left to cry",
+        "songArtist": "no tears left to cryAriana Grande",
+        "weekDiff": 6.734375
+      },
+      {
+        "artist": "Taylor Swift",
+        "song": "Look What You Made Me Do",
+        "songArtist": "Look What You Made Me DoTaylor Swift",
+        "weekDiff": 6.71875
+      },
+      {
+        "artist": "DJ Khaled",
+        "song": "No Brainer",
+        "songArtist": "No BrainerDJ Khaled",
+        "weekDiff": 4.765625
+      }
+    ]
+  },
+  {
+    "country": "lt",
+    "songs": [
+      {
+        "artist": "Post Malone",
+        "song": "rockstar",
+        "songArtist": "rockstarPost Malone",
+        "weekDiff": 10.796875
+      },
+      {
+        "artist": "Camila Cabello",
+        "song": "Havana",
+        "songArtist": "HavanaCamila Cabello",
+        "weekDiff": 10.53125
+      },
+      {
+        "artist": "Dua Lipa",
+        "song": "New Rules",
+        "songArtist": "New RulesDua Lipa",
+        "weekDiff": 10.328125
+      },
+      {
+        "artist": "Dynoro",
+        "song": "In My Mind",
+        "songArtist": "In My MindDynoro",
+        "weekDiff": 9.796875
+      },
+      {
+        "artist": "Kendrick Lamar",
+        "song": "All The Stars (with SZA)",
+        "songArtist": "All The Stars (with SZA)Kendrick Lamar",
+        "weekDiff": 9.78125
+      },
+      {
+        "artist": "Maroon 5",
+        "song": "What Lovers Do (feat. SZA)",
+        "songArtist": "What Lovers Do (feat. SZA)Maroon 5",
+        "weekDiff": 9.546875
+      },
+      {
+        "artist": "Julia Michaels",
+        "song": "Issues",
+        "songArtist": "IssuesJulia Michaels",
+        "weekDiff": 9.4375
+      },
+      {
+        "artist": "Clean Bandit",
+        "song": "Solo (feat. Demi Lovato)",
+        "songArtist": "Solo (feat. Demi Lovato)Clean Bandit",
+        "weekDiff": 9.375
+      },
+      {
+        "artist": "Imagine Dragons",
+        "song": "Thunder",
+        "songArtist": "ThunderImagine Dragons",
+        "weekDiff": 9.109375
+      },
+      {
+        "artist": "Calvin Harris",
+        "song": "One Kiss (with Dua Lipa)",
+        "songArtist": "One Kiss (with Dua Lipa)Calvin Harris",
+        "weekDiff": 8.28125
+      }
+    ]
+  },
+  {
+    "country": "lu",
+    "songs": [
+      {
+        "artist": "Post Malone",
+        "song": "rockstar",
+        "songArtist": "rockstarPost Malone",
+        "weekDiff": 15.796875
+      },
+      {
+        "artist": "French Montana",
+        "song": "Unforgettable",
+        "songArtist": "UnforgettableFrench Montana",
+        "weekDiff": 13.75
+      },
+      {
+        "artist": "Marshmello",
+        "song": "Silence",
+        "songArtist": "SilenceMarshmello",
+        "weekDiff": 12.140625
+      },
+      {
+        "artist": "Drake",
+        "song": "God's Plan",
+        "songArtist": "God's PlanDrake",
+        "weekDiff": 11.234375
+      },
+      {
+        "artist": "Camila Cabello",
+        "song": "Havana",
+        "songArtist": "HavanaCamila Cabello",
+        "weekDiff": 10.53125
+      },
+      {
+        "artist": "Luis Fonsi",
+        "song": "Despacito (Featuring Daddy Yankee)",
+        "songArtist": "Despacito (Featuring Daddy Yankee)Luis Fonsi",
+        "weekDiff": 9.9375
+      },
+      {
+        "artist": "Dynoro",
+        "song": "In My Mind",
+        "songArtist": "In My MindDynoro",
+        "weekDiff": 9.796875
+      },
+      {
+        "artist": "Maroon 5",
+        "song": "Girls Like You (feat. Cardi B)",
+        "songArtist": "Girls Like You (feat. Cardi B)Maroon 5",
+        "weekDiff": 9.15625
+      },
+      {
+        "artist": "Clean Bandit",
+        "song": "Solo (feat. Demi Lovato)",
+        "songArtist": "Solo (feat. Demi Lovato)Clean Bandit",
+        "weekDiff": 8.375
+      },
+      {
+        "artist": "Future",
+        "song": "Mask Off",
+        "songArtist": "Mask OffFuture",
+        "weekDiff": 7.578125
+      }
+    ]
+  },
+  {
+    "country": "lv",
+    "songs": [
+      {
+        "artist": "Post Malone",
+        "song": "rockstar",
+        "songArtist": "rockstarPost Malone",
+        "weekDiff": 18.796875
+      },
+      {
+        "artist": "Post Malone",
+        "song": "I Fall Apart",
+        "songArtist": "I Fall ApartPost Malone",
+        "weekDiff": 14.703125
+      },
+      {
+        "artist": "Imagine Dragons",
+        "song": "Thunder",
+        "songArtist": "ThunderImagine Dragons",
+        "weekDiff": 14.109375
+      },
+      {
+        "artist": "XXXTENTACION",
+        "song": "SAD!",
+        "songArtist": "SAD!XXXTENTACION",
+        "weekDiff": 10.046875
+      },
+      {
+        "artist": "Dynoro",
+        "song": "In My Mind",
+        "songArtist": "In My MindDynoro",
+        "weekDiff": 9.796875
+      },
+      {
+        "artist": "French Montana",
+        "song": "Unforgettable",
+        "songArtist": "UnforgettableFrench Montana",
+        "weekDiff": 9.75
+      },
+      {
+        "artist": "Post Malone",
+        "song": "Better Now",
+        "songArtist": "Better NowPost Malone",
+        "weekDiff": 9.53125
+      },
+      {
+        "artist": "Drake",
+        "song": "God's Plan",
+        "songArtist": "God's PlanDrake",
+        "weekDiff": 9.234375
+      },
+      {
+        "artist": "Kendrick Lamar",
+        "song": "HUMBLE.",
+        "songArtist": "HUMBLE.Kendrick Lamar",
+        "weekDiff": 8.984375
+      },
+      {
+        "artist": "Juice WRLD",
+        "song": "Lucid Dreams",
+        "songArtist": "Lucid DreamsJuice WRLD",
+        "weekDiff": 8.796875
+      }
+    ]
+  },
+  {
+    "country": "mt",
+    "songs": [
+      {
+        "artist": "Marshmello",
+        "song": "Silence",
+        "songArtist": "SilenceMarshmello",
+        "weekDiff": 12.140625
+      },
+      {
+        "artist": "Cardi B",
+        "song": "I Like It",
+        "songArtist": "I Like ItCardi B",
+        "weekDiff": 11.25
+      },
+      {
+        "artist": "Camila Cabello",
+        "song": "Havana",
+        "songArtist": "HavanaCamila Cabello",
+        "weekDiff": 10.53125
+      },
+      {
+        "artist": "Post Malone",
+        "song": "rockstar",
+        "songArtist": "rockstarPost Malone",
+        "weekDiff": 9.796875
+      },
+      {
+        "artist": "Dua Lipa",
+        "song": "New Rules",
+        "songArtist": "New RulesDua Lipa",
+        "weekDiff": 9.328125
+      },
+      {
+        "artist": "Dua Lipa",
+        "song": "IDGAF",
+        "songArtist": "IDGAFDua Lipa",
+        "weekDiff": 8.3125
+      },
+      {
+        "artist": "Calvin Harris",
+        "song": "One Kiss (with Dua Lipa)",
+        "songArtist": "One Kiss (with Dua Lipa)Calvin Harris",
+        "weekDiff": 8.28125
+      },
+      {
+        "artist": "Drake",
+        "song": "God's Plan",
+        "songArtist": "God's PlanDrake",
+        "weekDiff": 8.234375
+      },
+      {
+        "artist": "Maroon 5",
+        "song": "Girls Like You (feat. Cardi B)",
+        "songArtist": "Girls Like You (feat. Cardi B)Maroon 5",
+        "weekDiff": 8.15625
+      },
+      {
+        "artist": "Clean Bandit",
+        "song": "Solo (feat. Demi Lovato)",
+        "songArtist": "Solo (feat. Demi Lovato)Clean Bandit",
+        "weekDiff": 7.375
+      }
+    ]
+  },
+  {
+    "country": "mx",
+    "songs": [
+      {
+        "artist": "Nio Garcia",
+        "song": "Te Boté - Remix",
+        "songArtist": "Te Boté - RemixNio Garcia",
+        "weekDiff": 17.234375
+      },
+      {
+        "artist": "Nicky Jam",
+        "song": "X",
+        "songArtist": "XNicky Jam",
+        "weekDiff": 12.765625
+      },
+      {
+        "artist": "Luis Fonsi",
+        "song": "Despacito (Featuring Daddy Yankee)",
+        "songArtist": "Despacito (Featuring Daddy Yankee)Luis Fonsi",
+        "weekDiff": 10.9375
+      },
+      {
+        "artist": "Luis Fonsi",
+        "song": "Échame La Culpa",
+        "songArtist": "Échame La CulpaLuis Fonsi",
+        "weekDiff": 10.5625
+      },
+      {
+        "artist": "Daddy Yankee",
+        "song": "Dura",
+        "songArtist": "DuraDaddy Yankee",
+        "weekDiff": 10.1875
+      },
+      {
+        "artist": "J Balvin",
+        "song": "Mi Gente",
+        "songArtist": "Mi GenteJ Balvin",
+        "weekDiff": 6.703125
+      },
+      {
+        "artist": "Bad Bunny",
+        "song": "Amorfoda",
+        "songArtist": "AmorfodaBad Bunny",
+        "weekDiff": 5.796875
+      },
+      {
+        "artist": "Calvin Harris",
+        "song": "One Kiss (with Dua Lipa)",
+        "songArtist": "One Kiss (with Dua Lipa)Calvin Harris",
+        "weekDiff": 5.28125
+      },
+      {
+        "artist": "DJ Snake",
+        "song": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
+        "songArtist": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)DJ Snake",
+        "weekDiff": 1.890625
+      },
+      {
+        "artist": "DJ Snake",
+        "song": "Let Me Love You",
+        "songArtist": "Let Me Love YouDJ Snake",
+        "weekDiff": 1.71875
+      }
+    ]
+  },
+  {
+    "country": "my",
+    "songs": [
+      {
+        "artist": "Ed Sheeran",
+        "song": "Perfect",
+        "songArtist": "PerfectEd Sheeran",
+        "weekDiff": 17.34375
+      },
+      {
+        "artist": "Maroon 5",
+        "song": "What Lovers Do (feat. SZA)",
+        "songArtist": "What Lovers Do (feat. SZA)Maroon 5",
+        "weekDiff": 15.546875
+      },
+      {
+        "artist": "James Arthur",
+        "song": "Say You Won't Let Go",
+        "songArtist": "Say You Won't Let GoJames Arthur",
+        "weekDiff": 14.515625
+      },
+      {
+        "artist": "Selena Gomez",
+        "song": "Wolves",
+        "songArtist": "WolvesSelena Gomez",
+        "weekDiff": 14.359375
+      },
+      {
+        "artist": "Camila Cabello",
+        "song": "Havana",
+        "songArtist": "HavanaCamila Cabello",
+        "weekDiff": 12.53125
+      },
+      {
+        "artist": "Charlie Puth",
+        "song": "Attention",
+        "songArtist": "AttentionCharlie Puth",
+        "weekDiff": 12.328125
+      },
+      {
+        "artist": "The Chainsmokers",
+        "song": "Something Just Like This",
+        "songArtist": "Something Just Like ThisThe Chainsmokers",
+        "weekDiff": 11.65625
+      },
+      {
+        "artist": "Dua Lipa",
+        "song": "New Rules",
+        "songArtist": "New RulesDua Lipa",
+        "weekDiff": 11.328125
+      },
+      {
+        "artist": "Bazzi",
+        "song": "Mine",
+        "songArtist": "MineBazzi",
+        "weekDiff": 11.0625
+      },
+      {
+        "artist": "ZAYN",
+        "song": "Dusk Till Dawn - Radio Edit",
+        "songArtist": "Dusk Till Dawn - Radio EditZAYN",
+        "weekDiff": 10.765625
+      }
+    ]
+  },
+  {
+    "country": "ni",
+    "songs": [
+      {
+        "artist": "Nio Garcia",
+        "song": "Te Boté - Remix",
+        "songArtist": "Te Boté - RemixNio Garcia",
+        "weekDiff": 22.234375
+      },
+      {
+        "artist": "Cardi B",
+        "song": "I Like It",
+        "songArtist": "I Like ItCardi B",
+        "weekDiff": 17.25
+      },
+      {
+        "artist": "Luis Fonsi",
+        "song": "Despacito (Featuring Daddy Yankee)",
+        "songArtist": "Despacito (Featuring Daddy Yankee)Luis Fonsi",
+        "weekDiff": 15.9375
+      },
+      {
+        "artist": "Nicky Jam",
+        "song": "X",
+        "songArtist": "XNicky Jam",
+        "weekDiff": 15.765625
+      },
+      {
+        "artist": "Daddy Yankee",
+        "song": "Dura",
+        "songArtist": "DuraDaddy Yankee",
+        "weekDiff": 11.1875
+      },
+      {
+        "artist": "Luis Fonsi",
+        "song": "Échame La Culpa",
+        "songArtist": "Échame La CulpaLuis Fonsi",
+        "weekDiff": 9.5625
+      },
+      {
+        "artist": "J Balvin",
+        "song": "Mi Gente",
+        "songArtist": "Mi GenteJ Balvin",
+        "weekDiff": 8.703125
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "Shape of You",
+        "songArtist": "Shape of YouEd Sheeran",
+        "weekDiff": 8.328125
+      },
+      {
+        "artist": "DJ Snake",
+        "song": "Let Me Love You",
+        "songArtist": "Let Me Love YouDJ Snake",
+        "weekDiff": 6.71875
+      },
+      {
+        "artist": "Bad Bunny",
+        "song": "Amorfoda",
+        "songArtist": "AmorfodaBad Bunny",
+        "weekDiff": 5.796875
+      }
+    ]
+  },
+  {
+    "country": "nl",
+    "songs": [
+      {
+        "artist": "Calvin Harris",
+        "song": "One Kiss (with Dua Lipa)",
+        "songArtist": "One Kiss (with Dua Lipa)Calvin Harris",
+        "weekDiff": 8.28125
+      },
+      {
+        "artist": "Jason Derulo",
+        "song": "Swalla (feat. Nicki Minaj & Ty Dolla $ign)",
+        "songArtist": "Swalla (feat. Nicki Minaj & Ty Dolla $ign)Jason Derulo",
+        "weekDiff": 6.578125
+      },
+      {
+        "artist": "Camila Cabello",
+        "song": "Havana",
+        "songArtist": "HavanaCamila Cabello",
+        "weekDiff": 5.53125
+      },
+      {
+        "artist": "James Arthur",
+        "song": "Say You Won't Let Go",
+        "songArtist": "Say You Won't Let GoJames Arthur",
+        "weekDiff": 5.515625
+      },
+      {
+        "artist": "Calvin Harris",
+        "song": "Promises (with Sam Smith)",
+        "songArtist": "Promises (with Sam Smith)Calvin Harris",
+        "weekDiff": 4.5625
+      },
+      {
+        "artist": "Clean Bandit",
+        "song": "Rockabye (feat. Sean Paul & Anne-Marie)",
+        "songArtist": "Rockabye (feat. Sean Paul & Anne-Marie)Clean Bandit",
+        "weekDiff": 4.5
+      },
+      {
+        "artist": "Kygo",
+        "song": "It Ain't Me (with Selena Gomez)",
+        "songArtist": "It Ain't Me (with Selena Gomez)Kygo",
+        "weekDiff": 4.453125
+      },
+      {
+        "artist": "Drake",
+        "song": "God's Plan",
+        "songArtist": "God's PlanDrake",
+        "weekDiff": 4.234375
+      },
+      {
+        "artist": "Dynoro",
+        "song": "In My Mind",
+        "songArtist": "In My MindDynoro",
+        "weekDiff": 3.796875
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "Castle on the Hill",
+        "songArtist": "Castle on the HillEd Sheeran",
+        "weekDiff": 3.78125
+      }
+    ]
+  },
+  {
+    "country": "no",
+    "songs": [
+      {
+        "artist": "5 Seconds of Summer",
+        "song": "Youngblood",
+        "songArtist": "Youngblood5 Seconds of Summer",
+        "weekDiff": 12.296875
+      },
+      {
+        "artist": "Rudimental",
+        "song": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",
+        "songArtist": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen)Rudimental",
+        "weekDiff": 12.078125
+      },
+      {
+        "artist": "Julia Michaels",
+        "song": "Issues",
+        "songArtist": "IssuesJulia Michaels",
+        "weekDiff": 9.4375
+      },
+      {
+        "artist": "Dynoro",
+        "song": "In My Mind",
+        "songArtist": "In My MindDynoro",
+        "weekDiff": 8.796875
+      },
+      {
+        "artist": "Post Malone",
+        "song": "Better Now",
+        "songArtist": "Better NowPost Malone",
+        "weekDiff": 8.53125
+      },
+      {
+        "artist": "Clean Bandit",
+        "song": "Solo (feat. Demi Lovato)",
+        "songArtist": "Solo (feat. Demi Lovato)Clean Bandit",
+        "weekDiff": 8.375
+      },
+      {
+        "artist": "NF",
+        "song": "Let You Down",
+        "songArtist": "Let You DownNF",
+        "weekDiff": 7.28125
+      },
+      {
+        "artist": "Marshmello",
+        "song": "Silence",
+        "songArtist": "SilenceMarshmello",
+        "weekDiff": 7.140625
+      },
+      {
+        "artist": "benny blanco",
+        "song": "Eastside (with Halsey & Khalid)",
+        "songArtist": "Eastside (with Halsey & Khalid)benny blanco",
+        "weekDiff": 6.8125
+      },
+      {
+        "artist": "Post Malone",
+        "song": "rockstar",
+        "songArtist": "rockstarPost Malone",
+        "weekDiff": 6.796875
+      }
+    ]
+  },
+  {
+    "country": "nz",
+    "songs": [
+      {
+        "artist": "Post Malone",
+        "song": "I Fall Apart",
+        "songArtist": "I Fall ApartPost Malone",
+        "weekDiff": 17.703125
+      },
+      {
+        "artist": "5 Seconds of Summer",
+        "song": "Youngblood",
+        "songArtist": "Youngblood5 Seconds of Summer",
+        "weekDiff": 13.296875
+      },
+      {
+        "artist": "Marshmello",
+        "song": "Silence",
+        "songArtist": "SilenceMarshmello",
+        "weekDiff": 13.140625
+      },
+      {
+        "artist": "Kendrick Lamar",
+        "song": "HUMBLE.",
+        "songArtist": "HUMBLE.Kendrick Lamar",
+        "weekDiff": 9.984375
+      },
+      {
+        "artist": "Bruno Mars",
+        "song": "That's What I Like",
+        "songArtist": "That's What I LikeBruno Mars",
+        "weekDiff": 9.953125
+      },
+      {
+        "artist": "benny blanco",
+        "song": "Eastside (with Halsey & Khalid)",
+        "songArtist": "Eastside (with Halsey & Khalid)benny blanco",
+        "weekDiff": 9.8125
+      },
+      {
+        "artist": "Post Malone",
+        "song": "Psycho (feat. Ty Dolla $ign)",
+        "songArtist": "Psycho (feat. Ty Dolla $ign)Post Malone",
+        "weekDiff": 9.25
+      },
+      {
+        "artist": "Maroon 5",
+        "song": "Girls Like You (feat. Cardi B)",
+        "songArtist": "Girls Like You (feat. Cardi B)Maroon 5",
+        "weekDiff": 9.15625
+      },
+      {
+        "artist": "Demi Lovato",
+        "song": "Sorry Not Sorry",
+        "songArtist": "Sorry Not SorryDemi Lovato",
+        "weekDiff": 9.0625
+      },
+      {
+        "artist": "Liam Payne",
+        "song": "Strip That Down",
+        "songArtist": "Strip That DownLiam Payne",
+        "weekDiff": 8.84375
+      }
+    ]
+  },
+  {
+    "country": "pa",
+    "songs": [
+      {
+        "artist": "Nio Garcia",
+        "song": "Te Boté - Remix",
+        "songArtist": "Te Boté - RemixNio Garcia",
+        "weekDiff": 17.234375
+      },
+      {
+        "artist": "Daddy Yankee",
+        "song": "Dura",
+        "songArtist": "DuraDaddy Yankee",
+        "weekDiff": 11.1875
+      },
+      {
+        "artist": "Nicky Jam",
+        "song": "X",
+        "songArtist": "XNicky Jam",
+        "weekDiff": 10.765625
+      },
+      {
+        "artist": "Luis Fonsi",
+        "song": "Despacito (Featuring Daddy Yankee)",
+        "songArtist": "Despacito (Featuring Daddy Yankee)Luis Fonsi",
+        "weekDiff": 9.9375
+      },
+      {
+        "artist": "Luis Fonsi",
+        "song": "Échame La Culpa",
+        "songArtist": "Échame La CulpaLuis Fonsi",
+        "weekDiff": 8.5625
+      },
+      {
+        "artist": "Cardi B",
+        "song": "I Like It",
+        "songArtist": "I Like ItCardi B",
+        "weekDiff": 8.25
+      },
+      {
+        "artist": "Bad Bunny",
+        "song": "Amorfoda",
+        "songArtist": "AmorfodaBad Bunny",
+        "weekDiff": 5.796875
+      },
+      {
+        "artist": "J Balvin",
+        "song": "Mi Gente",
+        "songArtist": "Mi GenteJ Balvin",
+        "weekDiff": 5.703125
+      },
+      {
+        "artist": "DJ Snake",
+        "song": "Let Me Love You",
+        "songArtist": "Let Me Love YouDJ Snake",
+        "weekDiff": 2.71875
+      },
+      {
+        "artist": "DJ Snake",
+        "song": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
+        "songArtist": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)DJ Snake",
+        "weekDiff": 1.890625
+      }
+    ]
+  },
+  {
+    "country": "pe",
+    "songs": [
+      {
+        "artist": "Nio Garcia",
+        "song": "Te Boté - Remix",
+        "songArtist": "Te Boté - RemixNio Garcia",
+        "weekDiff": 17.234375
+      },
+      {
+        "artist": "Luis Fonsi",
+        "song": "Échame La Culpa",
+        "songArtist": "Échame La CulpaLuis Fonsi",
+        "weekDiff": 15.5625
+      },
+      {
+        "artist": "Luis Fonsi",
+        "song": "Despacito (Featuring Daddy Yankee)",
+        "songArtist": "Despacito (Featuring Daddy Yankee)Luis Fonsi",
+        "weekDiff": 13.9375
+      },
+      {
+        "artist": "Nicky Jam",
+        "song": "X",
+        "songArtist": "XNicky Jam",
+        "weekDiff": 11.765625
+      },
+      {
+        "artist": "Daddy Yankee",
+        "song": "Dura",
+        "songArtist": "DuraDaddy Yankee",
+        "weekDiff": 11.1875
+      },
+      {
+        "artist": "J Balvin",
+        "song": "Mi Gente",
+        "songArtist": "Mi GenteJ Balvin",
+        "weekDiff": 7.703125
+      },
+      {
+        "artist": "Bad Bunny",
+        "song": "Amorfoda",
+        "songArtist": "AmorfodaBad Bunny",
+        "weekDiff": 5.796875
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "Shape of You",
+        "songArtist": "Shape of YouEd Sheeran",
+        "weekDiff": 4.328125
+      },
+      {
+        "artist": "DJ Snake",
+        "song": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
+        "songArtist": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)DJ Snake",
+        "weekDiff": 1.890625
+      },
+      {
+        "artist": "DJ Snake",
+        "song": "Let Me Love You",
+        "songArtist": "Let Me Love YouDJ Snake",
+        "weekDiff": 1.71875
+      }
+    ]
+  },
+  {
+    "country": "ph",
+    "songs": [
+      {
+        "artist": "James Arthur",
+        "song": "Say You Won't Let Go",
+        "songArtist": "Say You Won't Let GoJames Arthur",
+        "weekDiff": 18.515625
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "Perfect",
+        "songArtist": "PerfectEd Sheeran",
+        "weekDiff": 17.34375
+      },
+      {
+        "artist": "Bruno Mars",
+        "song": "That's What I Like",
+        "songArtist": "That's What I LikeBruno Mars",
+        "weekDiff": 16.953125
+      },
+      {
+        "artist": "Maroon 5",
+        "song": "What Lovers Do (feat. SZA)",
+        "songArtist": "What Lovers Do (feat. SZA)Maroon 5",
+        "weekDiff": 16.546875
+      },
+      {
+        "artist": "Dua Lipa",
+        "song": "IDGAF",
+        "songArtist": "IDGAFDua Lipa",
+        "weekDiff": 14.3125
+      },
+      {
+        "artist": "Zedd",
+        "song": "The Middle",
+        "songArtist": "The MiddleZedd",
+        "weekDiff": 13.46875
+      },
+      {
+        "artist": "Sam Smith",
+        "song": "Too Good At Goodbyes",
+        "songArtist": "Too Good At GoodbyesSam Smith",
+        "weekDiff": 12.578125
+      },
+      {
+        "artist": "Liam Payne",
+        "song": "Strip That Down",
+        "songArtist": "Strip That DownLiam Payne",
+        "weekDiff": 11.84375
+      },
+      {
+        "artist": "The Chainsmokers",
+        "song": "Something Just Like This",
+        "songArtist": "Something Just Like ThisThe Chainsmokers",
+        "weekDiff": 10.65625
+      },
+      {
+        "artist": "Lil Dicky",
+        "song": "Freaky Friday (feat. Chris Brown)",
+        "songArtist": "Freaky Friday (feat. Chris Brown)Lil Dicky",
+        "weekDiff": 9.78125
+      }
+    ]
+  },
+  {
+    "country": "pl",
+    "songs": [
+      {
+        "artist": "Imagine Dragons",
+        "song": "Thunder",
+        "songArtist": "ThunderImagine Dragons",
+        "weekDiff": 18.109375
+      },
+      {
+        "artist": "Post Malone",
+        "song": "rockstar",
+        "songArtist": "rockstarPost Malone",
+        "weekDiff": 12.796875
+      },
+      {
+        "artist": "Camila Cabello",
+        "song": "Havana",
+        "songArtist": "HavanaCamila Cabello",
+        "weekDiff": 11.53125
+      },
+      {
+        "artist": "Dua Lipa",
+        "song": "New Rules",
+        "songArtist": "New RulesDua Lipa",
+        "weekDiff": 8.328125
+      },
+      {
+        "artist": "Shawn Mendes",
+        "song": "There's Nothing Holdin' Me Back",
+        "songArtist": "There's Nothing Holdin' Me BackShawn Mendes",
+        "weekDiff": 7.953125
+      },
+      {
+        "artist": "Dynoro",
+        "song": "In My Mind",
+        "songArtist": "In My MindDynoro",
+        "weekDiff": 7.796875
+      },
+      {
+        "artist": "Selena Gomez",
+        "song": "Wolves",
+        "songArtist": "WolvesSelena Gomez",
+        "weekDiff": 7.359375
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "Shape of You",
+        "songArtist": "Shape of YouEd Sheeran",
+        "weekDiff": 7.328125
+      },
+      {
+        "artist": "ZAYN",
+        "song": "I Don’t Wanna Live Forever (Fifty Shades Darker) - From \"Fifty Shades Darker (Original Motion Picture Soundtrack)\"",
+        "songArtist": "I Don’t Wanna Live Forever (Fifty Shades Darker) - From \"Fifty Shades Darker (Original Motion Picture Soundtrack)\"ZAYN",
+        "weekDiff": 7.21875
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "Castle on the Hill",
+        "songArtist": "Castle on the HillEd Sheeran",
+        "weekDiff": 6.78125
+      }
+    ]
+  },
+  {
+    "country": "pt",
+    "songs": [
+      {
+        "artist": "Juice WRLD",
+        "song": "Lucid Dreams",
+        "songArtist": "Lucid DreamsJuice WRLD",
+        "weekDiff": 15.796875
+      },
+      {
+        "artist": "Post Malone",
+        "song": "rockstar",
+        "songArtist": "rockstarPost Malone",
+        "weekDiff": 15.796875
+      },
+      {
+        "artist": "French Montana",
+        "song": "Unforgettable",
+        "songArtist": "UnforgettableFrench Montana",
+        "weekDiff": 14.75
+      },
+      {
+        "artist": "Luis Fonsi",
+        "song": "Échame La Culpa",
+        "songArtist": "Échame La CulpaLuis Fonsi",
+        "weekDiff": 12.5625
+      },
+      {
+        "artist": "Drake",
+        "song": "God's Plan",
+        "songArtist": "God's PlanDrake",
+        "weekDiff": 12.234375
+      },
+      {
+        "artist": "XXXTENTACION",
+        "song": "SAD!",
+        "songArtist": "SAD!XXXTENTACION",
+        "weekDiff": 12.046875
+      },
+      {
+        "artist": "Luis Fonsi",
+        "song": "Despacito (Featuring Daddy Yankee)",
+        "songArtist": "Despacito (Featuring Daddy Yankee)Luis Fonsi",
+        "weekDiff": 11.9375
+      },
+      {
+        "artist": "Nicky Jam",
+        "song": "X",
+        "songArtist": "XNicky Jam",
+        "weekDiff": 9.765625
+      },
+      {
+        "artist": "Post Malone",
+        "song": "Better Now",
+        "songArtist": "Better NowPost Malone",
+        "weekDiff": 9.53125
+      },
+      {
+        "artist": "Dua Lipa",
+        "song": "New Rules",
+        "songArtist": "New RulesDua Lipa",
+        "weekDiff": 9.328125
+      }
+    ]
+  },
+  {
+    "country": "py",
+    "songs": [
+      {
+        "artist": "Nio Garcia",
+        "song": "Te Boté - Remix",
+        "songArtist": "Te Boté - RemixNio Garcia",
+        "weekDiff": 13.234375
+      },
+      {
+        "artist": "Nicky Jam",
+        "song": "X",
+        "songArtist": "XNicky Jam",
+        "weekDiff": 9.765625
+      },
+      {
+        "artist": "Daddy Yankee",
+        "song": "Dura",
+        "songArtist": "DuraDaddy Yankee",
+        "weekDiff": 7.1875
+      },
+      {
+        "artist": "Luis Fonsi",
+        "song": "Despacito (Featuring Daddy Yankee)",
+        "songArtist": "Despacito (Featuring Daddy Yankee)Luis Fonsi",
+        "weekDiff": 6.9375
+      },
+      {
+        "artist": "Bad Bunny",
+        "song": "Amorfoda",
+        "songArtist": "AmorfodaBad Bunny",
+        "weekDiff": 5.796875
+      },
+      {
+        "artist": "J Balvin",
+        "song": "Mi Gente",
+        "songArtist": "Mi GenteJ Balvin",
+        "weekDiff": 4.703125
+      },
+      {
+        "artist": "Luis Fonsi",
+        "song": "Échame La Culpa",
+        "songArtist": "Échame La CulpaLuis Fonsi",
+        "weekDiff": 4.5625
+      },
+      {
+        "artist": "Bad Bunny",
+        "song": "MIA (feat. Drake)",
+        "songArtist": "MIA (feat. Drake)Bad Bunny",
+        "weekDiff": 1.609375
+      },
+      {
+        "artist": "DJ Snake",
+        "song": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
+        "songArtist": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)DJ Snake",
+        "weekDiff": 0.890625
+      },
+      {
+        "artist": "DJ Snake",
+        "song": "Let Me Love You",
+        "songArtist": "Let Me Love YouDJ Snake",
+        "weekDiff": 0.71875
+      }
+    ]
+  },
+  {
+    "country": "ro",
+    "songs": [
+      {
+        "artist": "XXXTENTACION",
+        "song": "Moonlight",
+        "songArtist": "MoonlightXXXTENTACION",
+        "weekDiff": 12.203125
+      },
+      {
+        "artist": "XXXTENTACION",
+        "song": "SAD!",
+        "songArtist": "SAD!XXXTENTACION",
+        "weekDiff": 11.046875
+      },
+      {
+        "artist": "Tyga",
+        "song": "Taste (feat. Offset)",
+        "songArtist": "Taste (feat. Offset)Tyga",
+        "weekDiff": 10.8125
+      },
+      {
+        "artist": "Travis Scott",
+        "song": "SICKO MODE",
+        "songArtist": "SICKO MODETravis Scott",
+        "weekDiff": 9.421875
+      },
+      {
+        "artist": "Clean Bandit",
+        "song": "Solo (feat. Demi Lovato)",
+        "songArtist": "Solo (feat. Demi Lovato)Clean Bandit",
+        "weekDiff": 6.375
+      },
+      {
+        "artist": "The Weeknd",
+        "song": "Call Out My Name",
+        "songArtist": "Call Out My NameThe Weeknd",
+        "weekDiff": 5.65625
+      },
+      {
+        "artist": "Cardi B",
+        "song": "I Like It",
+        "songArtist": "I Like ItCardi B",
+        "weekDiff": 5.25
+      },
+      {
+        "artist": "Eminem",
+        "song": "Lucky You (feat. Joyner Lucas)",
+        "songArtist": "Lucky You (feat. Joyner Lucas)Eminem",
+        "weekDiff": 4.8125
+      },
+      {
+        "artist": "BlocBoy JB",
+        "song": "Look Alive (feat. Drake)",
+        "songArtist": "Look Alive (feat. Drake)BlocBoy JB",
+        "weekDiff": 4.5625
+      },
+      {
+        "artist": "6ix9ine",
+        "song": "FEFE (feat. Nicki Minaj & Murda Beatz)",
+        "songArtist": "FEFE (feat. Nicki Minaj & Murda Beatz)6ix9ine",
+        "weekDiff": 4.34375
+      }
+    ]
+  },
+  {
+    "country": "se",
+    "songs": [
+      {
+        "artist": "Post Malone",
+        "song": "rockstar",
+        "songArtist": "rockstarPost Malone",
+        "weekDiff": 10.796875
+      },
+      {
+        "artist": "ZAYN",
+        "song": "Dusk Till Dawn - Radio Edit",
+        "songArtist": "Dusk Till Dawn - Radio EditZAYN",
+        "weekDiff": 10.765625
+      },
+      {
+        "artist": "Rudimental",
+        "song": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",
+        "songArtist": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen)Rudimental",
+        "weekDiff": 10.078125
+      },
+      {
+        "artist": "Dynoro",
+        "song": "In My Mind",
+        "songArtist": "In My MindDynoro",
+        "weekDiff": 8.796875
+      },
+      {
+        "artist": "NF",
+        "song": "Let You Down",
+        "songArtist": "Let You DownNF",
+        "weekDiff": 8.28125
+      },
+      {
+        "artist": "Clean Bandit",
+        "song": "Solo (feat. Demi Lovato)",
+        "songArtist": "Solo (feat. Demi Lovato)Clean Bandit",
+        "weekDiff": 7.375
+      },
+      {
+        "artist": "Marshmello",
+        "song": "Silence",
+        "songArtist": "SilenceMarshmello",
+        "weekDiff": 7.140625
+      },
+      {
+        "artist": "Luis Fonsi",
+        "song": "Despacito - Remix",
+        "songArtist": "Despacito - RemixLuis Fonsi",
+        "weekDiff": 7
+      },
+      {
+        "artist": "Eminem",
+        "song": "River (feat. Ed Sheeran)",
+        "songArtist": "River (feat. Ed Sheeran)Eminem",
+        "weekDiff": 6.46875
+      },
+      {
+        "artist": "Logic",
+        "song": "1-800-273-8255",
+        "songArtist": "1-800-273-8255Logic",
+        "weekDiff": 6.109375
+      }
+    ]
+  },
+  {
+    "country": "sg",
+    "songs": [
+      {
+        "artist": "Ed Sheeran",
+        "song": "Perfect",
+        "songArtist": "PerfectEd Sheeran",
+        "weekDiff": 16.34375
+      },
+      {
+        "artist": "The Chainsmokers",
+        "song": "Something Just Like This",
+        "songArtist": "Something Just Like ThisThe Chainsmokers",
+        "weekDiff": 14.65625
+      },
+      {
+        "artist": "Charlie Puth",
+        "song": "Attention",
+        "songArtist": "AttentionCharlie Puth",
+        "weekDiff": 14.328125
+      },
+      {
+        "artist": "Maroon 5",
+        "song": "What Lovers Do (feat. SZA)",
+        "songArtist": "What Lovers Do (feat. SZA)Maroon 5",
+        "weekDiff": 13.546875
+      },
+      {
+        "artist": "Selena Gomez",
+        "song": "Wolves",
+        "songArtist": "WolvesSelena Gomez",
+        "weekDiff": 13.359375
+      },
+      {
+        "artist": "Camila Cabello",
+        "song": "Havana",
+        "songArtist": "HavanaCamila Cabello",
+        "weekDiff": 12.53125
+      },
+      {
+        "artist": "Dua Lipa",
+        "song": "New Rules",
+        "songArtist": "New RulesDua Lipa",
+        "weekDiff": 12.328125
+      },
+      {
+        "artist": "Zedd",
+        "song": "The Middle",
+        "songArtist": "The MiddleZedd",
+        "weekDiff": 11.46875
+      },
+      {
+        "artist": "Maroon 5",
+        "song": "Girls Like You (feat. Cardi B)",
+        "songArtist": "Girls Like You (feat. Cardi B)Maroon 5",
+        "weekDiff": 10.15625
+      },
+      {
+        "artist": "Bruno Mars",
+        "song": "That's What I Like",
+        "songArtist": "That's What I LikeBruno Mars",
+        "weekDiff": 9.953125
+      }
+    ]
+  },
+  {
+    "country": "sk",
+    "songs": [
+      {
+        "artist": "Imagine Dragons",
+        "song": "Thunder",
+        "songArtist": "ThunderImagine Dragons",
+        "weekDiff": 18.109375
+      },
+      {
+        "artist": "Post Malone",
+        "song": "rockstar",
+        "songArtist": "rockstarPost Malone",
+        "weekDiff": 12.796875
+      },
+      {
+        "artist": "Camila Cabello",
+        "song": "Havana",
+        "songArtist": "HavanaCamila Cabello",
+        "weekDiff": 10.53125
+      },
+      {
+        "artist": "Rudimental",
+        "song": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",
+        "songArtist": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen)Rudimental",
+        "weekDiff": 10.078125
+      },
+      {
+        "artist": "Dynoro",
+        "song": "In My Mind",
+        "songArtist": "In My MindDynoro",
+        "weekDiff": 9.796875
+      },
+      {
+        "artist": "Clean Bandit",
+        "song": "Solo (feat. Demi Lovato)",
+        "songArtist": "Solo (feat. Demi Lovato)Clean Bandit",
+        "weekDiff": 9.375
+      },
+      {
+        "artist": "Calvin Harris",
+        "song": "One Kiss (with Dua Lipa)",
+        "songArtist": "One Kiss (with Dua Lipa)Calvin Harris",
+        "weekDiff": 9.28125
+      },
+      {
+        "artist": "Shawn Mendes",
+        "song": "There's Nothing Holdin' Me Back",
+        "songArtist": "There's Nothing Holdin' Me BackShawn Mendes",
+        "weekDiff": 8.953125
+      },
+      {
+        "artist": "Dua Lipa",
+        "song": "New Rules",
+        "songArtist": "New RulesDua Lipa",
+        "weekDiff": 8.328125
+      },
+      {
+        "artist": "Dua Lipa",
+        "song": "IDGAF",
+        "songArtist": "IDGAFDua Lipa",
+        "weekDiff": 8.3125
+      }
+    ]
+  },
+  {
+    "country": "sv",
+    "songs": [
+      {
+        "artist": "Nio Garcia",
+        "song": "Te Boté - Remix",
+        "songArtist": "Te Boté - RemixNio Garcia",
+        "weekDiff": 18.234375
+      },
+      {
+        "artist": "Luis Fonsi",
+        "song": "Despacito (Featuring Daddy Yankee)",
+        "songArtist": "Despacito (Featuring Daddy Yankee)Luis Fonsi",
+        "weekDiff": 11.9375
+      },
+      {
+        "artist": "Nicky Jam",
+        "song": "X",
+        "songArtist": "XNicky Jam",
+        "weekDiff": 11.765625
+      },
+      {
+        "artist": "Daddy Yankee",
+        "song": "Dura",
+        "songArtist": "DuraDaddy Yankee",
+        "weekDiff": 11.1875
+      },
+      {
+        "artist": "Cardi B",
+        "song": "I Like It",
+        "songArtist": "I Like ItCardi B",
+        "weekDiff": 9.25
+      },
+      {
+        "artist": "Luis Fonsi",
+        "song": "Échame La Culpa",
+        "songArtist": "Échame La CulpaLuis Fonsi",
+        "weekDiff": 8.5625
+      },
+      {
+        "artist": "Bad Bunny",
+        "song": "Amorfoda",
+        "songArtist": "AmorfodaBad Bunny",
+        "weekDiff": 6.796875
+      },
+      {
+        "artist": "J Balvin",
+        "song": "Mi Gente",
+        "songArtist": "Mi GenteJ Balvin",
+        "weekDiff": 6.703125
+      },
+      {
+        "artist": "DJ Snake",
+        "song": "Let Me Love You",
+        "songArtist": "Let Me Love YouDJ Snake",
+        "weekDiff": 4.71875
+      },
+      {
+        "artist": "The Chainsmokers",
+        "song": "Closer",
+        "songArtist": "CloserThe Chainsmokers",
+        "weekDiff": 4.671875
+      }
+    ]
+  },
+  {
+    "country": "th",
+    "songs": [
+      {
+        "artist": "Maroon 5",
+        "song": "What Lovers Do (feat. SZA)",
+        "songArtist": "What Lovers Do (feat. SZA)Maroon 5",
+        "weekDiff": 14.546875
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "Perfect",
+        "songArtist": "PerfectEd Sheeran",
+        "weekDiff": 12.34375
+      },
+      {
+        "artist": "Sam Smith",
+        "song": "Too Good At Goodbyes",
+        "songArtist": "Too Good At GoodbyesSam Smith",
+        "weekDiff": 8.578125
+      },
+      {
+        "artist": "Selena Gomez",
+        "song": "Wolves",
+        "songArtist": "WolvesSelena Gomez",
+        "weekDiff": 7.359375
+      },
+      {
+        "artist": "Dua Lipa",
+        "song": "New Rules",
+        "songArtist": "New RulesDua Lipa",
+        "weekDiff": 7.328125
+      },
+      {
+        "artist": "Camila Cabello",
+        "song": "Havana",
+        "songArtist": "HavanaCamila Cabello",
+        "weekDiff": 6.53125
+      },
+      {
+        "artist": "Taylor Swift",
+        "song": "Look What You Made Me Do",
+        "songArtist": "Look What You Made Me DoTaylor Swift",
+        "weekDiff": 5.71875
+      },
+      {
+        "artist": "Sam Smith",
+        "song": "Too Good At Goodbyes - Edit",
+        "songArtist": "Too Good At Goodbyes - EditSam Smith",
+        "weekDiff": 4.734375
+      },
+      {
+        "artist": "Zedd",
+        "song": "The Middle",
+        "songArtist": "The MiddleZedd",
+        "weekDiff": 4.46875
+      },
+      {
+        "artist": "Maroon 5",
+        "song": "Girls Like You (feat. Cardi B)",
+        "songArtist": "Girls Like You (feat. Cardi B)Maroon 5",
+        "weekDiff": 4.15625
+      }
+    ]
+  },
+  {
+    "country": "tr",
+    "songs": [
+      {
+        "artist": "Clean Bandit",
+        "song": "Rockabye (feat. Sean Paul & Anne-Marie)",
+        "songArtist": "Rockabye (feat. Sean Paul & Anne-Marie)Clean Bandit",
+        "weekDiff": 15.5
+      },
+      {
+        "artist": "Dua Lipa",
+        "song": "New Rules",
+        "songArtist": "New RulesDua Lipa",
+        "weekDiff": 15.328125
+      },
+      {
+        "artist": "The Weeknd",
+        "song": "Starboy",
+        "songArtist": "StarboyThe Weeknd",
+        "weekDiff": 10
+      },
+      {
+        "artist": "Post Malone",
+        "song": "rockstar",
+        "songArtist": "rockstarPost Malone",
+        "weekDiff": 8.796875
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "Shape of You",
+        "songArtist": "Shape of YouEd Sheeran",
+        "weekDiff": 8.328125
+      },
+      {
+        "artist": "Calvin Harris",
+        "song": "One Kiss (with Dua Lipa)",
+        "songArtist": "One Kiss (with Dua Lipa)Calvin Harris",
+        "weekDiff": 7.28125
+      },
+      {
+        "artist": "Luis Fonsi",
+        "song": "Despacito - Remix",
+        "songArtist": "Despacito - RemixLuis Fonsi",
+        "weekDiff": 7
+      },
+      {
+        "artist": "Katy Perry",
+        "song": "Chained To The Rhythm",
+        "songArtist": "Chained To The RhythmKaty Perry",
+        "weekDiff": 6.484375
+      },
+      {
+        "artist": "Kygo",
+        "song": "It Ain't Me (with Selena Gomez)",
+        "songArtist": "It Ain't Me (with Selena Gomez)Kygo",
+        "weekDiff": 6.453125
+      },
+      {
+        "artist": "Marshmello",
+        "song": "FRIENDS",
+        "songArtist": "FRIENDSMarshmello",
+        "weekDiff": 4.859375
+      }
+    ]
+  },
+  {
+    "country": "tw",
+    "songs": [
+      {
+        "artist": "The Chainsmokers",
+        "song": "Something Just Like This",
+        "songArtist": "Something Just Like ThisThe Chainsmokers",
+        "weekDiff": 24.65625
+      },
+      {
+        "artist": "Maroon 5",
+        "song": "What Lovers Do (feat. SZA)",
+        "songArtist": "What Lovers Do (feat. SZA)Maroon 5",
+        "weekDiff": 13.546875
+      },
+      {
+        "artist": "Camila Cabello",
+        "song": "Havana",
+        "songArtist": "HavanaCamila Cabello",
+        "weekDiff": 13.53125
+      },
+      {
+        "artist": "Zedd",
+        "song": "The Middle",
+        "songArtist": "The MiddleZedd",
+        "weekDiff": 13.46875
+      },
+      {
+        "artist": "Zedd",
+        "song": "Stay (with Alessia Cara)",
+        "songArtist": "Stay (with Alessia Cara)Zedd",
+        "weekDiff": 11.953125
+      },
+      {
+        "artist": "Selena Gomez",
+        "song": "Wolves",
+        "songArtist": "WolvesSelena Gomez",
+        "weekDiff": 11.359375
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "Shape of You",
+        "songArtist": "Shape of YouEd Sheeran",
+        "weekDiff": 11.328125
+      },
+      {
+        "artist": "Maroon 5",
+        "song": "Girls Like You (feat. Cardi B)",
+        "songArtist": "Girls Like You (feat. Cardi B)Maroon 5",
+        "weekDiff": 10.15625
+      },
+      {
+        "artist": "The Chainsmokers",
+        "song": "Paris",
+        "songArtist": "ParisThe Chainsmokers",
+        "weekDiff": 8.671875
+      },
+      {
+        "artist": "Charlie Puth",
+        "song": "Attention",
+        "songArtist": "AttentionCharlie Puth",
+        "weekDiff": 8.328125
+      }
+    ]
+  },
+  {
+    "country": "uy",
+    "songs": [
+      {
+        "artist": "Nio Garcia",
+        "song": "Te Boté - Remix",
+        "songArtist": "Te Boté - RemixNio Garcia",
+        "weekDiff": 17.234375
+      },
+      {
+        "artist": "Luis Fonsi",
+        "song": "Échame La Culpa",
+        "songArtist": "Échame La CulpaLuis Fonsi",
+        "weekDiff": 12.5625
+      },
+      {
+        "artist": "Nicky Jam",
+        "song": "X",
+        "songArtist": "XNicky Jam",
+        "weekDiff": 11.765625
+      },
+      {
+        "artist": "Daddy Yankee",
+        "song": "Dura",
+        "songArtist": "DuraDaddy Yankee",
+        "weekDiff": 11.1875
+      },
+      {
+        "artist": "Luis Fonsi",
+        "song": "Despacito (Featuring Daddy Yankee)",
+        "songArtist": "Despacito (Featuring Daddy Yankee)Luis Fonsi",
+        "weekDiff": 10.9375
+      },
+      {
+        "artist": "J Balvin",
+        "song": "Mi Gente",
+        "songArtist": "Mi GenteJ Balvin",
+        "weekDiff": 6.703125
+      },
+      {
+        "artist": "Bad Bunny",
+        "song": "Amorfoda",
+        "songArtist": "AmorfodaBad Bunny",
+        "weekDiff": 5.796875
+      },
+      {
+        "artist": "Ed Sheeran",
+        "song": "Shape of You",
+        "songArtist": "Shape of YouEd Sheeran",
+        "weekDiff": 2.328125
+      },
+      {
+        "artist": "DJ Snake",
+        "song": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
+        "songArtist": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)DJ Snake",
+        "weekDiff": 1.890625
+      },
+      {
+        "artist": "Bad Bunny",
+        "song": "MIA (feat. Drake)",
+        "songArtist": "MIA (feat. Drake)Bad Bunny",
+        "weekDiff": 1.609375
+      }
+    ]
+  },
+  {
+    "country": "vn",
+    "songs": [
+      {
+        "artist": "Maroon 5",
+        "song": "Girls Like You (feat. Cardi B)",
+        "songArtist": "Girls Like You (feat. Cardi B)Maroon 5",
+        "weekDiff": 5.15625
+      },
+      {
+        "artist": "Khalid",
+        "song": "Better",
+        "songArtist": "BetterKhalid",
+        "weekDiff": 2.828125
+      },
+      {
+        "artist": "Lady Gaga",
+        "song": "Shallow",
+        "songArtist": "ShallowLady Gaga",
+        "weekDiff": 2.609375
+      },
+      {
+        "artist": "Ariana Grande",
+        "song": "God is a woman",
+        "songArtist": "God is a womanAriana Grande",
+        "weekDiff": 2.15625
+      },
+      {
+        "artist": "Halsey",
+        "song": "Without Me",
+        "songArtist": "Without MeHalsey",
+        "weekDiff": 1.984375
+      },
+      {
+        "artist": "Ariana Grande",
+        "song": "breathin",
+        "songArtist": "breathinAriana Grande",
+        "weekDiff": 0.125
+      },
+      {
+        "artist": "DJ Snake",
+        "song": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
+        "songArtist": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)DJ Snake",
+        "weekDiff": -0.109375
+      },
+      {
+        "artist": "Zedd",
+        "song": "The Middle",
+        "songArtist": "The MiddleZedd",
+        "weekDiff": -0.53125
+      },
+      {
+        "artist": "Drake",
+        "song": "Don’t Matter To Me",
+        "songArtist": "Don’t Matter To MeDrake",
+        "weekDiff": -0.640625
+      },
+      {
+        "artist": "Ariana Grande",
+        "song": "no tears left to cry",
+        "songArtist": "no tears left to cryAriana Grande",
+        "weekDiff": -1.265625
+      }
+    ]
+  },
+  {
+    "country": "za",
+    "songs": [
+      {
+        "artist": "5 Seconds of Summer",
+        "song": "Youngblood",
+        "songArtist": "Youngblood5 Seconds of Summer",
+        "weekDiff": 16.296875
+      },
+      {
+        "artist": "benny blanco",
+        "song": "Eastside (with Halsey & Khalid)",
+        "songArtist": "Eastside (with Halsey & Khalid)benny blanco",
+        "weekDiff": 9.8125
+      },
+      {
+        "artist": "Drake",
+        "song": "Nice For What",
+        "songArtist": "Nice For WhatDrake",
+        "weekDiff": 6.609375
+      },
+      {
+        "artist": "Maroon 5",
+        "song": "Girls Like You (feat. Cardi B)",
+        "songArtist": "Girls Like You (feat. Cardi B)Maroon 5",
+        "weekDiff": 6.15625
+      },
+      {
+        "artist": "Post Malone",
+        "song": "Psycho (feat. Ty Dolla $ign)",
+        "songArtist": "Psycho (feat. Ty Dolla $ign)Post Malone",
+        "weekDiff": 5.25
+      },
+      {
+        "artist": "XXXTENTACION",
+        "song": "SAD!",
+        "songArtist": "SAD!XXXTENTACION",
+        "weekDiff": 5.046875
+      },
+      {
+        "artist": "Drake",
+        "song": "In My Feelings",
+        "songArtist": "In My FeelingsDrake",
+        "weekDiff": 4.640625
+      },
+      {
+        "artist": "BlocBoy JB",
+        "song": "Look Alive (feat. Drake)",
+        "songArtist": "Look Alive (feat. Drake)BlocBoy JB",
+        "weekDiff": 4.5625
+      },
+      {
+        "artist": "Marshmello",
+        "song": "Happier",
+        "songArtist": "HappierMarshmello",
+        "weekDiff": 4.15625
+      },
+      {
+        "artist": "Drake",
+        "song": "Nonstop",
+        "songArtist": "NonstopDrake",
+        "weekDiff": 4.09375
+      }
+    ]
+  }
+]
